@@ -10,18 +10,20 @@ https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1,NHK WORLD 
 https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
 #EXTINF:-1,BBC News (North America) 
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
 #EXTINF:-1,CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1,SKY NEWS 
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/04_1080-30.m3u8
 #EXTINF:-1,France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1,DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,NHK WORLD 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1,VOA
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
+#EXTINF:-1,NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
-#EXTINF:-1,NHK JAPAN
+#EXTINF:-1,NHK WORLD PREMIUM
 https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
@@ -128,4 +130,39 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fashion TV 
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,RED BULL TV 
-https://list.iptvcat.com/my_list/s/3d36447b39d661b90b26aae405995d07.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,KBS
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1,Discovery
+https://v2.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=ei5UbmIMM3veDdU-rPRiKA&expires=1740018398&user_id=OFZpa3IxcDBwQkhYYnhCZzRDa1A1TmUwT296dFhmSlZaUzJOMkpCYw==
+#EXTINF:-1,HBO Eastern Feed 
+https://tvpass.org/live/HBOEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO 2 Eastern Feed 
+https://tvpass.org/live/HBO2East/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Comedy HD East 
+https://tvpass.org/live/HBOComedyEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Family Eastern Feed 
+https://tvpass.org/live/HBOFamilyEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO 2 Eastern Feed 
+https://tvpass.org/live/HBO2East/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Signature (HBO 3) Eastern 
+https://tvpass.org/live/HBOSignatureEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Zone HD East 
+https://tvpass.org/live/HBOZoneEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,Crime & Investigation Network
+https://tvpass.org/live/CrimePlusInvestigation/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,Discovery Family Channel 
+https://tvpass.org/live/DiscoveryFamily/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,Discovery Life Channel 
+https://tvpass.org/live/DiscoveryLife/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,History Channel 
+https://tvpass.org/live/HistoryEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,National Geographic 
+https://tvpass.org/live/NationalGeographicEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,National Geographic Wild 
+https://tvpass.org/live/NationalGeographicWildEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,NBA TV USA 
+https://tvpass.org/live/NBATV/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1 ,NFL Network 
+https://tvpass.org/live/NFLNetwork/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+
