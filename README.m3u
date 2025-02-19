@@ -1,84 +1,8 @@
 # iptv2025
 
 #EXTM3U
-#EXTINF:-1,ESPN 
-https://top2new.iosplayer.ru/top2/eplayerespn_usa/mono.m3u8
-#EXTINF:-1,ESPN 2 
-https://top2new.iosplayer.ru/top2/eplayerespn2_usa/mono.m3u8
-#EXTINF:-1,Fox Sports 1
-https://top2new.iosplayer.ru/top2/eplayerfs1/mono.m3u8
-#EXTINF:-1,Fox Sports 
-2https://top2new.iosplayer.ru/top2/eplayerfs2/mono.m3u8
-#EXTINF:-1,NBA TV
-https://hztnew.iosplayer.ru/hzt/nbatv/mono.m3u8
-#EXTINF:-1,NFL Network
-https://top2new.iosplayer.ru/top2/eplayerNFLNetwork/mono.m3u8
-#EXTINF:-1,NFL Redzone
-https://wikinew.iosplayer.ru/wiki/ustvnflredzone/mono.m3u8
-#EXTINF:-1,NHL Network
-https://top2new.iosplayer.ru/top2/nhlnet/mono.m3u8
-#EXTINF:-1,MLB Network
-https://wikinew.iosplayer.ru/wiki/ustvmlbnetwork/mono.m3u8
-#EXTINF:-1,CBS Sports Network
-https://wikinew.iosplayer.ru/wiki/ustvcbssn/mono.m3u8
-#EXTINF:-1,ESPN NEWS
-https://wikinew.iosplayer.ru/wiki/ustvespnews/mono.m3u8
-#EXTINF:-1,NBC Sports Bay Area
-https://wikinew.iosplayer.ru/wiki/nbcsa/mono.m3u8
-#EXTINF:-1,MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-#EXTINF:-1,MAV TV
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/mavtv/mono.m3u8
-#EXTINF:-1,Willow TV
-https://top2new.iosplayer.ru/top2/willowtvcricket/mono.m3u8
-#EXTINF:-1,Comedy Central
-https://wikinew.iosplayer.ru/wiki/ustvcomedycentral/mono.m3u8
-#EXTINF:-1,THE CW
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvcw/mono.m3u8
-#EXTINF:-1,Lifetime Movies Network
-https://top2new.iosplayer.ru/top2/ustvlifetimemovienetwork/mono.m3u8
-#EXTINF:-1,Cinemax
-https://wikinew.iosplayer.ru/wiki/ustvcinemax/mono.m3u8
-#EXTINF:-1,TLC
-https://wikinew.iosplayer.ru/wiki/ustvtlc/mono.m3u8
-#EXTINF:-1,HGTV
-https://top2new.iosplayer.ru/top2/ustvhgtv/mono.m3u8
-#EXTINF:-1,NBC
-https://hztnew.iosplayer.ru/hzt/ustvnbc/mono.m3u8
-#EXTINF:-1,HBO
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvhbo/mono.m3u8
-#EXTINF:-1,Showtime
-https://wikinew.iosplayer.ru/wiki/ustvshowtime/mono.m3u8
-#EXTINF:-1,Hallmark Movies & Mysteries TV
-https://wikinew.iosplayer.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8
-#EXTINF:-1,TBS
-https://wikinew.iosplayer.ru/wiki/tbs/mono.m3u8
-#EXTINF:-1,TNT
-https://top2new.iosplayer.ru/top2/ustvtnt/mono.m3u8
-#EXTINF:-1,CBS NY
-https://wikinew.iosplayer.ru/wiki/cbsny/mono.m3u8
-#EXTINF:-1,FXX
-https://top2new.iosplayer.ru/top2/fxx/mono.m3u8
-#EXTINF:-1,Disney Channel
-https://top2new.iosplayer.ru/top2/ustvdisney/mono.m3u8
-#EXTINF:-1,Disney Junior
-https://wikinew.iosplayer.ru/wiki/ustvdisneyjr/mono.m3u8
-#EXTINF:-1,BABY SHARK TV
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/1274fdb2-7a20-4f1e-b88a-db7b1fa3601a/2.m3u8
-#EXTINF:-1,MSNBC
-https://wikinew.iosplayer.ru/wiki/ustvmsnbc/mono.m3u8
-#EXTINF:-1,ABC News
-https://wikinew.iosplayer.ru/wiki/ustvabcnews/mono.m3u8
-#EXTINF:-1,History
-https://wikinew.iosplayer.ru/wiki/ustvhistory/mono.m3u8
-#EXTINF:-1,Discovery Channel
-https://wikinew.iosplayer.ru/wiki/ustvdiscoverychannel/mono.m3u
-#EXTINF:-1,Big Ten Network
-https://wikinew.iosplayer.ru/wiki/ustvbtn/mono.m3u8
 #EXTINF:-1,Disney XD
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1,Go USA
-https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u
 #EXTINF:-1,RTHK TV33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RTHK TV34
@@ -97,24 +21,44 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
 #EXTINF:-1,BBC EARTH
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=b96d2b1e-8fa2-48b8-9ed6-a0372e9944fe&ap.c=default_cohort&ap.ss=88538294cc22db5667bd4a3ce16b1ce2
-#EXTINF:-1,3HD
-https://cdn147.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/chunklist_w2006808688_b4800000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=479da85243&did=b2dEbmZSUS13R0JlTmZyZzc4NU9iamRXSWY4WW93b2s&mpass=I0OwFSynsVBVMC8eaNQxX0-GvXYtLaFBi6ucmfLMH2mgPd1HMQkZtqnw7Jk9sry1Mc-Um-iXlbijIikXd1-krEhIbRhU5PwqUg2OaCzAjpOTKnoeuLzELnsDLYgv1CpwICDAz3e5YlkX6qCunm_NPIjR&sid=3f821e3bf9&rt=1739882129&ds=86400&tk=Nm_kX1yqZQvruvDbuoVtlcaPbnPo55SzJUDO_EwuT4Y
-#EXTINF:-1,Workpoint TV 
-https://cdn147.stm.trueid.net/p202aes/d83_multi_w_auto_tidapp.smil/chunklist_w1437141693_b1800000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=42a0f312d8&did=ZUZYUnY2Z29KdXlxMHpJMEN3bGotYVN1bEN5OEgxUmg&mpass=a9skdbcaf8PgUvfOPgAT9U6t3YV_yU7U4siWX1_VtmWAdUo3sN5-ny3yLoOQedC1F-uNUzeRzFnDDuSlftOQcHuMqK7L6wbY1vpyYszrF6QF1jAuOretHLwfD-odSXCFICAt6bAhnO-d4VZJJFMoD73x&sid=fc57e2f086&rt=1739882926&ds=86400&tk=otTENsJh7xOJ3AkwVcI28zquztD2sGYOoQaDxRQM_tE
+#EXTINF:-1,翡翠台4K
+https://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=427052251152438
 #EXTINF:-1,翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1,明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1,黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1,鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1,PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1,Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8a
 #EXTINF:-1,Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8a
+#EXTINF:-1,Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1,ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1,France 24
@@ -129,3 +73,65 @@ http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1,AXN
 http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,MTV Live HD 音樂頻道
+https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
+#EXTINF:-1,BBC One
+http://92.114.85.81:8000/play/a001/index.m3u8
+#EXTINF:-1,BBC Two
+http://92.114.85.81:8000/play/a011/index.m3u8
+#EXTINF:-1,BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:-1,BBC News (North America) 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,CNN
+https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1,SKY NEWS 
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/04_1080-30.m3u8
+#EXTINF:-1,ABC NEWS
+https://content-ause1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&clancy=testlivechannel&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=a6d523c336784982915912082b814483&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3Da6d523c3-3678-4982-9159-12082b814483%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%26plt%3Dweb%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/video&pbs=3779a30ff22944cdbd11a03bbce997c3
+#EXTINF:-1,Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1,Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1,Syfy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,MTV2 
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1,Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1,MTV Classic 
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1,MTV Classic East 
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1,MTV Live 
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1,mtvU 
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1,AMC East 
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1,CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1,NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV 
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,Taiwan Plus TV 
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,Thai PBS 
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,NTV NEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1,NHK WORLD 
+https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
+#EXTINF:-1,RED BULL TV 
+https://list.iptvcat.com/my_list/s/3d36447b39d661b90b26aae405995d07.m3u8
