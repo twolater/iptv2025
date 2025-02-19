@@ -1,0 +1,167 @@
+# iptv2025
+
+#EXTM3U
+#EXTINF:-1,Taiwan Plus TV 
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,Thai PBS 
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,NTV NEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1,NHK WORLD 
+https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
+#EXTINF:-1,BBC News (North America) 
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
+#EXTINF:-1,CNN
+https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+#EXTINF:-1,SKY NEWS 
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/04_1080-30.m3u8
+#EXTINF:-1,France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1,VOA
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
+#EXTINF:-1,NHK WORLD JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
+#EXTINF:-1,NHK WORLD PREMIUM
+https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1,BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
+#EXTINF:-1,BBC EARTH
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=b96d2b1e-8fa2-48b8-9ed6-a0372e9944fe&ap.c=default_cohort&ap.ss=88538294cc22db5667bd4a3ce16b1ce2
+#EXTINF:-1,翡翠台4K
+https://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=427052251152438
+#EXTINF:-1,翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1,明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1,黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1,美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,RTHK TV33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1,RTHK TV34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1,RTHK TV35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+#EXTINF:-1,PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1,Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8a
+#EXTINF:-1,Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8a
+#EXTINF:-1,Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,MTV Live HD 音樂頻道
+https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
+#EXTINF:-1,BBC One
+http://92.114.85.81:8000/play/a001/index.m3u8
+#EXTINF:-1,BBC Two
+http://92.114.85.81:8000/play/a011/index.m3u8
+#EXTINF:-1,BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:-1,Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1,Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1,Syfy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,MTV2 
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1,MTV Classic 
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1,MTV Classic East 
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1,MTV Live 
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1,mtvU 
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1,AMC East 
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1,Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1,CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1,NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV 
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,KBS
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1,Discovery
+https://v2.thetvapp.to/hls/DiscoveryChannelEast/tracks-v1a1/mono.m3u8?token=ei5UbmIMM3veDdU-rPRiKA&expires=1740018398&user_id=OFZpa3IxcDBwQkhYYnhCZzRDa1A1TmUwT296dFhmSlZaUzJOMkpCYw==
+#EXTINF:-1,HBO Eastern Feed 
+https://tvpass.org/live/HBOEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO 2 Eastern Feed 
+https://tvpass.org/live/HBO2East/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Comedy HD East 
+https://tvpass.org/live/HBOComedyEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Family Eastern Feed 
+https://tvpass.org/live/HBOFamilyEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO 2 Eastern Feed 
+https://tvpass.org/live/HBO2East/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Signature (HBO 3) Eastern 
+https://tvpass.org/live/HBOSignatureEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,HBO Zone HD East 
+https://tvpass.org/live/HBOZoneEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,Crime & Investigation Network
+https://tvpass.org/live/CrimePlusInvestigation/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,Discovery Family Channel 
+https://tvpass.org/live/DiscoveryFamily/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,Discovery Life Channel 
+https://tvpass.org/live/DiscoveryLife/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,History Channel 
+https://tvpass.org/live/HistoryEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,National Geographic 
+https://tvpass.org/live/NationalGeographicEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,National Geographic Wild 
+https://tvpass.org/live/NationalGeographicWildEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,NBA TV USA 
+https://tvpass.org/live/NBATV/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1 ,NFL Network 
+https://tvpass.org/live/NFLNetwork/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
