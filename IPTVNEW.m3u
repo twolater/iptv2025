@@ -31,8 +31,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1,BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
-#EXTINF:-1,BBC EARTH
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2/1280x720.m3u8?ap.debug=0&ap.pt=0&ap.sid=b96d2b1e-8fa2-48b8-9ed6-a0372e9944fe&ap.c=default_cohort&ap.ss=88538294cc22db5667bd4a3ce16b1ce2
 #EXTINF:-1,翡翠台4K
 https://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=427052251152438
 #EXTINF:-1,翡翠台
@@ -95,28 +93,12 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1,MTV Live HD 音樂頻道
 https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
-#EXTINF:-1,BBC One
-http://92.114.85.81:8000/play/a001/index.m3u8
-#EXTINF:-1,BBC Two
-http://92.114.85.81:8000/play/a011/index.m3u8
-#EXTINF:-1,BBC News
-http://92.114.85.81:8000/play/a00a/index.m3u8
 #EXTINF:-1,Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1,Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1,Syfy
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,MTV2 
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1,MTV Classic 
-https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1,MTV Classic East 
-https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1,MTV Live 
-https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1,mtvU 
-https://fl5.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1,AMC East 
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1,Tennis Channel
