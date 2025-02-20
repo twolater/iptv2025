@@ -14,7 +14,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
 #EXTINF:-1,CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1,SKY NEWS 
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/04_1080-30.m3u8
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1,France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1,DW
@@ -165,3 +165,15 @@ https://tvpass.org/live/NationalGeographicWildEast/hd/WFp2WlNvbUhjNVplVTJEZmx3TG
 https://tvpass.org/live/NBATV/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
 #EXTINF:-1 ,NFL Network 
 https://tvpass.org/live/NFLNetwork/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
+#EXTINF:-1,香蕉2
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#EXTINF:-1,精艳台
+http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1,潘朵拉
+http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+#EXTINF:-1,松視1台
+http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1,松視2台
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+#EXTINF:-1,松視3台
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
