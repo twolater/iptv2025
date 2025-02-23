@@ -1,0 +1,85 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="SKYTV F1" tvg-logo="https://live.fanmingming.cn/tv/SKYTV F1.png",SKYTV F1
+https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb1896ea74d1847.m3u8
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://live.fanmingming.cn/tv/DMAX.png",DMAX
+http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png",RTHK31
+http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
+http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻.png",中天新闻
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://live.fanmingming.cn/tv/年代新聞.png",年代新聞
+http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png",民視新聞
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png",台視新聞
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+#EXTINF:-1 tvg-name="http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8" tvg-logo="https://live.fanmingming.cn/tv/http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8.png",http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+undefined
+#EXTINF:-1 tvg-name="公視" tvg-logo="https://live.fanmingming.cn/tv/公視.png",公視
+http://198.16.100.186:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1 tvg-name="ELTA愛爾達體育1" tvg-logo="https://live.fanmingming.cn/tv/ELTA愛爾達體育1.png",ELTA愛爾達體育1
+http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1 tvg-name="ELTA愛爾達體育2" tvg-logo="https://live.fanmingming.cn/tv/ELTA愛爾達體育2.png",ELTA愛爾達體育2
+http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.cn/tv/緯來電影.png",緯來電影
+http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
+#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.cn/tv/龍祥電影.png",龍祥電影
+http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png",東森電影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 tvg-name="八大戲劇台" tvg-logo="https://live.fanmingming.cn/tv/八大戲劇台.png",八大戲劇台
+http://198.16.100.186:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.cn/tv/東森超視.png",東森超視
+http://122.117.71.103:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
+#EXTINF:-1 tvg-name="CLARITY 4K" tvg-logo="https://live.fanmingming.cn/tv/CLARITY 4K.png",CLARITY 4K
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 tvg-name="VOA TV" tvg-logo="https://live.fanmingming.cn/tv/VOA TV.png",VOA TV
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png",TVBS
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://live.fanmingming.cn/tv/HBO PLUS.png",HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-name="HBO XTREME" tvg-logo="https://live.fanmingming.cn/tv/HBO XTREME.png",HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png",AXN
+http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="CBS NEWS" tvg-logo="https://live.fanmingming.cn/tv/CBS NEWS.png",CBS NEWS
+http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1 tvg-name="BBC ONE" tvg-logo="https://live.fanmingming.cn/tv/BBC ONE.png",BBC ONE
+http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 tvg-name="BBC TWO" tvg-logo="https://live.fanmingming.cn/tv/BBC TWO.png",BBC TWO
+http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+#EXTINF:-1 tvg-name="BBC LIFE STYLE" tvg-logo="https://live.fanmingming.cn/tv/BBC LIFE STYLE.png",BBC LIFE STYLE
+http://7044722.lbt02.xyz/live/6772191932/1654508883/400200779.m3u8?token=cGlYMjlxVFZtcHVyZFdC
+#EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://live.fanmingming.cn/tv/TNT SPORT 1.png",TNT SPORT 1
+http://7044722.lbt03.xyz/live/6772191932/1654508883/153714.m3u8?token=MUhIMWR6OURoMVZSS0V4
+#EXTINF:-1 tvg-name="SUPER SPORT" tvg-logo="https://live.fanmingming.cn/tv/SUPER SPORT.png",SUPER SPORT
+http://7044722.lbss27.xyz/live/6772191932/1654508883/190004.m3u8?token=TkdYV3YzbWd6WHdtRFk0
+#EXTINF:-1 tvg-name="SKY SPORT FOOTBALL" tvg-logo="https://live.fanmingming.cn/tv/SKY SPORT FOOTBALL.png",SKY SPORT FOOTBALL
+http://7044722.lbt03.xyz/live/6772191932/1654508883/153695.m3u8?token=alNpTUxMOUNzNHhJVHNH
+#EXTINF:-1 tvg-name="http://7044722.lbt03.xyz/live/6772191932/1654508883/153695.m3u8?token=MFFiOFl5U0Y1Nm90MTVt" tvg-logo="https://live.fanmingming.cn/tv/http://7044722.lbt03.xyz/live/6772191932/1654508883/153695.m3u8?token=MFFiOFl5U0Y1Nm90MTVt.png",http://7044722.lbt03.xyz/live/6772191932/1654508883/153695.m3u8?token=MFFiOFl5U0Y1Nm90MTVt
+undefined
+#EXTINF:-1 tvg-name="SKY PREMIER LEAGUE" tvg-logo="https://live.fanmingming.cn/tv/SKY PREMIER LEAGUE.png",SKY PREMIER LEAGUE
+http://7044722.lbt03.xyz/live/6772191932/1654508883/153693.m3u8?token=TWZlUTFCQlpnMGZQb3Zk
+#EXTINF:-1 tvg-name="BEIN SPORT 1" tvg-logo="https://live.fanmingming.cn/tv/BEIN SPORT 1.png",BEIN SPORT 1
+http://7044722.lbss12.xyz/live/6772191932/1654508883/191881.m3u8?token=UFluVWZ4MWdLRmtiaDF5
+#EXTINF:-1 tvg-name="BEIN SPORT MAX 4" tvg-logo="https://live.fanmingming.cn/tv/BEIN SPORT MAX 4.png",BEIN SPORT MAX 4
+https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw1/chunks.m3u8?nimblesessionid=283138760
+#EXTINF:-1 tvg-name="BEIN SPORT XTRA" tvg-logo="https://live.fanmingming.cn/tv/BEIN SPORT XTRA.png",BEIN SPORT XTRA
+http://7044722.lbss30.xyz/live/6772191932/1654508883/254741.m3u8?token=MnpIaTZZbTRMQWxmMXhQ
+#EXTINF:-1 tvg-name="http://7044722.lbss30.xyz/live/6772191932/1654508883/254741.m3u8?token=cDBGSDluRjg3N2dTRHRL" tvg-logo="https://live.fanmingming.cn/tv/http://7044722.lbss30.xyz/live/6772191932/1654508883/254741.m3u8?token=cDBGSDluRjg3N2dTRHRL.png",http://7044722.lbss30.xyz/live/6772191932/1654508883/254741.m3u8?token=cDBGSDluRjg3N2dTRHRL
+undefined
+#EXTINF:-1 tvg-name="FAMILY JR CA" tvg-logo="https://live.fanmingming.cn/tv/FAMILY JR CA.png",FAMILY JR CA
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6474/index.m3u8
+#EXTINF:-1 tvg-name="C+ AF" tvg-logo="https://live.fanmingming.cn/tv/C+ AF.png",C+ AF
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.cn/tv/CN卡通.png",CN卡通
+http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+#EXTINF:-1 tvg-name="3HD" tvg-logo="https://live.fanmingming.cn/tv/3HD.png",3HD
+http://198.16.100.186:8278/ch3_pat/playlist.m3u8?tid=MB6B7545566875455668&ct=19254&tsum=80c0722e6c93923edad559f6b70efb47
+#EXTINF:-1 tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.cn/tv/CCTV 13.png",CCTV 13
+http://149.88.87.72:60000/TVOD/5000000005000001827/bestzb/index.m3u8?
