@@ -60,6 +60,10 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png",RTHK31
+http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
+http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1,RTHK TV33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RTHK TV34
@@ -92,6 +96,12 @@ http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1,MTV Live HD 音樂頻道
 https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
+#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.cn/tv/緯來電影.png",緯來電影
+http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
+#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.cn/tv/龍祥電影.png",龍祥電影
+http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png",東森電影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 #EXTINF:-1,Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1,Showtime 2 East
