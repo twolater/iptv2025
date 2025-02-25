@@ -102,6 +102,18 @@ http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 #EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SPORTS",[TW] ELTA.SPORTS.1.台
+http://iptv12k.com:35461/654321/123456/14443
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="SPORTS",[TW] ELTA.SPORTS.2.台 
+http://iptv12k.com:35461/654321/123456/14442
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SPORTS",[TW] ELTA.SPORTS.3.台 
+http://iptv12k.com:35461/654321/123456/14441
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",[TW] ELEVEN.SPORTS.1 
+http://iptv12k.com:35461/654321/123456/14440
+# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="SPORTS",[TW] ELEVEN.SPORTS.2
+# http://iptv12k.com:35461/654321/123456/14439
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="SPORTS",[TW] ESPN 
+http://iptv12k.com:35461/654321/123456/14434
 #EXTINF:-1,Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1,Showtime 2 East
