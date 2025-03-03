@@ -72,10 +72,16 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
 #EXTINF:-1,PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1,Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8a
-#EXTINF:-1,Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8a
+#EXTINF:-1,凤凰香港
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1,八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1,CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1,CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1,CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1,Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 #EXTINF:-1,ROCK Action
@@ -94,6 +100,32 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1,Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png",天映频道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png",天映经典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png",Astro AOD
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.fanmingming.cn/tv/Astro AEC.png",Astro AEC
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://live.fanmingming.cn/tv/爱奇艺.png",爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://live.fanmingming.cn/tv/Astro QJ.png",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://live.fanmingming.cn/tv/Astro欢喜台.png",Astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.cn/tv/HOY TV.png",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.cn/tv/HOY TV.png",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1,MTV Live HD 音樂頻道
 https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.cn/tv/緯來電影.png",緯來電影
