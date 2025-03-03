@@ -33,6 +33,20 @@ http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=1919
 http://198.16.100.186:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.cn/tv/東森超視.png",東森超視
 http://122.117.71.103:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.cn/tv/CN卡通.png",CN卡通
+http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+#EXTINF:-1,凤凰香港
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1,八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1,CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1,CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1,CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.cn/tv/CCTV 13.png",CCTV 13
+http://149.88.87.72:60000/TVOD/5000000005000001827/bestzb/index.m3u8?
 #EXTINF:-1 tvg-name="VOA TV" tvg-logo="https://live.fanmingming.cn/tv/VOA TV.png",VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="https://live.fanmingming.cn/tv/HBO PLUS.png",HBO PLUS
@@ -83,23 +97,4 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,TBS News
 https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
-#EXTINF:-1,HBC Hokkaido News 24
-https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-#EXTINF:-1,HTB Hokkaido News 24
-https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
-#EXTINF:-1,Niigata News NST
-https://ythls.armelin.one/channel/UC8iN-WKPu820ve-4t9NxHRw.m3u8
-#EXTINF:-1,SATV News 24H
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-#EXTINF:-1,Weathernews
-https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
-#EXTINF:-1,ANN News
-https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-#EXTINF:-1,Asahi Shimbun Digital
-https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:-1,Chukyo TV News
-https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
-#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.cn/tv/CN卡通.png",CN卡通
-http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-#EXTINF:-1 tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.cn/tv/CCTV 13.png",CCTV 13
-http://149.88.87.72:60000/TVOD/5000000005000001827/bestzb/index.m3u8?
+
