@@ -15,10 +15,28 @@ http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&c
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png",台視新聞
 http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-#EXTINF:-1 tvg-name="http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8" tvg-logo="https://live.fanmingming.cn/tv/http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8.png",http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-undefined
-#EXTINF:-1 tvg-name="公視" tvg-logo="https://live.fanmingming.cn/tv/公視.png",公視
-http://198.16.100.186:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+#EXTINF:-1 tvg-name="台視新聞HD" tvg-logo="https://live.fanmingming.cn/tv/台視新聞HD.png",台視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,公视
+http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
+#EXTINF:-1,纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1,探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1,八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1,动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1,八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1,TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1,NHK新闻频英
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1,中天娱乐频特
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1,Diso综合频英
+http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="ELTA愛爾達體育1" tvg-logo="https://live.fanmingming.cn/tv/ELTA愛爾達體育1.png",ELTA愛爾達體育1
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-name="ELTA愛爾達體育2" tvg-logo="https://live.fanmingming.cn/tv/ELTA愛爾達體育2.png",ELTA愛爾達體育2
@@ -103,10 +121,22 @@ https://stream1.freetv.fun/118a676f863a7baabf386ae36726c1eecda47ad2adab88bdf6d70
 https://stream1.freetv.fun/b4fc899f722eed1f5b83dd5aca1935bf8fd694016672cb2e7268ec0569bda261.m3u8
 #EXTINF:-1,NBT THAILAND
 https://stream1.freetv.fun/4ddff454439dbf72494fa60a34824cd982aa9875a9e4ae38064311f6741a8f94.m3u8
-#EXTINF:-1,Rai 3[
+#EXTINF:-1,Rai 3
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
 #EXTINF:-1,National Geographic Wild
 https://stream1.freetv.fun/national-geographic-wild-east-1.ctv
+#EXTINF:-1,半岛新闻台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1,CBS NEWS
+http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+#EXTINF:-1,MTV HITS
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
+#EXTINF:-1,SKY SPORTS MIX
+http://7044722.lbss19.xyz/live/6772191932/1654508883/153712.m3u8?token=MGRvMkxpdHVBcUpxbGR4
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://7044722.lbss18.xyz/live/6772191932/1654508883/153695.m3u8?token=cnBPVE4waTFnNkJhSlZ1
 #EXTINF:-1,TSN1
 https://stream1.freetv.fun/tsn1-1.ctv
 #EXTINF:-1,TSN3
