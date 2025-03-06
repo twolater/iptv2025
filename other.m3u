@@ -16,6 +16,8 @@ http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=1925
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1,CBS NEWS
 http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1,NHK
+http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1,ARIANG TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1,日テレNEWS24
@@ -24,15 +26,25 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1,BBC ONE
 http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 BBC One
+https://x.canlitvapp.com/u-bbc-1/index.m3u8
 #EXTINF:-1 ,BBC TWO
-#EXTINF:-1 Arirang TV UN 
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1,BBC Earth 
 http://178.219.128.68:64888/BBCEARTHD
 #EXTINF:-1,BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-
-#EXTINF:-1 BBC One
-https://x.canlitvapp.com/u-bbc-1/index.m3u8
+#EXTINF:-1,BBC Scotland
+http://92.114.85.72:8000/play/a0mf
+#EXTINF:-1,BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1,ITV1
+http://92.114.85.72:8000/play/a0lu
+#EXTINF:-1,ITV2
+http://92.114.85.77:8000/play/a041
+#EXTINF:-1,ITV3
+http://92.114.85.77:8000/play/a04z
+#EXTINF:-1,MTV Live (United Kingdom)
+http://190.102.246.93:9005/play/a01p
 #EXTINF:-1,Nation tv
 https://stream1.freetv.fun/118a676f863a7baabf386ae36726c1eecda47ad2adab88bdf6d7086648a98a59.ctv
 #EXTINF:-1,NBT THAI
@@ -45,6 +57,8 @@ https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb18
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 #EXTINF:-1,CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 Arirang TV UN 
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1,UN TV
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_gb6tjmle/tl/main/st/0/t/GwoT_K7PUU9YDqbdTX4FEw/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2diNnRqbWxlL3RsL21haW4vc3QvMC90L0d3b1RfSzdQVVU5WURxYmRUWDRGRXcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTMzMjQ4MH19fV19&Signature=KbjBl4ZnCLlD0VLdzwcb5ZfchfwLC2vfwhmfxmuryU6GEYLeQhPdCh10WT0-Q3XbtSoxFPRKxeDZKrucyOSDB572iUyhu8wusIRSTQiiqUa0CxMWnhAbPBkEw-TmvO-XXKHXHnAfeLZ34bMabZeujdKplEIcbHXUj0ePeAu70L95~~S8AQrvCTEWHTM13747krfNq1Fy66JwdtojLq8MQ0Jw3hlJ1A~u7-okY07-5nRAAvznVwsaSxYAstmz2-duNTyyKoRkVrvnLh1WiJpF3st5DO6e5AeJtQuaCiqSo36E9fr8DB8jjg-5JE4QdRvH382lMSjJJXY2mpEPqmO2nw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1,RTHK31
@@ -79,8 +93,6 @@ http://61.221.215.25:8800/hls/57/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1,TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1,NHK
-http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1,中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -111,9 +123,6 @@ https://cdn6.163189.xyz/live/ch5/stream.m3u8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1,CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-
-#EXTINF:-1,IT SKY SPORT MAX
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/k5RXyi8YNiBLGpAHXX7ub1A0vnGykkw59F-o8cRCurmLPpG2vjLU5Ktyv26bVkYDhPLKQlVIf2VV-fo-pHdQDjUTCFRY9Obd6Ox4rJaPvYd0iMaJTx_OK-PHZm9srDCtqzQcWRNQzuRK4xbuLVNimEHmAp9Nsj7pRNrdu_8O3d0/hls/index.m3u8
 #EXTINF:-1,东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1,龙祥电影
@@ -122,16 +131,16 @@ http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1,龙华电影
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
 #EXTINF:-1,HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1,HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1,AXN
 http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-#EXTINF:-1, Star Sports SL 1 HD 
-http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TNT Sports 1 HD
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1,IT SKY SPORT MAX
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/k5RXyi8YNiBLGpAHXX7ub1A0vnGykkw59F-o8cRCurmLPpG2vjLU5Ktyv26bVkYDhPLKQlVIf2VV-fo-pHdQDjUTCFRY9Obd6Ox4rJaPvYd0iMaJTx_OK-PHZm9srDCtqzQcWRNQzuRK4xbuLVNimEHmAp9Nsj7pRNrdu_8O3d0/hls/index.m3u8
+
 
 #EXTINF:-1,BBC UHD 1
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
@@ -144,6 +153,12 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 #EXTINF:-1,BBC UHD 5
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
 
+#EXTINF:-1,MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1, Star Sports SL 1 HD 
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TNT Sports 1 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1,TSN1
 https://tvpass.org/live/tsn1/hd/
 #EXTINF:-1,TSN2
@@ -156,22 +171,20 @@ https://tvpass.org/live/tsn4/hd/
 https://tvpass.org/live/tsn5/hd/
 #EXTINF:-1,NBT THAILAND
 https://stream1.freetv.fun/4ddff454439dbf72494fa60a34824cd982aa9875a9e4ae38064311f6741a8f94.m3u8
+#EXTINF:-1,3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1,Rai 3
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
 #EXTINF:-1,National Geographic Wild
 https://stream1.freetv.fun/national-geographic-wild-east-1.ctv
 #EXTINF:-1,MTV HITS
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
+#EXTINF:-1,MTV Classic 
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1,SKY SPORTS MIX
 http://7044722.lbss19.xyz/live/6772191932/1654508883/153712.m3u8?token=MGRvMkxpdHVBcUpxbGR4
 #EXTINF:-1,SKY SPORTS FOOTBALL
 http://7044722.lbss18.xyz/live/6772191932/1654508883/153695.m3u8?token=cnBPVE4waTFnNkJhSlZ1
-#EXTINF:-1,TSN1
-https://stream1.freetv.fun/tsn1-1.ctv
-#EXTINF:-1,TSN3
-https://stream1.freetv.fun/tsn3-1.ctv
-#EXTINF:-1,TSN5
-https://stream1.freetv.fun/tsn5-1.ctv
 #EXTINF:-1,MSG
 https://stream1.freetv.fun/msg-1.ctv
 #EXTINF:-1,MSG plus
@@ -186,10 +199,6 @@ https://stream1.freetv.fun/disney-junior-east-1.ctv
 https://stream1.freetv.fun/disney-xd-east-1.ctv
 #EXTINF:-1,Newsmax tv
 https://stream1.freetv.fun/newsmax-tv-2.ctv
-#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic East (720p)
-https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p)
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
+#EXTINF:-1,CCTV-4 America 
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
