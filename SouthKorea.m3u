@@ -1,0 +1,61 @@
+#EXTM3U South Korea
+#EXTINF:-1,ABN HD
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1,ARIRANNG KOREA
+https://cdn-01.bonus-tv.ru/arirang_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BTN
+https://btn.nowcdn.co.kr/btn/btnlive2m/chunklist_w1355288072.m3u8
+#EXTINF:-1,EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1,EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1,EBS E
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS +1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS +2
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1,GugakTV 국악방송 
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,KFN
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1,KOREA TV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w1670645061.m3u8
+#EXTINF:-1,MBC
+http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w1081812890.m3u8
+#EXTINF:-1,JCN
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+#EXTINF:-1,MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w469503261.m3u8
+#EXTINF:-1,NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/chunklist_w847155629_b1349152.m3u8
+#EXTINF:-1,OUN
+https://live.knou.ac.kr/knou1/live1/chunklist.m3u8?solsessionid=02c968713991fd6b70b76064529edbd2
+#EXTINF:-1,RUTC
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/chunklist.m3u8
+#EXTINF:-1,SBS CJB
+http://1.222.207.80:1935/live/cjbtv/chunklist_w2004037963.m3u8
+#EXTINF:-1,SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w77106812.m3u8
+#EXTINF:-1,SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w431253436.m3u8
+#EXTINF:-1,SBS KNN
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1,SBS KBC
+http://119.200.131.11:1935/KBCTV/tv/chunklist_w1986525152.m3u8
+#EXTINF:-1,WBC
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1,TBS SEOUL
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/chunklist_b4692000.m3u8
+#EXTINF:-1,GCN24 KOREAN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/chunklist.m3u8
+#EXTINF:-1,CGNTV
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR_1.m3u8
+#EXTINF:-1,TV Chosun 2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
+#EXTINF:-1,TV Chosun
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
