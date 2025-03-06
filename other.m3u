@@ -177,6 +177,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
 #EXTINF:-1,National Geographic Wild
 https://stream1.freetv.fun/national-geographic-wild-east-1.ctv
+#EXTINF:-1,NINJA KIDS TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/4300.m3u8
+#EXTINF:-1,MTV
+https://streamer1.nexgen.bz/MTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,MTV HITS
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
 #EXTINF:-1,MTV Classic 
