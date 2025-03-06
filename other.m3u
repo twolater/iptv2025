@@ -45,6 +45,8 @@ https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb18
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 #EXTINF:-1,CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,UN TV
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_gb6tjmle/tl/main/st/0/t/GwoT_K7PUU9YDqbdTX4FEw/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2diNnRqbWxlL3RsL21haW4vc3QvMC90L0d3b1RfSzdQVVU5WURxYmRUWDRGRXcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTMzMjQ4MH19fV19&Signature=KbjBl4ZnCLlD0VLdzwcb5ZfchfwLC2vfwhmfxmuryU6GEYLeQhPdCh10WT0-Q3XbtSoxFPRKxeDZKrucyOSDB572iUyhu8wusIRSTQiiqUa0CxMWnhAbPBkEw-TmvO-XXKHXHnAfeLZ34bMabZeujdKplEIcbHXUj0ePeAu70L95~~S8AQrvCTEWHTM13747krfNq1Fy66JwdtojLq8MQ0Jw3hlJ1A~u7-okY07-5nRAAvznVwsaSxYAstmz2-duNTyyKoRkVrvnLh1WiJpF3st5DO6e5AeJtQuaCiqSo36E9fr8DB8jjg-5JE4QdRvH382lMSjJJXY2mpEPqmO2nw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1,RTHK31
 http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 #EXTINF:-1,RTHK32
