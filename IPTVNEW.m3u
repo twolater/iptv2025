@@ -134,17 +134,17 @@ http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 #EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="SPORTS",[TW] ELTA.SPORTS.1.台
+#EXTINF:-1 ELTA.SPORTS.1.台
 http://iptv12k.com:35461/654321/123456/14443
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="SPORTS",[TW] ELTA.SPORTS.2.台 
+#EXTINF:-1  ELTA.SPORTS.2.台 
 http://iptv12k.com:35461/654321/123456/14442
-#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="SPORTS",[TW] ELTA.SPORTS.3.台 
+#EXTINF:-1  ELTA.SPORTS.3.台 
 http://iptv12k.com:35461/654321/123456/14441
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg" group-title="SPORTS",[TW] ELEVEN.SPORTS.1 
+#EXTINF:-1  ELEVEN.SPORTS.1 
 http://iptv12k.com:35461/654321/123456/14440
-# EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="SPORTS",[TW] ELEVEN.SPORTS.2
+# EXTINF:-1  ELEVEN.SPORTS.2
 # http://iptv12k.com:35461/654321/123456/14439
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.jpg" group-title="SPORTS",[TW] ESPN 
+#EXTINF:-1  ESPN 
 http://iptv12k.com:35461/654321/123456/14434
 #EXTINF:-1,Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -195,99 +195,4 @@ https://tvpass.org/live/NBATV/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdnc
 #EXTINF:-1 ,NFL Network 
 https://tvpass.org/live/NFLNetwork/hd/WFp2WlNvbUhjNVplVTJEZmx3TGVhaUJldVp0M3hFaHFYdncySkh5MQ==
 #EXTINF:-1 ,REAL MADRID TV
-https://dice-live-eu.cdnfastly.endeavorstreaming.net/1740415464_6LQ2zhojsyoq4ayK_d4d6146040c54f139f569dcab47d2eff0e823d47/id=1a168152-de62-4bc0-9356-6c7d637d13b5/data=dWlkPXd1TU1DZXw1ZmJjMDNmYi1hMmUxLTQ3ZjctOWY4ZS1mN2IyOTc4MmQ3NTkmaXA9MjcuMTQ1LjMyLjE1OSZleHA9MTc0MDQxNTQ5NCZlaWQ9MjM5MjA4JmNpZD1kY2UucmVhbG1hZHJpZCZvaWQ9MzQ3JnR5cGU9TElWRQ/~/hls/live/2019577/239208-287651/exchange239208pmwvw_239208_6000/chunklist-d.m3u8
-#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="台湾频道「🅔」", TVBS 綜藝台[4gtv]
-https://video.mytvsuper.xyz/live/b226655aa4d246e539a66ab018165e183aeae7b649142ef0cd662e2ee6aa6e65.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="台湾频道「🅔」", TVBS 台劇台[4gtv]
-https://video.mytvsuper.xyz/live/4352122451f68df143d757752fa9afdba6fc4421fcca8ac80fa7e0336840333e.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="台湾频道「🅔」", 三立綜合台[4gtv]
-https://video.mytvsuper.xyz/live/5438071ac67e0e6f23af2f461332404981a74bf4f049996ec24fb52b9b18299d.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="三立財經新聞" tvg-name="三立 iNEWS" tvg-logo="https://assets.livednow.com/logo/三立財經新聞.png" group-title="台湾频道「🅔」", 三立 iNEWS[4gtv]
-https://video.mytvsuper.xyz/live/0d9250c9efe89fc0fdcdecaa6ab3d0025c89d81cf7cbf17550dca87dd1655503.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="ELTA生活旅遊" tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA生活旅遊.png" group-title="台湾频道「🅔」", ELTA 生活旅遊[4gtv]
-https://video.mytvsuper.xyz/live/19399a95cb4e23b6302c3c9cb592c3b1e4d29da4dff86f1107f76dffcdde8831.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="台湾频道「🅔」", CNBC Asia 財經台[4gtv]
-https://video.mytvsuper.xyz/live/b7d9721af99e4c03729585ea675ede94e837d2f4119a30f15acd99b2091ec4b3.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="台湾频道「🅔」", 時尚運動X[4gtv]
-https://video.mytvsuper.xyz/live/892db2cf3e1251a11ada19ead194c46715707cae0a0307215677d98d5f36cd49.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="My-Cinema-Europe-HD-我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png" group-title="台湾频道「🅔」", My Cinema Europe HD 我的歐洲電影[4gtv]
-https://video.mytvsuper.xyz/live/abe25478697636aee1b8a4972a9f10e06dfdda1c372d6a5971ccdb2d84d3d935.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="台湾频道「🅔」", 戲劇免費看 1台[4gtv]
-https://video.mytvsuper.xyz/live/e0747efdb6665b82eed643a5dada16c1b92cfd62d99e6359ec793e6864d94080.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="台湾频道「🅔」", 戲劇免費看 2台[4gtv]
-https://video.mytvsuper.xyz/live/c389b7aed5b6ade63391de1a91008f0ad8113c6817cb47bb10fc04ba8d67f643.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="台湾频道「🅔」", 經典電影台[4gtv]
-https://video.mytvsuper.xyz/live/619dade76d5eeea7e3e84bd9341940a661b9fb73352d77faf3397a25aae92326.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="電影免費看-2台" tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="台湾频道「🅔」", 電影免費看 2台[4gtv]
-https://video.mytvsuper.xyz/live/a7fe3cc8cd0213b875cc96ad5926e7f30b6df939a94a0793c9e445c2fbd253b3.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="台湾频道「🅔」", 電影原聲台 CMusic[4gtv]
-https://video.mytvsuper.xyz/live/91058a1fb1a443a86c439f0a4bd221bf6ba33c82cb585e0496164e5404440370.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="台湾频道「🅔」", CinemaWorld[4gtv]
-https://video.mytvsuper.xyz/live/454703bf422f50d39f4d1279420a0067a4f9e856c033f59670b534b10a3c8699.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="HITS-頻道" tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="台湾频道「🅔」", HITS 頻道[4gtv]
-https://video.mytvsuper.xyz/live/d7bcadbd528f77acd1b3ca9c42d39692ee48a8a79e5e9fd742d2e51693fb725a.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Rock-Action" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action.png" group-title="台湾频道「🅔」", Rock Action[4gtv]
-https://video.mytvsuper.xyz/live/27188901b383493504586b153f54629e6735297f4276c7c9ed09f2fb275f4770.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Rock-Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="台湾频道「🅔」", Rock Entertainment[4gtv]
-https://video.mytvsuper.xyz/live/888cf902e5100d77082109e2e5dd3bee0b855ded1c9d66c56a192e4ade608ff4.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="台湾频道「🅔」", 金光布袋戲[4gtv]
-https://video.mytvsuper.xyz/live/cbe65e4c8aeff6a476b37cd05f8e533e4b6c14a01747d0066ab73da2c8e413ee.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="台湾频道「🅔」", 霹靂布袋戲[4gtv]
-https://video.mytvsuper.xyz/live/b7594d693e6a9af4397d3c24e02450f533ee5c83fe52dd2f99d8651101ccc0b1.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="台湾频道「🅔」", DreamWorks 夢工廠動畫[4gtv]
-https://video.mytvsuper.xyz/live/ea1b7d476a48d013119b4c33d429df405eef7e723c6db2e08f5b5d3063c3b014.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="台湾频道「🅔」", Nickelodeon[4gtv]
-https://video.mytvsuper.xyz/live/0a9b0075b6ff9caa8e00c8046b96b1c4abe6d0b2187b2e18c63e68315cb4ee49.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="台湾频道「🅔」", Nick Jr. 兒童頻道[4gtv]
-https://video.mytvsuper.xyz/live/92e158cb6188e2931079b2af122844c61b8817a273358dac4699c431f263d021.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="兒童卡通台" tvg-name="兒童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="台湾频道「🅔」", 兒童卡通台[4gtv]
-https://video.mytvsuper.xyz/live/fba0305f929130f25346e6d6774f806aa8f7b64eff12b8bc1562db0e9614cf3e.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="台湾频道「🅔」", 精選動漫台[4gtv]
-https://video.mytvsuper.xyz/live/bba886ca6df5d54b91e4264504e9575edbbd2970c96fdb52e45d263135fb12f4.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="台湾频道「🅔」", 經典卡通台[4gtv]
-https://video.mytvsuper.xyz/live/0ddd1dfe9bcaed905feafb7d8804056bfb497eac8a5d35fbe1a8f7a64a1cc49e.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="MOMO-親子台" tvg-name="MOMO 親子台" tvg-logo="https://assets.livednow.com/logo/MOMO-親子台.png" group-title="台湾频道「🅔」", MOMO 親子台[4gtv]
-https://video.mytvsuper.xyz/live/0d415d2b330b0bd51426cda52920c28a84e8bbb1ea331163ada793050365dde6.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="LiveABC-互動英語台" tvg-name="LiveABC 互動英語台" tvg-logo="https://assets.livednow.com/logo/LiveABC-互動英語台.png" group-title="台湾频道「🅔」", LiveABC 互動英語台[4gtv]
-https://video.mytvsuper.xyz/live/59e69f16dcceff8e9e6142c35afae052662a08cbefd8a684dcbfb0358b6c7921.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Lifetime-娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://assets.livednow.com/logo/Lifetime-娛樂頻道.png" group-title="台湾频道「🅔」", Lifetime 娛樂頻道[4gtv]
-https://video.mytvsuper.xyz/live/b3148cfcac654b4f9e7c717564c7af7210ea678355c7afa0fba8aa7382a9cda9.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="台湾频道「🅔」", MTV Live HD 音樂頻道[4gtv]
-https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Global-Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="台湾频道「🅔」", Global Trekker[4gtv]
-https://video.mytvsuper.xyz/live/b6ea9e0e55279adb15000e8b22ff888b97fe9d99fc4a54567d7d94baef069a45.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="LUXE-TV" tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="台湾频道「🅔」", LUXE TV[4gtv]
-https://video.mytvsuper.xyz/live/4170f623a42a6552ee3117649b1171fbb7d717469e7da23589617266db99f0c4.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Pet-Club-TV" tvg-name="Pet Club TV" tvg-logo="https://assets.livednow.com/logo/Pet-Club-TV.png" group-title="台湾频道「🅔」", Pet Club TV[4gtv]
-https://video.mytvsuper.xyz/live/3861d92d1f43d20146b90f7785c04cc35ae66e5d67371e4fcb5bb235c509f2f5.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="TV5MONDE-Style" tvg-name="TV5MONDE Style" tvg-logo="https://assets.livednow.com/logo/TV5MONDE-Style.png" group-title="台湾频道「🅔」", TV5MONDE Style[4gtv]
-https://video.mytvsuper.xyz/live/f5f23858cc512c4e85da575f1fce2a2d2da589c2fce37bcb9cfc1bdd09f88551.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="車迷-TV" tvg-name="車迷 TV" tvg-logo="https://assets.livednow.com/logo/車迷-TV.png" group-title="台湾频道「🅔」", 車迷 TV[4gtv]
-https://video.mytvsuper.xyz/live/3811fe5cf31a1ede3b338d5c4d1fd4ce6bbd4c23d19a2aa291b785b697c03be7.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Love-Nature" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="台湾频道「🅔」", Love Nature[4gtv]
-https://video.mytvsuper.xyz/live/c6c869390266feaa063658425929369d805462019007e5f03ae1be34e4e0393e.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Fun-探索娛樂台" tvg-name="Fun 探索娛樂台" tvg-logo="https://assets.livednow.com/logo/Fun-探索娛樂台.png" group-title="台湾频道「🅔」", Fun 探索娛樂台[4gtv]
-https://video.mytvsuper.xyz/live/b5d6f767827a8f078aed78da242d455d375c7f1f890ca06533c1e683ad513d7a.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="台湾频道「🅔」", 幸福空間居家台[4gtv]
-https://video.mytvsuper.xyz/live/cd7d118498776c88e22b257ffb452e84f68995da661d458f569568dff173140e.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="台湾频道「🅔」", Bloomberg TV[4gtv]
-https://video.mytvsuper.xyz/live/b4de29a8f35af506950be12a0eaacb2f9ec26382d0bd108e9a9a2329f8916f93.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="台湾频道「🅔」", DW德國之聲[4gtv]
-https://video.mytvsuper.xyz/live/d3a78bb97346617d5c11f8198a768e3550a20b842e5ea7d7f341e7f873b4f5c8.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="SBN-全球財經台" tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN-全球財經台.png" group-title="台湾频道「🅔」", SBN 全球財經台[4gtv]
-https://video.mytvsuper.xyz/live/b26994decc9a139adf3c0de611d45b0feeec80ae2b2fd68d7a8e309efd6153b8.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="台湾频道「🅔」", History 歷史頻道[4gtv]
-https://video.mytvsuper.xyz/live/b470c5feb30ea7f534a2fe0440526c02fecadde407a64ad748b6e29218392456.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="台湾频道「🅔」", CI 罪案偵查頻道[4gtv]
-https://video.mytvsuper.xyz/live/95068f9597b4ca94cb891f473274816adb5d8beedb7370a0eee17c1e5ccc1881.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="台湾频道「🅔」", Smart 知識台
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="台湾频道「🅔」", 原住民族電視台[4gtv]
-https://video.mytvsuper.xyz/live/8c2924108bcdc91d4772bf49fa6bcb5617ade1481341f6782281e4a288f79ee4.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="滾動力-Rollor" tvg-name="滾動力 Rollor" tvg-logo="https://assets.livednow.com/logo/滾動力-Rollor.png" group-title="台湾频道「🅔」", 滾動力 Rollor[4gtv]
-https://video.mytvsuper.xyz/live/7193e41347eec2947b56d95d4c8cf68a5d7d6a8477aaab0c9d782fac1f9cd071.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="台湾频道「🅔」", 大愛電視[4gtv]
-https://video.mytvsuper.xyz/live/a6a6f0bc1a1051f2334671d52094678f8ecb0af54db1c4f33d2f188a656468d7.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視2" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="台湾频道「🅔」", 大愛電視2[4gtv]
-https://video.mytvsuper.xyz/live/a77e78b66ab7e8c00561c098d966dcd544d3d59330e33e204b48bc80a5ad5651.m3u8?token=597874560450439
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="台湾频道「🅔」", 人間衛視[4gtv]
-https://video.mytvsuper.xyz/live/20054acecc7e6371df3de4e34f745a100e956ef98cdd5d594718974b90a03309.m3u8?token=597874560450439
+https://dice-live-eu.cdnfastly.endeavorstreaming.net/1741324649_iE7JJdG1uzX2l8Lj_85d4db59bc7e3be7d630350ca50b2b52a7b86cc8/id=f633dc1e-af13-46a2-b8b0-712431d4c62e/data=dWlkPXd1TU1DZXw1ZmJjMDNmYi1hMmUxLTQ3ZjctOWY4ZS1mN2IyOTc4MmQ3NTkmaXA9OTEuMjM4LjEwNS4xMzQmZXhwPTE3NDEzMjQ2NzcmZWlkPTIzOTIwOCZjaWQ9ZGNlLnJlYWxtYWRyaWQmb2lkPTM0NyZ0eXBlPUxJVkU/~/hls/live/2019577/239208-287651/exchange239208pmwvw_239208_6000/chunklist-d.m3u8
