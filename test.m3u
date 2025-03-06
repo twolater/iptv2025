@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png",HBO
 https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-name="Now 爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now 爆谷台.png",Now 爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-#EXTINF:-1 tvg-name="Now爆谷星影台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷星影台.png",Now爆谷星影台
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 #EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://live.fanmingming.cn/tv/Now新聞台.png",Now新聞台
 https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
 #EXTINF:-1 tvg-name="Now財經台" tvg-logo="https://live.fanmingming.cn/tv/Now財經台.png",Now財經台
