@@ -76,7 +76,8 @@ http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1,龙华电影
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-
+#EXTINF:-1,阳光卫视
+https://stream1.freetv.fun/yang-guang-wei-shi-1.m3u8
 #EXTINF:-1 tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.cn/tv/CCTV 13.png",CCTV 13
 http://149.88.87.72:60000/TVOD/5000000005000001827/bestzb/index.m3u8?
 #EXTINF:-1 tvg-name="VOA TV" tvg-logo="https://live.fanmingming.cn/tv/VOA TV.png",VOA TV
