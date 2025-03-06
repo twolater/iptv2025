@@ -9,7 +9,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1,NHK WORLD 
 https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
-#EXTINF:-1,BBC News (North America) 
+#EXTINF:-1,BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
 #EXTINF:-1,CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
@@ -30,12 +30,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 #EXTINF:-1,BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
-#EXTINF:-1,翡翠台4K
-https://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=427052251152438
-
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png",RTHK31
+#EXTINF:-1,RTHK31
 http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
+#EXTINF:-1,RTHK32
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 #EXTINF:-1,RTHK TV33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -43,16 +40,7 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RTHK TV35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-#EXTINF:-1,凤凰香港
-https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-#EXTINF:-1,八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1,CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1,CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1,CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
+
 #EXTINF:-1,28 AI 智慧賽馬
 http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1,Channel 5 HD
@@ -137,49 +125,59 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1,無線衛星新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.cn/tv/天映频道.png",天映频道
+#EXTINF:-1,天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.cn/tv/天映经典.png",天映经典
+#EXTINF:-1,天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png",Astro AOD
+#EXTINF:-1,Astro AOD
 http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.fanmingming.cn/tv/Astro AEC.png",Astro AEC
+#EXTINF:-1,Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://live.fanmingming.cn/tv/爱奇艺.png",爱奇艺
+#EXTINF:-1,爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://live.fanmingming.cn/tv/Astro QJ.png",Astro QJ
+#EXTINF:-1,Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://live.fanmingming.cn/tv/Astro欢喜台.png",Astro欢喜台
+#EXTINF:-1,Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png",澳视澳门
+#EXTINF:-1,澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
+#EXTINF:-1 澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png",VIUTV
+#EXTINF:-1 VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.cn/tv/VIUTV.png",VIUTV
+#EXTINF:-1 VIUTV2
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.cn/tv/HOY TV.png",HOY TV
+#EXTINF:-1 HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://live.fanmingming.cn/tv/HOY TV.png",HOY TV
+#EXTINF:-1 HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1,MTV Live HD 音樂頻道
 https://video.mytvsuper.xyz/live/6aa36424e960f658e72ebcec9c5b701a1180cffa9b8f7aaccaed1a89a34c7672.m3u8?token=597874560450439
-#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://live.fanmingming.cn/tv/緯來電影.png",緯來電影
+#EXTINF:-1,緯來電影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-#EXTINF:-1 tvg-name="龍祥電影" tvg-logo="https://live.fanmingming.cn/tv/龍祥電影.png",龍祥電影
+#EXTINF:-1,龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png",東森電影
+#EXTINF:-1,東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1,凤凰香港
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1,八度空间
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1,CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1,CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1,CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1 ELTA.SPORTS.1.台
 http://iptv12k.com:35461/654321/123456/14443
-#EXTINF:-1  ELTA.SPORTS.2.台 
+#EXTINF:-1 ELTA.SPORTS.2.台 
 http://iptv12k.com:35461/654321/123456/14442
-#EXTINF:-1  ELTA.SPORTS.3.台 
+#EXTINF:-1 ELTA.SPORTS.3.台 
 http://iptv12k.com:35461/654321/123456/14441
-#EXTINF:-1  ELEVEN.SPORTS.1 
+#EXTINF:-1 ELEVEN.SPORTS.1 
 http://iptv12k.com:35461/654321/123456/14440
-# EXTINF:-1  ELEVEN.SPORTS.2
+# EXTINF:-1 ELEVEN.SPORTS.2
 # http://iptv12k.com:35461/654321/123456/14439
 #EXTINF:-1  ESPN 
 http://iptv12k.com:35461/654321/123456/14434
