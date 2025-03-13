@@ -51,6 +51,49 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb1896ea74d1847.m3u8
 #EXTINF:-1,DMAX
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+#EXTM3U
+#EXTINF:-1,HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+#EXTINF:-1,Now 爆谷台
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+#EXTINF:-1,Now爆谷星影台
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
+#EXTINF:-1,Now新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+#EXTINF:-1,Now財經台
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+#EXTINF:-1,Now Sports 英超1台
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1,Now Sports 英超2台
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1,Now Sports 英超3台
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1,Now Sports 英超4台
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1,Now Sports 英超5台
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1,Now Sports 英超6台
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+#EXTINF:-1,Now Sports 英超7台
+https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+#EXTINF:-1,Now Sports 精選
+https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
+#EXTINF:-1,Now Sports 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH631/index.m3u8
+#EXTINF:-1,Now Sports 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1,Now Sports 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1,Now Sports 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1,Now Sports 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+#EXTINF:-1,Now Sports 7
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+#EXTINF:-1,beIN SPORTS 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+#EXTINF:-1,Now Sports 641
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
 
 #EXTINF:-1 Arirang TV UN 
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
@@ -94,6 +137,8 @@ http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
 #EXTINF:-1,龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1,龍祥電影
+https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8?md5=zj6BU-bm0X_RgGTLF11yBg&expires=1741892158
 #EXTINF:-1,東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 #EXTINF:-1,八大戲劇台
