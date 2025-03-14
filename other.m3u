@@ -17,6 +17,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1,CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#EXTINF:-1,TV5Monde Asia
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1,ARIANG TV
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1,日テレNEWS24
@@ -53,17 +55,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb1896ea74d1847.m3u8
 #EXTINF:-1,DMAX
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-#EXTM3U
-#EXTINF:-1,HBO
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1,Now 爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-#EXTINF:-1,Now爆谷星影台
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
-#EXTINF:-1,Now新聞台
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
-#EXTINF:-1,Now財經台
-https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
 #EXTINF:-1,Now Sports 英超1台
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTINF:-1,Now Sports 英超2台
