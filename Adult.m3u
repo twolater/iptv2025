@@ -4,6 +4,8 @@ https://18.svi-studio.com/live/565361330108/206277615704/4.m3u8
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 #EXTINF:-1,驚艷台
 http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1,驚艷台
+http://125.227.210.55:8156/VideoInput/play.ts
 #EXTINF:-1,潘多拉完美臺
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1,松視1台
