@@ -82,14 +82,22 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1,MONO 29
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
-
+#EXTINF:-1,SKY SPORTS F1
+http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
+#EXTINF:-1,SKY SPORTS RACING
+http://extraott.com:80/live/6772191932/1654508883/153709.m3u8
+#EXTINF:-1,SKY FOOTBALL
+http://extraott.com:80/live/6772191932/1654508883/190006.m3u8
+#EXTINF:-1,PREMIER SPORTS 2
+http://extraott.com:80/live/6772191932/1654508883/153724.m3u8
 #EXTINF:-1,SKYTV F1
 https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb1896ea74d1847.m3u8
 #EXTINF:-1,IT SKY SPORT MAX
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/k5RXyi8YNiBLGpAHXX7ub1A0vnGykkw59F-o8cRCurmLPpG2vjLU5Ktyv26bVkYDhPLKQlVIf2VV-fo-pHdQDjUTCFRY9Obd6Ox4rJaPvYd0iMaJTx_OK-PHZm9srDCtqzQcWRNQzuRK4xbuLVNimEHmAp9Nsj7pRNrdu_8O3d0/hls/index.m3u8
 #EXTINF:-1,DMAX
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-
+#EXTINF:-1,BBC EARTH TW
+http://108.181.21.27:27347/livehttpplay?channel_id=20044
 #EXTINF:-1,RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,HBO PLUS
@@ -347,7 +355,18 @@ https://stream1.freetv.fun/disney-xd-east-1.ctv
 https://stream1.freetv.fun/newsmax-tv-2.ctv
 #EXTINF:-1,CCTV-4 America 
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
+#EXTINF:-1,龙华电影
+http://108.181.21.27:27347/livehttpplay?channel_id=10129
+#EXTINF:-1,龙华洋片
+http://108.181.21.27:27347/livehttpplay?channel_id=20090
+#EXTINF:-1,壹电影
+http://108.181.21.27:27347/livehttpplay?channel_id=20108
+#EXTINF:-1,壹新闻
+http://108.181.21.27:27347/livehttpplay?channel_id=20028
+#EXTINF:-1,纬来体育
+http://108.181.21.27:27347/livehttpplay?channel_id=20120
+#EXTINF:-1,五星体育
+http://108.181.21.27:27347/livehttpplay?channel_id=20060
 #EXTINF:-1,RTHK TV31
 http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 #EXTINF:-1,RTHK TV32
