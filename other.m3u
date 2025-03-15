@@ -1,13 +1,9 @@
 #EXTINF:-1,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1,Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1,FTV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-logo="https://i.imgur.com/gFHKCbZ.png" group-title="Series",The Bob Ross Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
 
 #EXTINF:-1,Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -15,14 +11,10 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1,ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1,BBC News Asia Pacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1,BBC NEWS 
+#EXTINF:-1,BBC NEWS Asia Pacific
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
 #EXTINF:-1,CBS NEWS
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1,CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International 
@@ -31,45 +23,37 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1,Euronews English
-https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1,Euronews English HD
+http://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1,SKY NEWS 
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1,CBN News 
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,Vice News
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,NHK World-Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1,Taiwan Plus TV 
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1,ARIANG TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN 
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1,日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1,Bloomberg Originals
-https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
-#EXTINF:-1 tvg-id="WMPTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS MPT Baltimore MD (WMPB) (1080p)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1,Rai 3
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
-#EXTINF:-1,Vice News
-https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,VICE TV
-https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1,VOA
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
 #EXTINF:-1,VOA
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="General;Undefined",BBC One South West HD (720p)
-https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,VICE TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="General;Undefined",BBC One HD
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 #EXTINF:-1,BBC One
 https://x.canlitvapp.com/u-bbc-1/index.m3u8
-#EXTINF:-1,BBC One
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/pqHc6Md5au_Bx818Q02ocBBe26O0IGvODlH9kbal7HB9mlIIm1AhCILHk9LPlyRf8H-aZiRVREZqKfcM3Wm4Gxq0hnRD0654HsDLtJmw9gVDDfXkMmA1LHSNNPwfo1DWOqdosGy9179IaFoiPkg3iOGp-MTxOjBgADyPAXQeh_8/hls/index.m3u8
 #EXTINF:-1,BBC TWO
 https://x.canlitvapp.com/u-bbc2/index.m3u8
 #EXTINF:-1,BBC Earth 
@@ -80,68 +64,45 @@ http://92.114.85.72:8000/play/a0mf
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1,BBC EARTH TW
 http://108.181.21.27:27347/livehttpplay?channel_id=20044
-#EXTINF:-1,NAT GEO
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/r-N6-Gp-tTG2nipLmIUuhdAuib_rXsfpLl6y6nAgaZ3vnNPDzVmK2SnBRsoTu8J__Zwst9ewUx64-a7jVDJur9HsJb4NiCqXdg3jPNfiPo7AaXbaNbNeUMnAvAywClcNCHkMhv7aM1nmGYDfZmfimgI3lEVX2i1fgunEvubeTYk/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="General",ITV1 Central HD (1080p)
+#EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="General",ITV1
 http://92.114.85.72:8000/play/a0lu
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2
 http://92.114.85.77:8000/play/a041
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",ITV3
 http://92.114.85.77:8000/play/a04z
 
-#EXTINF:-1,SKY SPORTS MIX
-http://7044722.lbss19.xyz/live/6772191932/1654508883/153712.m3u8?token=MGRvMkxpdHVBcUpxbGR4
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://7044722.lbss18.xyz/live/6772191932/1654508883/153695.m3u8?token=cnBPVE4waTFnNkJhSlZ1
-#EXTINF:-1,SKY Cinema Family
-https://www.insurancegogogo.com/4987/Paramountnetwork/playlist.m3u8?md5=_3G_Z5azJOFmoZGmM1MZ5A&expires=1741893453
+
 #EXTINF:-1,SKY SPORTS F1
 http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
 #EXTINF:-1,SKY SPORTS RACING
 http://extraott.com:80/live/6772191932/1654508883/153709.m3u8
-#EXTINF:-1,SKY FOOTBALL
-http://extraott.com:80/live/6772191932/1654508883/190006.m3u8
-#EXTINF:-1,IT SKY SPORT MAX
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/k5RXyi8YNiBLGpAHXX7ub1A0vnGykkw59F-o8cRCurmLPpG2vjLU5Ktyv26bVkYDhPLKQlVIf2VV-fo-pHdQDjUTCFRY9Obd6Ox4rJaPvYd0iMaJTx_OK-PHZm9srDCtqzQcWRNQzuRK4xbuLVNimEHmAp9Nsj7pRNrdu_8O3d0/hls/index.m3u8
 #EXTINF:-1,PREMIER SPORTS 2
 http://extraott.com:80/live/6772191932/1654508883/153724.m3u8
-#EXTINF:-1,RED BULL TV 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tennis Channel (1080p)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tennis Channel 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/WEM9B83.png" group-title="Undefined",Tennis Channel (UK)
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="Undefined",FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 
+#EXTINF:-1,MTV HITS
+http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
 #EXTINF:-1,MTV Live (United Kingdom)
 http://190.102.246.93:9005/play/a01p
 #EXTINF:-1,MTV Live (United States)
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1,MTV Classic East
+#EXTINF:-1,MTV Classic
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1,MTVU
-http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1,MTV2
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1,MTV
 https://streamer1.nexgen.bz/MTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,MTV HITS
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
-#EXTINF:-1,MTV Classic 
-https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1,MTV2
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1,MTVU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
 
 
-#EXTINF:-1,NBT11
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1,NBT 2 HD
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/chunklist.m3u8
 #EXTINF:-1,Thai PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1,3HD
@@ -151,30 +112,16 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1,MONO 29
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
 
-#EXTINF:-1 tvg-id="LegoChannel.us" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel (1080p)
-https://jmp2.uk/sam-GBBC4300005AL.m3u8
-#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Kids",LEGO Kids TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (720p)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
 #EXTINF:-1,DMAX
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+#EXTINF:-1,AXN
+http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1,HBO
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1,HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1,AXN
-http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-
-#EXTINF:-1 tvg-id="PlutoTVCultFilms.us" tvg-logo="https://i.imgur.com/xoaIAus.png" group-title="Movies",Pluto TV Cult Films
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
-#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movies",Pluto TV Horror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92
-#EXTINF:-1 tvg-id="PlutoTVTerror.us" tvg-logo="https://i.imgur.com/eWtoHDM.png" group-title="Movies",Pluto TV Terror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29
-#EXTINF:-1 tvg-id="PlutoTVThrillers.us" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Series",Pluto TV Thrillers
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562
 
 
 #EXTINF:-1,28 AI 智慧賽馬
@@ -367,7 +314,6 @@ http://178.219.128.68:64889/NATIGEOGHD
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="BBCUHD1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="BBCUHD2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
@@ -378,7 +324,6 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-id="BBCUHD5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
-
 
 
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 31 (港台電視31) 
