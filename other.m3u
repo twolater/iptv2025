@@ -29,29 +29,34 @@ http://stream01.vnet.am/Channel_119/mono.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1,Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,NHK World-Japan
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1,Taiwan Plus TV 
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1,日テレNEWS24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1,Rai 3
-https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
-#EXTINF:-1,VOA
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
-#EXTINF:-1,NHK World Premium
-https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8
 #EXTINF:-1,UN WEB TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,NHK World-Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1,NHK World Premium
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8
+#EXTINF:-1,Taiwan Plus TV 
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1,Rai News 24
+https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1,VOA
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
+
+
 
 #EXTINF:-1,RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1,FTV
+#EXTINF:-1,FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1,VICE TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Rai 3
+https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
+
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="General;Undefined",BBC One HD
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
@@ -104,7 +109,8 @@ https://streamer1.nexgen.bz/MTV/tracks-v1a1/mono.ts.m3u8
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1,MTVU
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
-
+#EXTINF:-1,Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1,Thai PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
