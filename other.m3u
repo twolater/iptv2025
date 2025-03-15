@@ -55,12 +55,21 @@ https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1,Rai 3
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
+#EXTINF:-1,Vice News
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,VICE TV
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1,VOA
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
 #EXTINF:-1,VOA
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
 
-
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="General;Undefined",BBC One South West HD (720p)
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,BBC One
 https://x.canlitvapp.com/u-bbc-1/index.m3u8
+#EXTINF:-1,BBC One
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/pqHc6Md5au_Bx818Q02ocBBe26O0IGvODlH9kbal7HB9mlIIm1AhCILHk9LPlyRf8H-aZiRVREZqKfcM3Wm4Gxq0hnRD0654HsDLtJmw9gVDDfXkMmA1LHSNNPwfo1DWOqdosGy9179IaFoiPkg3iOGp-MTxOjBgADyPAXQeh_8/hls/index.m3u8
 #EXTINF:-1,BBC TWO
 https://x.canlitvapp.com/u-bbc2/index.m3u8
 #EXTINF:-1,BBC Earth 
@@ -71,6 +80,8 @@ http://92.114.85.72:8000/play/a0mf
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1,BBC EARTH TW
 http://108.181.21.27:27347/livehttpplay?channel_id=20044
+#EXTINF:-1,NAT GEO
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/r-N6-Gp-tTG2nipLmIUuhdAuib_rXsfpLl6y6nAgaZ3vnNPDzVmK2SnBRsoTu8J__Zwst9ewUx64-a7jVDJur9HsJb4NiCqXdg3jPNfiPo7AaXbaNbNeUMnAvAywClcNCHkMhv7aM1nmGYDfZmfimgI3lEVX2i1fgunEvubeTYk/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="General",ITV1 Central HD (1080p)
 http://92.114.85.72:8000/play/a0lu
@@ -370,17 +381,16 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 
 
 
-#EXTINF:-1,RTHK TV31
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 31 (港台電視31) 
 http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-#EXTINF:-1,RTHK TV32
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 32 (港台電視32) 
 http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:-1,RTHK TV33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1,RTHK TV34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1,RTHK TV35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
-
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 33 (港台電視33) 
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 34 (港台電視34)
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 35 (港台電視35)
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 #EXTINF:-1,龙华电影
 http://108.181.21.27:27347/livehttpplay?channel_id=10129
