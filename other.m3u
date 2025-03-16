@@ -72,11 +72,11 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="General;Undefined",BBC One HD
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
-#EXTINF:-1,BBC One
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One 
 http://5startv.xyz:8080/Carolyns/Tampalady/95515
-#EXTINF:-1,BBC TWO
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC TWO
 http://5startv.xyz:8080/Carolyns/Tampalady/95505
 #EXTINF:-1,BBC Earth 
 http://178.219.128.68:64888/BBCEARTHD
@@ -143,9 +143,9 @@ http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&c
 http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1,HBO2
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,HBO PLUS
+#EXTINF:-1,#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment",HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1,HBO XTREME
+#EXTINF:-1,tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Entertainment",HBO XTREME
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East 
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
