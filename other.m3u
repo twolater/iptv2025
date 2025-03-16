@@ -28,7 +28,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1,Euronews English HD
+#EXTINF:-1,Euronews English 
 http://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1,SKY NEWS 
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
@@ -71,13 +71,16 @@ http://109.233.89.166/History_HD/index.m3u8
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p)
+http://178.219.128.68:64889/NATIGEOGHD
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD
-https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One 
-http://5startv.xyz:8080/Carolyns/Tampalady/95515
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC TWO
-http://5startv.xyz:8080/Carolyns/Tampalady/95505
+http://5startv.xyz:8080/Carolyns/Tampalady/20867
 #EXTINF:-1,BBC Earth 
 http://178.219.128.68:64888/BBCEARTHD
 #EXTINF:-1,BBC Scotland
@@ -108,6 +111,67 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="Undefined",FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="UK Football- Premier League (Events Only)",Premier League Tv Optus
+http://5startv.xyz:8080/Carolyns/Tampalady/110281
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 01
+http://5startv.xyz:8080/Carolyns/Tampalady/110276
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 02
+http://5startv.xyz:8080/Carolyns/Tampalady/110277
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 03
+http://5startv.xyz:8080/Carolyns/Tampalady/110278
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 04
+http://5startv.xyz:8080/Carolyns/Tampalady/110279
+#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 05
+http://5startv.xyz:8080/Carolyns/Tampalady/110280
+#EXTINF:-1 tvg-id="" tvg-name="***HUB PREMIER Listings***" tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/hub-guide.png" group-title="UK Football- Premier League (Events Only)",***HUB PREMIER Listings***
+http://5startv.xyz:8080/Carolyns/Tampalady/110300
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 01
+http://5startv.xyz:8080/Carolyns/Tampalady/110288
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 02
+http://5startv.xyz:8080/Carolyns/Tampalady/110289
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 03
+http://5startv.xyz:8080/Carolyns/Tampalady/110290
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 04
+http://5startv.xyz:8080/Carolyns/Tampalady/110291
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 05
+http://5startv.xyz:8080/Carolyns/Tampalady/110292
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 06" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub6.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 06
+http://5startv.xyz:8080/Carolyns/Tampalady/110293
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 07" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub7.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 07
+http://5startv.xyz:8080/Carolyns/Tampalady/110294
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 08" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub8.png" group-title="UK Football- Premier League (Events Only)",Hub Premier EPL 08
+http://5startv.xyz:8080/Carolyns/Tampalady/110295
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 09" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub9.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 09
+http://5startv.xyz:8080/Carolyns/Tampalady/110296
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 10" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub10.png" group-title="UK Football- Premier League (Events Only)",Hub Premier EPL 10
+http://5startv.xyz:8080/Carolyns/Tampalady/110297
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier EPL 11" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub11.png" group-title="UK Football- Premier League (Events Only)",Hub Premier EPL 11
+http://5startv.xyz:8080/Carolyns/Tampalady/110298
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 1 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117457
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 2 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 2 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117458
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 3 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 3 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117459
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 4 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 4 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117460
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 5 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 5 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117461
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 6 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 6 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117462
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 7 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 7 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117463
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier League 8 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 8 [Events Only]
+http://5startv.xyz:8080/Carolyns/Tampalady/117464
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT-BT Sport 1" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports1.png" group-title="UK Sports",TNT-BT Sport 1
+http://5startv.xyz:8080/Carolyns/Tampalady/100775
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT-BT Sport 2" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports2.png" group-title="UK Sports",TNT-BT Sport 2
+http://5startv.xyz:8080/Carolyns/Tampalady/100776
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT-BT Sport 3" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports3.png" group-title="UK Sports",TNT-BT Sport 3
+http://5startv.xyz:8080/Carolyns/Tampalady/100777
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT-BT Sport 4 " tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports4.png" group-title="UK Sports",TNT-BT Sport 4 
+http://5startv.xyz:8080/Carolyns/Tampalady/100778
+
 
 
 #EXTINF:-1,MTV HITS
@@ -129,6 +193,18 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TraceUrban.png" group-title="",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 1
+http://5startv.xyz:8080/Carolyns/Tampalady/103623
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 2
+http://5startv.xyz:8080/Carolyns/Tampalady/103624
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 3
+http://5startv.xyz:8080/Carolyns/Tampalady/103625
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 4
+http://5startv.xyz:8080/Carolyns/Tampalady/103626
+
+
 #EXTINF:-1,Thai PBS 
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1,3HD
@@ -142,6 +218,8 @@ https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 #EXTINF:-1,AXN
 http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-name="AXS TV Now" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/AXSTV.png" group-title="",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,HBO2
 https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment",HBO PLUS
@@ -179,184 +257,172 @@ https://tvpass.org/live/USANetworkEast/hd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel 5 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel 8 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel U HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",myTV SUPER 18台
-http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",PopC
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ROCK Action
-http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",tvN
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中天新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",千禧经典台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",娱乐新闻台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台 4K
-http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠综合台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",黄金翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="港澳台",AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Love Nature HD
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Love_The_Planet
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Animax(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="港澳台",DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="港澳台",France 24
-http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK World-Japan
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NHK东京総合
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="港澳台",Nick Jr
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="港澳台",Nickelodeon
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Thrill
-http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Xite Rock
-http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Xite_Hits
-http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",ZooMoo
-http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台",亚洲新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视国际频道
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",无线卫星新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel 5
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch1/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel 8
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch2/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel U
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
-#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="港澳台",CINEMAWORLD
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",FIGHT SPORTS
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",KIX
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NBA TV
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Sukan
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Sukan[备用]
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TV9
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Unifi Sport
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",曼联电视频道
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="港澳台",amc电影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="港澳台",HITS频道
-http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
-#EXTINF:-1 tvg-id="7138" tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" group-title="港澳台",TVBS精采台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="地方",三立综合台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="港澳台",台视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-id="7139" tvg-name="爱尔达娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" group-title="港澳台",爱尔达娱乐台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民视台湾台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视综艺台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="港澳台",龙华偶像台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="港澳台",龙华日韩台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="港澳台",龙华电影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",台
-http://aktv_stream1.m16tv.cfd/stream/test/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro Football
-http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Astro IQIYI
-http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="港澳台",Disney Channel
-http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Disney XD
-http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Love Nature 4K
-http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Red Bull Sports
-http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",NTV NEWS 24
-http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",viuTV
-http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
+#EXTINF:-1,myTV SUPER 18台
+http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,PopC
+http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1,ROCK Action
+http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvN
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,中天新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,千禧經典台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,娛樂新聞台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+#EXTINF:-1,寰宇新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,明珠剧集台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1,明珠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,無線新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,美亞電影台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,翡翠剧集台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1,翡翠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1,翡翠综合台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,鳳凰中文
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,鳳凰資訊
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,鳳凰香港
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1,黃金翡翠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,AXN
+http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,Love Nature HD
+http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,Love_The_Planet
+http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
+#EXTINF:-1,无线新闻台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,東森新聞
+http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1,Animax(SGP)
+http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,DW
+http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,France 24
+http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,NHK World-Japan
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,NHK東京総合
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,Nick Jr
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,Nickelodeon
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,Thrill
+http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Xite_Hits
+http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+#EXTINF:-1,ZooMoo
+http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,亞洲新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,東方衛視國際頻道
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1,無線衛星新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,Channel 5
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch1/AKTV.m3u8
+#EXTINF:-1,Channel 8
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch2/AKTV.m3u8
+#EXTINF:-1,Channel U
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
+#EXTINF:-1,CINEMAWORLD
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
+#EXTINF:-1,NBA TV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1,Sukan
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1,Sukan[备用]
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
+#EXTINF:-1,TV9
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1,Unifi Sport
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1,曼聯電視頻道
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1,amc電影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+#EXTINF:-1,HITS頻道
+http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
+#EXTINF:-1,TVBS精采台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
+#EXTINF:-1,三立綜合台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+#EXTINF:-1,中視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+#EXTINF:-1,中視新聞
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1,台視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+#EXTINF:-1,台視新聞
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1,寰宇新聞台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
+#EXTINF:-1,愛爾達娛樂台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
+#EXTINF:-1,東森新聞台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
+#EXTINF:-1,民視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+#EXTINF:-1,民視台灣台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
+#EXTINF:-1,民視新聞台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+#EXTINF:-1,民視第一台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1,民視綜藝台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
+#EXTINF:-1,華視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1,龍華偶像台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1,龍華日韓台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,龍華電影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,Astro Football
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1,Astro IQIYI
+http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,Disney Channel
+http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
+#EXTINF:-1,Disney XD
+http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
+#EXTINF:-1,Love Nature 4K
+http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
+#EXTINF:-1,Red Bull Sports
+http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
+#EXTINF:-1,NTV NEWS 24
+http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1,viuTV
+http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 #EXTINF:-1, Star Sports SL 1 HD 
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TNT Sports 1 HD
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
@@ -377,40 +443,21 @@ https://tvpass.org/live/tsn3/hd/
 https://tvpass.org/live/tsn4/hd/
 #EXTINF:-1,TSN5
 https://tvpass.org/live/tsn5/hd/
-#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p)
-http://178.219.128.68:64889/NATIGEOGHD
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 
-#EXTINF:-1 tvg-id="BBCUHD1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-id="BBCUHD5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
-https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
 
-
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 31 (港台電視31) 
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Undefined",RTHK TV 31 (港台電視31) 
 http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 32 (港台電視32) 
-http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 32 (港台電視32) 
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="Undefined",RTHK TV 32 (港台電視32) 
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 33 (港台電視33) 
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/2MProun.png" group-title="Undefined",RTHK TV 33 (港台電視33) 
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 34 (港台電視34)
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="Undefined",RTHK TV 34 (港台電視34)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK TV 35 (港台電視35)
+#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/RTHK_TV_35.svg" group-title="Undefined",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 
-#EXTINF:-1 tvg-name="AXS TV Now" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/AXSTV.png" group-title="",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,龙华电影
 http://108.181.21.27:27347/livehttpplay?channel_id=10129
 #EXTINF:-1,龙华洋片
@@ -429,49 +476,18 @@ http://108.181.21.27:27347/livehttpplay?channel_id=20060
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1,天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1,Astro AOD
-http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1,Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1,爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1,Astro QJ
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1,Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1,八度空间
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1,CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1,CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1,CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1,澳视澳门
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 澳视卫星
-http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 VIUTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 VIUTV2
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 HOY TV
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1,美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1,重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1,广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1,緯來電影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
 #EXTINF:-1,龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 #EXTINF:-1,東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-
+#EXTINF:-1,广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 
 #EXTINF:-1,三立新闻
@@ -496,8 +512,6 @@ http://125.227.210.55:8160/VideoInput/play.ts
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1,卡通频道(VPN)
 http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1,HBO
-http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1,Discovery
 http://125.227.210.55:8154/VideoInput/play.ts
 #EXTINF:-1,中天新闻
@@ -538,13 +552,6 @@ http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143
 https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8?md5=zj6BU-bm0X_RgGTLF11yBg&expires=1741892158
 #EXTINF:-1,東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-#EXTINF:-1,八大戲劇台
-http://198.16.100.186:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-
-#EXTINF:-1,東森超視
-http://122.117.71.103:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
-#EXTINF:-1 ,CN卡通
-http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 #EXTINF:-1,东森电影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1,龙祥电影
