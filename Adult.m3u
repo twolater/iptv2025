@@ -1,39 +1,39 @@
 
 https://epg.pw/xmltv/epg_TW.xml
 
-#EXTINF:-1 tvg-id="BananaTV.tw" tvg-name="Banana TV" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160729776298_38.jpg" group-title="Adult",香蕉台
+#EXTINF:-1 tvg-id="BananaTV.tw" tvg-name="Banana TV" tvg-logo="https://ia601706.us.archive.org/21/items/4_20230201_20230201_1628/%E9%A6%99%E8%95%89%E5%8F%B0.png" group-title="Adult",香蕉台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 tvg-id="AmazingTV.tw" tvg-name="Amazing TV" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160713188578_50.jpg" group-title="Adult",#驚艷台
+#EXTINF:-1 tvg-id="AmazingTV.tw" tvg-name="Amazing TV" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E9%A9%9A%E8%B1%94%E5%8F%B0.png" group-title="Adult",#驚艷台
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1 tvg-id="PandoraPerfectHD.tw" tvg-name="Pandora Perfect HD" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160623339189_85.jpg" group-title="Adult",潘多拉完美臺
+#EXTINF:-1 tvg-id="PandoraPerfectHD.tw" tvg-name="Pandora Perfect HD" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E6%BD%98%E6%9C%B5%E6%8B%89%E7%8E%A9%E7%BE%8E%E5%8F%B0.png" group-title="Adult",潘多拉完美臺
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 tvg-id="SonseeTV1.tw" tvg-name="Sonsee TV 1" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160519310300_91.jpg" group-title="Adult",松視1台
+#EXTINF:-1 tvg-id="SonseeTV1.tw" tvg-name="Sonsee TV 1" tvg-logo="https://ia600602.us.archive.org/1/items/1_20230201_20230201_1610/%E6%9D%BE%E8%A6%961%E5%8F%B0.png" group-title="Adult",松視1台
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 tvg-id="SonseeTV2.tw" tvg-name="Sonsee TV 2" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160534951744_94.jpg" group-title="Adult",松視2台
+#EXTINF:-1 tvg-id="SonseeTV2.tw" tvg-name="Sonsee TV 2" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%962%E5%8F%B0.png" group-title="Adult",松視2台
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 tvg-id="SonseeTV3.tw" tvg-name="Sonsee TV 3" tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611160551332394_32.jpg" group-title="Adult",松視3台
+#EXTINF:-1 tvg-id="SonseeTV3.tw" tvg-name="Sonsee TV 3" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%963%E5%8F%B0.png" group-title="Adult",松視3台
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MiaMitv" tvg-logo="https://1a-1791.com/video/z8/g/o/6/r/go6ra.baa-MiamiTV-s16v2f.png" group-title="Adult",MiaMitv
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eroxxx" tvg-logo="https://imgur.com/sc11PtR" group-title="Adult",Eroxxx
+#EXTINF:-1 tvg-id="EroXXX.nl" tvg-name="Eroxxx" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="Adult",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="https://imgur.com/prnoBGv" group-title="Adult",Brazzers
+#EXTINF:-1 tvg-id="DirtyMasseur.ca" tvg-name="Brazzers" tvg-logo="https://i.imgur.com/prnoBGv.png" group-title="Adult",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desire" tvg-logo="https://imgur.com/YYSsMP8" group-title="Adult",Desire
+#EXTINF:-1 tvg-id="Desire.uk" tvg-name="Desire" tvg-logo="https://i.imgur.com/YYSsMP8.png" group-title="Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel" tvg-logo="https://imgur.com/ZwMZEKZ" group-title="Adult",Dorcel
+#EXTINF:-1 tvg-id="DorcelTVCanada.ca" tvg-name="Dorcel" tvg-logo="https://i.imgur.com/ZwMZEKZ.png" group-title="Adult",Dorcel
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extasy" tvg-logo="https://imgur.com/WvlTO1l" group-title="Adult",Extasy
+#EXTINF:-1 tvg-id="EXTASYHD.cz" tvg-name="Extasy" tvg-logo="https://i.imgur.com/WvlTO1l.png" group-title="Adult",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Erox HD" tvg-logo="https://tvprofil.com/img/kanali-logo/EroX_HD_PL_logo.png?1737463236" group-title="Adult",Erox HD
+#EXTINF:-1 tvg-id="EroXHD.nl" tvg-name="Erox HD" tvg-logo="https://tvprofil.com/img/kanali-logo/EroX_HD_PL_logo.png" group-title="Adult",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-name="Playboy HD" tvg-logo="https://imgur.com/B3DMUM9" group-title="Adult",Playboy HD
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-name="Playboy HD" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="Adult",Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PassionXXX" tvg-logo="" group-title="Adult",PassionXXX
+#EXTINF:-1 tvg-id="PassionXXX.nl" tvg-name="PassionXXX" tvg-logo="https://tvprofil.com/img/kanali-logo/Passion_XXX_BG_logo.png" group-title="Adult",PassionXXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leo HD" tvg-logo="" group-title="Adult",Leo HD
+#EXTINF:-1 tvg-id="LEOTVHD.cz" tvg-name="Leo HD" tvg-logo="https://i.imgur.com/gqMiEi0.png" group-title="Adult",Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reality Kings HD" tvg-logo="" group-title="Adult",Reality Kings HD
+#EXTINF:-1 tvg-id="RealityKingsHD.us" tvg-name="Reality Kings HD" tvg-logo="https://i.imgur.com/B1ajPsR.png" group-title="Adult",Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 
