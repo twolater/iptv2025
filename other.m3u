@@ -5,6 +5,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1,LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
+
+#EXTINF:-1 ,[DE] ARTE
+http://supersonictv.live:8080/roelle0923/roelle0923/84710
 #EXTINF:-1 tvg-id="" tvg-name="DE: ARTE" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEszVqUtzNtI4uX1c97gzIjgKIXIP7B4WQOJz-TqaWxrg.png" group-title="Germany",DE: ARTE
 http://5startv.xyz:8080/Carolyns/Tampalady/121747
 #EXTINF:-1 tvg-id="" tvg-name="FR: ARTE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s79103_ll_h3_aa.png" group-title="France",FR: ARTE FHD
@@ -48,9 +51,6 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,VOA
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
-
-
-
 #EXTINF:-1,RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,MUTV
@@ -99,6 +99,71 @@ http://92.114.85.77:8000/play/a04z
 #EXTINF:-1 tvg-id="ITV4 HD" tvg-name="ITV 4" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/itv-4-uk.png" group-title="UK Entertainment",ITV 4
 http://5startv.xyz:8080/Carolyns/Tampalady/20807
 
+#EXTINF:-1 ,UK ITV 2
+http://supersonictv.live:8080/SLIM23/SARASOTA14/12254
+#EXTINF:-1 ,UK ITV 3
+http://supersonictv.live:8080/SLIM23/SARASOTA14/12255
+
+#EXTINF:-1 ,24/7 Britain's Got Talent
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79376
+#EXTINF:-1 ,24/7 Americas Got Talent
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79191
+#EXTINF:-1 ,24/7 The Voice
+http://supersonictv.live:8080/SLIM23/SARASOTA14/81482
+#EXTINF:-1 ,24/7 The Voice US
+http://supersonictv.live:8080/SLIM23/SARASOTA14/81483
+#EXTINF:-1 ,24/7 Twilight Zone
+http://supersonictv.live:8080/roelle0923/roelle0923/86103
+#EXTINF:-1 ,24/7 Happy Tree Friends Ka Pow
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79980
+#EXTINF:-1 ,24/7 Happy Tree Friends
+http://supersonictv.live:8080/SLIM23/SARASOTA14/80024
+#EXTINF:-1 ,24/7 Rick and Morty
+http://supersonictv.live:8080/SLIM23/SARASOTA14/80899
+#EXTINF:-1 ,24/7 Rick And Morty
+http://supersonictv.live:8080/SLIM23/SARASOTA14/80900
+#EXTINF:-1 ,24/7 Mr  Pickles
+http://supersonictv.live:8080/SLIM23/SARASOTA14/80476
+#EXTINF:-1 ,24/7 The Wire
+http://supersonictv.live:8080/SLIM23/SARASOTA14/81490
+#EXTINF:-1 ,24/7 2 Broke Girls
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79071
+#EXTINF:-1 ,24/7 Twin Peaks The Return
+http://supersonictv.live:8080/SLIM23/SARASOTA14/81675
+#EXTINF:-1 ,24/7 The Big Bang Theory
+http://supersonictv.live:8080/SLIM23/SARASOTA14/81253
+#EXTINF:-1 ,24/7 True Detective
+http://supersonictv.live:8080/SLIM23/SARASOTA14/81731
+#EXTINF:-1 ,24/7 Modern Family
+http://supersonictv.live:8080/SLIM23/SARASOTA14/80460
+#EXTINF:-1 ,24/7 Modern Family
+http://supersonictv.live:8080/SLIM23/SARASOTA14/80461
+#EXTINF:-1 ,24/7 Lupin III 1 Money Wars
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79050
+#EXTINF:-1 ,24/7 Lupin III Ai no Da Capo Fujiko s Unlucky Days
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79051
+#EXTINF:-1 ,24/7 Lupin III Dead or Alive
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79052
+#EXTINF:-1 ,24/7 Lupin III Fuuma Ichizoku no Inbou
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79053
+#EXTINF:-1 ,24/7 Lupin III Honoo no Kioku Tokyo Crisis
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79054
+#EXTINF:-1 ,24/7 Lupin III Kutabare Nostradamus
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79055
+#EXTINF:-1 ,24/7 Lupin III Lupin Ansatsu Shirei
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79056
+#EXTINF:-1 ,24/7 Lupin III Moeyo Zantetsuken
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79057
+#EXTINF:-1 ,24/7 Lupin III Napoleon no Jisho wo Ubae
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79058
+#EXTINF:-1 ,24/7 Lupin III Russia yori Ai wo Komete
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79059
+#EXTINF:-1 ,24/7 Lupin III Twilight Gemini no Himitsu
+http://supersonictv.live:8080/SLIM23/SARASOTA14/79060
+
+
+
+
 #EXTINF:-1,SKY SPORTS F1
 http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
 #EXTINF:-1,SKY SPORTS RACING
@@ -113,16 +178,6 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="UK Football- Premier League (Events Only)",Premier League Tv Optus
 http://5startv.xyz:8080/Carolyns/Tampalady/110281
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="Astro EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 01
-http://5startv.xyz:8080/Carolyns/Tampalady/110276
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="Astro EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 02
-http://5startv.xyz:8080/Carolyns/Tampalady/110277
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="Astro EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 03
-http://5startv.xyz:8080/Carolyns/Tampalady/110278
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="Astro EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 04
-http://5startv.xyz:8080/Carolyns/Tampalady/110279
-#EXTINF:-1 tvg-id="" tvg-name="Astro EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="UK Football- Premier League (Events Only)",Astro EPL 05
-http://5startv.xyz:8080/Carolyns/Tampalady/110280
 #EXTINF:-1 tvg-id="" tvg-name="***HUB PREMIER Listings***" tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/hub-guide.png" group-title="UK Football- Premier League (Events Only)",***HUB PREMIER Listings***
 http://5startv.xyz:8080/Carolyns/Tampalady/110300
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 01
@@ -192,17 +247,6 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TraceUrban.png" group-title="",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 1
-http://5startv.xyz:8080/Carolyns/Tampalady/103623
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 2
-http://5startv.xyz:8080/Carolyns/Tampalady/103624
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 3
-http://5startv.xyz:8080/Carolyns/Tampalady/103625
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="Astro SS / SuperSport  ",ASTRO: SS 4
-http://5startv.xyz:8080/Carolyns/Tampalady/103626
 
 
 #EXTINF:-1,Thai PBS 
@@ -562,3 +606,7 @@ http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct
 https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
 #EXTINF:-1,龙华电影
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+
+
+
+
