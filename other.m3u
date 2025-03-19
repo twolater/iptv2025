@@ -4,7 +4,19 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1,HomeTV 4K
+http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+JUST VOGUE TV 
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+ 4K TRAVEL TV 
+https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+ 4K TRAVEL XP 
+https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fireplace Vibes
+https://jmp2.uk/sam-USBA3800004EL.m3u8
 
+#EXTINF:-1,FashionTV Midnite Secrets
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 #EXTINF:-1 ,[DE] ARTE
 http://supersonictv.live:8080/roelle0923/roelle0923/84710
@@ -45,7 +57,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1,NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV 
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,Rai News 24
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
@@ -53,17 +65,16 @@ https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/play
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
 #EXTINF:-1,RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,RED BULL TV 2 
+https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 #EXTINF:-1,MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LFC TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="Club Channels (SPFL)(SPFLC)",LFC TV ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title=,LFC TV
 http://5startv.xyz:8080/Carolyns/Tampalady/117447
-#EXTINF:-1,FashionTV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1,VICE TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Rai 3
 https://stream1.freetv.fun/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8
-
 
 
 
@@ -89,45 +100,28 @@ http://178.219.128.68:64889/NATIGEOGHD
 #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,AMC
-http://109.233.89.166/AMC_HD/index.m3u8
-#EXTINF:-1,BBC Earth (1080p)
-http://109.233.89.170/BBC_Earth_HD/index.m3u8
-#EXTINF:-1,Eleven Sports 1 (2160p)
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
-#EXTINF:-1,Eleven Sports 2 (1080p)
-http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
-#EXTINF:-1,Eleven Sports 3 (1080p)
-http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
-#EXTINF:-1,Eleven Sports 4 (1080p)
-http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
-#EXTINF:-1,Polsat Sport (1080p)
-http://109.233.89.170/Polsat_Sport_HD/index.m3u8
-#EXTINF:-1,Polsat Sport Extra (1080p)
-http://109.233.89.170/Polsat_Sport_Extra_HD/index.m3u8
-#EXTINF:-1,Polsat Sport Fight (1080p)
-http://109.233.89.170/Polsat_Sport_Fight_HD/index.m3u8
-#EXTINF:-1,Polsat Sport News (1080p)
-http://109.233.89.170/Polsat_Sport_News_HD/index.m3u8
-#EXTINF:-1,Polsat Sport Premium 1 (1080p)
-http://195.189.60.33:9003/play/a002
-#EXTINF:-1,Polsat Sport Premium 2 (1080p)
-http://195.189.60.33:9003/play/a003
-#EXTINF:-1,Polsat Sport Premium 3 PPV (1080p)
-http://195.189.60.33:9002/play/a009
-#EXTINF:-1,Polsat Sport Premium 4 PPV (1080p)
-http://195.189.60.33:9002/play/a00a
-#EXTINF:-1,Polsat Sport Premium 5 PPV (1080p)
-http://195.189.60.33:9013/play/a00m
-#EXTINF:-1,NSport+ (1080p)
-http://185.236.229.62:9981/play/a05h
+
+#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="UNITED KINGDOM",BBC One UK
+https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fddy6new.koskoros.ru%2Fddy6%2Fpremium356%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="UNITED KINGDOM",BBC Two UK
+https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fdokko1new.koskoros.ru%2Fdokko1%2Fpremium357%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV
+#EXTINF:-1  tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-three.png" group-title="UNITED KINGDOM",BBC Three UK
+https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fddy6new.koskoros.ru%2Fddy6%2Fpremium358%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
+#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-four.png" group-title="UNITED KINGDOM",BBC Four UK
+https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fdokko1new.koskoros.ru%2Fdokko1%2Fpremium359%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
+
 
 
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One 
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC TWO
 http://5startv.xyz:8080/Carolyns/Tampalady/20867
+
+
+#EXTINF:-1,AMC
+http://109.233.89.166/AMC_HD/index.m3u8
+#EXTINF:-1,BBC Earth (1080p)
+http://109.233.89.170/BBC_Earth_HD/index.m3u8
 #EXTINF:-1,BBC Earth 
 http://178.219.128.68:64888/BBCEARTHD
 #EXTINF:-1,BBC Scotland
@@ -211,6 +205,36 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/79060
 
 
 
+#EXTINF:-1,Eleven Sports 1 (2160p)
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
+#EXTINF:-1,Eleven Sports 2 (1080p)
+http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
+#EXTINF:-1,Eleven Sports 3 (1080p)
+http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
+#EXTINF:-1,Eleven Sports 4 (1080p)
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+#EXTINF:-1,Polsat Sport (1080p)
+http://109.233.89.170/Polsat_Sport_HD/index.m3u8
+#EXTINF:-1,Polsat Sport Extra (1080p)
+http://109.233.89.170/Polsat_Sport_Extra_HD/index.m3u8
+#EXTINF:-1,Polsat Sport Fight (1080p)
+http://109.233.89.170/Polsat_Sport_Fight_HD/index.m3u8
+#EXTINF:-1,Polsat Sport News (1080p)
+http://109.233.89.170/Polsat_Sport_News_HD/index.m3u8
+#EXTINF:-1,Polsat Sport Premium 1 (1080p)
+http://195.189.60.33:9003/play/a002
+#EXTINF:-1,Polsat Sport Premium 2 (1080p)
+http://195.189.60.33:9003/play/a003
+#EXTINF:-1,Polsat Sport Premium 3 PPV (1080p)
+http://195.189.60.33:9002/play/a009
+#EXTINF:-1,Polsat Sport Premium 4 PPV (1080p)
+http://195.189.60.33:9002/play/a00a
+#EXTINF:-1,Polsat Sport Premium 5 PPV (1080p)
+http://195.189.60.33:9013/play/a00m
+#EXTINF:-1,NSport+ (1080p)
+http://185.236.229.62:9981/play/a05h
+
+
 #EXTINF:-1,SKY SPORTS F1
 http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
 #EXTINF:-1,SKY SPORTS RACING
@@ -219,12 +243,17 @@ http://extraott.com:80/live/6772191932/1654508883/153709.m3u8
 http://extraott.com:80/live/6772191932/1654508883/153724.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Tennis Channel 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1,TENNIS CHANNEL 2 
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1,SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+#EXTINF:-1,FIFA 
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="Undefined",FIFA+ (720p)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premier League Tv Optus" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/premier-league.png" group-title="UK Football- Premier League (Events Only)",Premier League Tv Optus
-http://5startv.xyz:8080/Carolyns/Tampalady/110281
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 01
 http://5startv.xyz:8080/Carolyns/Tampalady/110288
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 02
@@ -309,6 +338,8 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1,MONO 29
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
 
+
+
 #EXTINF:-1,DMAX
 http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
 #EXTINF:-1,AXN
@@ -353,165 +384,6 @@ https://tvpass.org/live/USANetworkEast/hd
 
 
 
-#EXTINF:-1,myTV SUPER 18台
-http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1,PopC
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1,ROCK Action
-http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1,TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvN
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1,中天新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,千禧經典台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1,娛樂新聞台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1,寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1,明珠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1,明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1,無線新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1,美亞電影台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1,翡翠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1,翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1,翡翠综合台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1,鳳凰中文
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,鳳凰資訊
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,鳳凰香港
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1,黃金翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1,AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,Love Nature HD
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1,Love_The_Planet
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
-#EXTINF:-1,无线新闻台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1,東森新聞
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1,Animax(SGP)
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1,DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,France 24
-http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1,KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1,NHK World-Japan
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1,NHK東京総合
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1,Nick Jr
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1,Nickelodeon
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1,Thrill
-http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1,Xite_Hits
-http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1,ZooMoo
-http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,亞洲新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,東方衛視國際頻道
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1,無線衛星新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1,Channel 5
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch1/AKTV.m3u8
-#EXTINF:-1,Channel 8
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch2/AKTV.m3u8
-#EXTINF:-1,Channel U
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
-#EXTINF:-1,CINEMAWORLD
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1,FIGHT SPORTS
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1,KIX
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
-#EXTINF:-1,NBA TV
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1,Sukan
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1,Sukan[备用]
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
-#EXTINF:-1,TV9
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-#EXTINF:-1,Unifi Sport
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1,曼聯電視頻道
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1,amc電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1,HITS頻道
-http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
-#EXTINF:-1,TVBS精采台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1,三立綜合台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
-#EXTINF:-1,中視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1,中視新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1,台視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1,台視新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1,寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1,愛爾達娛樂台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1,東森新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-#EXTINF:-1,民視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1,民視台灣台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1,民視新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1,民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1,民視綜藝台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
-#EXTINF:-1,華視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1,龍華偶像台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1,龍華日韓台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1,龍華電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1,Astro Football
-http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1,Astro IQIYI
-http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1,Disney Channel
-http://aktv_stream1.m16tv.cfd/stream/tuntun/disneychannel/AKTV.m3u8
-#EXTINF:-1,Disney XD
-http://aktv_stream1.m16tv.cfd/stream/tuntun/disneyxd/AKTV.m3u8
-#EXTINF:-1,Love Nature 4K
-http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1,Red Bull Sports
-http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1,NTV NEWS 24
-http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
-#EXTINF:-1,viuTV
-http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-
 #EXTINF:-1, Star Sports SL 1 HD 
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TNT Sports 1 HD
@@ -553,6 +425,175 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/RTHK_TV_35.svg" group-title="Undefined",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1,28 AI 智慧賽馬
+http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1,Channel 5 HD
+http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1,Channel 8 HD
+http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,Channel U HD
+http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,myTV SUPER 18台
+http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,PopC
+http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1,ROCK Action
+http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvN
+http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,中天新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,千禧經典台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,娛樂新聞台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+#EXTINF:-1,寰宇新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,明珠剧集台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1,明珠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,無線新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,美亞電影台(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,翡翠剧集台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1,翡翠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1,翡翠台 4K
+http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1,翡翠综合台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,鳳凰中文
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,鳳凰資訊
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,鳳凰香港
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1,黃金翡翠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,AXN
+http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,Love Nature HD
+http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,无线新闻台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,東森新聞
+http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1,Animax(HK)
+http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,DW
+http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,France 24
+http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,NHK World-Japan
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,NHK東京総合
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,Nick Jr
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,Nickelodeon
+http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,Thrill
+http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Xite Hits
+http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+#EXTINF:-1,Xite Rock
+http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1,ZooMoo
+http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,亞洲新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,東方衛視國際頻道
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1,無線衛星新聞台
+http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,Asian Action
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
+#EXTINF:-1,Celestial Movies
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1,CINEMAWORLD
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
+#EXTINF:-1,Mediacorp Entertainment Chinese
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+#EXTINF:-1,NBA TV
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1,Sukan
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1,Sukan[备用]
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
+#EXTINF:-1,TV9
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1,TVB Jade
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1,TVB Xing He
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+#EXTINF:-1,Unifi Sport
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1,曼聯電視頻道
+http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1,amc電影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+#EXTINF:-1,HITS頻道
+http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
+#EXTINF:-1,TVBS精采台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
+#EXTINF:-1,三立綜合台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+#EXTINF:-1,中視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+#EXTINF:-1,中視新聞
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1,台視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+#EXTINF:-1,台視新聞
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1,愛爾達娛樂台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
+#EXTINF:-1,民視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+#EXTINF:-1,民視台灣台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
+#EXTINF:-1,民視新聞台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+#EXTINF:-1,民視第一台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1,民視綜藝台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
+#EXTINF:-1,華視
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1,龍華偶像台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1,龍華日韓台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,龍華電影台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,台
+http://aktv_stream1.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1,Astro Football
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1,Astro IQIYI
+http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,Astro 欢喜台
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1,NTV NEWS 24
+http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1,viuTV
+http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+
 
 
 #EXTINF:-1,龙华电影
