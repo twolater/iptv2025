@@ -28,7 +28,7 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="EroXHD.nl" tvg-name="Erox HD" tvg-logo="https://tvprofil.com/img/kanali-logo/EroX_HD_PL_logo.png" group-title="Adult",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-name="Playboy HD" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="Adult",Playboy HD
-https://s.oxax.tv/1MF_4pA9Gv-AVU1Z3PFjyA/6/1742170050/index.m3u8
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="PassionXXX.nl" tvg-name="PassionXXX" tvg-logo="https://tvprofil.com/img/kanali-logo/Passion_XXX_BG_logo.png" group-title="Adult",PassionXXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 tvg-id="LEOTVHD.cz" tvg-name="Leo HD" tvg-logo="https://i.imgur.com/gqMiEi0.png" group-title="Adult",Leo HD
