@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1,NHK新闻
+http://211.75.171.121:8552/http/61.67.128.137:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1,チャンネル银河
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1,ムービープラス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,スーパー!ドラマTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BSアニマックス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,GAORA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,BSテレ东
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,LaLaTV
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,歌谣ポップスチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,テレビ东京
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,ファミリー剧场
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,日テレジータス
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,囲碁将棋チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,ホームドラマチャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,スターチャンネル2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,スターチャンネル3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,フジテレビ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,钓りビジョン
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,JSPORTS1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,JSPORTS2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,JSPORTS3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,JSPORTS4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,ゴルフネットワーク
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,スターチャンネル1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,WOWOWライブ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,WOWOWプライム
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,WOWOWシネマ
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,时代剧専门チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,キッズステーション
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,スカイA
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,QVC_Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1,NHK BS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,NHK教育
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,NHK総合
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,日本|NEWS 24H
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1,日本|NEWS 24H
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1,日本|QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1,日本|ABCテレビ
+http://8.138.7.223/tv/jp.php?id=1
+#EXTINF:-1,日本|BS-TBS
+http://8.138.7.223/tv/jp.php?id=2
+#EXTINF:-1,日本|BSアニマックス
+http://8.138.7.223/tv/jp.php?id=3
+#EXTINF:-1,日本|BSテレ东
+http://8.138.7.223/tv/jp.php?id=4
+#EXTINF:-1,日本|BSフジ
+http://8.138.7.223/tv/jp.php?id=5
+#EXTINF:-1,日本|BS日テレ
+http://8.138.7.223/tv/jp.php?id=6
+#EXTINF:-1,日本|BS朝日
+http://8.138.7.223/tv/jp.php?id=7
+#EXTINF:-1,日本|J
+http://8.138.7.223/tv/jp.php?id=8
+#EXTINF:-1,日本|MBS毎日放送
+http://8.138.7.223/tv/jp.php?id=9
+#EXTINF:-1,日本|NHK
+http://8.138.7.223/tv/jp.php?id=10
+#EXTINF:-1,日本|NHK大阪
+http://8.138.7.223/tv/jp.php?id=11
+#EXTINF:-1,日本|TBS
+http://8.138.7.223/tv/jp.php?id=12
+#EXTINF:-1,日本|TOKYO
+http://8.138.7.223/tv/jp.php?id=13
+#EXTINF:-1,日本|WOWOW
+http://8.138.7.223/tv/jp.php?id=14
+#EXTINF:-1,日本|キッズステーション
+http://8.138.7.223/tv/jp.php?id=15
+#EXTINF:-1,日本|ゴルフネットワーク
+http://8.138.7.223/tv/jp.php?id=16
+#EXTINF:-1,日本|スカイA
+http://8.138.7.223/tv/jp.php?id=17
+#EXTINF:-1,日本|スターチャンネル1
+http://8.138.7.223/tv/jp.php?id=18
+#EXTINF:-1,日本|スターチャンネル2
+http://8.138.7.223/tv/jp.php?id=19
+#EXTINF:-1,日本|スターチャンネル3
+http://8.138.7.223/tv/jp.php?id=20
+#EXTINF:-1,日本|ディスカバリー
+http://8.138.7.223/tv/jp.php?id=21
+#EXTINF:-1,日本|テレビ大阪
+http://8.138.7.223/tv/jp.php?id=22
+#EXTINF:-1,日本|テレビ朝日
+http://8.138.7.223/tv/jp.php?id=23
+#EXTINF:-1,日本|テレビ东京
+http://8.138.7.223/tv/jp.php?id=24
+#EXTINF:-1,日本|ヒストリーチャンネル
+http://8.138.7.223/tv/jp.php?id=25
+#EXTINF:-1,日本|フジテレビ
+http://8.138.7.223/tv/jp.php?id=26
+#EXTINF:-1,日本|ホームドラマチャンネル
+http://8.138.7.223/tv/jp.php?id=27
+#EXTINF:-1,日本|ミュージック?ジャパンTV
+http://8.138.7.223/tv/jp.php?id=28
+#EXTINF:-1,日本|旅チャンネル
+http://8.138.7.223/tv/jp.php?id=29
+#EXTINF:-1,日本|日テレジータス
+http://8.138.7.223/tv/jp.php?id=30
+#EXTINF:-1,日本|日本テレビ
+http://8.138.7.223/tv/jp.php?id=31
+#EXTINF:-1,日本|日本映画専门
+http://8.138.7.223/tv/jp.php?id=32
+#EXTINF:-1,日本|时代剧専门
+http://8.138.7.223/tv/jp.php?id=33
+#EXTINF:-1,CGNTV JAPAN
+https://stream1.freetv.fun/cgntv-japan-1.m3u8
+#EXTINF:-1,FUJI TV
+https://stream1.freetv.fun/fuji-tv-4.m3u8
+#EXTINF:-1,Nippon TV
+https://stream1.freetv.fun/nippon-tv-1.m3u8
+#EXTINF:-1,テレビ朝日
+https://stream1.freetv.fun/terebizhao-ri-3.m3u8
+#EXTINF:-1,テレビ朝日
+https://stream1.freetv.fun/terebizhao-ri-5.m3u8
+#EXTINF:-1,日本映画専门
+https://stream1.freetv.fun/ri-ben-ying-hua-zhuan-men-1.m3u8
+#EXTINF:-1,时代剧専门チャンネル
+https://stream1.freetv.fun/shi-dai-ju-zhuan-men-chiyanneru-2.m3u8
+#EXTINF:-1,Fujiテレビ
+https://stream1.freetv.fun/huziterebi-1.m3u8
+#EXTINF:-1,ON TIME SPORTS 1
+https://stream1.freetv.fun/on-time-sports-1-1.ctv
+#EXTINF:-1,BS Asahi
+https://stream1.freetv.fun/2c6dc7289b7a465ed9a1b422c36390ef67338ba7d332042c2ff93f61d719a0b8.m3u8
+#EXTINF:-1,NHK BS Premium
+https://stream1.freetv.fun/b9249cc6c9c2086aa62108de1a987a9941f74adaf1fbb5dc0170b321cf3a6ea2.m3u8
+#EXTINF:-1,NHK BS1
+https://stream1.freetv.fun/ed2965dbf1494e80b3733c97298f3390aef098f9b159ff100de698effcfa3067.m3u8
+#EXTINF:-1,NHK World Japan
+https://stream1.freetv.fun/5771cace20085c3d69005cf6c4bfba7db7298a140d201926b6dead7d45444a4e.m3u8
+#EXTINF:-1,NHK World Japan
+https://stream1.freetv.fun/7e770172fd32dc700012d8993d1c5175e7083eb164b2814108986495382c8f35.m3u8
+#EXTINF:-1,Nippon TV
+https://stream1.freetv.fun/dddf9e551521abad0957ee71747f68909fb711344ad730bea304e6b43aaa2010.m3u8
+#EXTINF:-1,テレビ朝日
+https://stream1.freetv.fun/131f1e5be364e853ef2b49f706d494b1769e5e9e47dbccc4d5e8004b5ea30345.m3u8
+#EXTINF:-1,テレビ朝日
+https://stream1.freetv.fun/de7a62f9e29c24fb27171fac99c13db2543f77b205337b11904153bdb8a5961f.m3u8
+#EXTINF:-1,Anime
+https://stream1.freetv.fun/6a5fbca29cce3d5890f8b96d166ab9ceb5e9d2ff4c679e305703140624b80dc8.m3u8
+#EXTINF:-1,BS11
+https://stream1.freetv.fun/d4dc2fb57aeec615771b1c11c1ce483b73626f5da56578e5e352393ae7cc62b6.m3u8
+#EXTINF:-1,NHK BS4K
+https://stream1.freetv.fun/3e521a37f91c5e941edfb16ec2e760cc3ad2e76a2914292353e56bd77fc219fd.m3u8
+#EXTINF:-1,NHK BS4K
+https://stream1.freetv.fun/158552eda596f9eefbbfd576f2d0d35ca861332ed5ca4102cc8655b234e92b57.m3u8
+#EXTINF:-1,NHK BS4K
+https://stream1.freetv.fun/ce17c44d654cb2507e16965116a5decd39c9d3491a60d61bb51219b286b179c4.m3u8
+#EXTINF:-1,NHK World
+https://stream1.freetv.fun/9e453be1a2d5e0aeffd5b6166bb20edf6c31f3b9b702809e057037eed4ddb4f4.m3u8
+#EXTINF:-1,NHK World
+https://stream1.freetv.fun/7aa19f9b96cda6a1f2650397462fd9eebb1e33dd32eecc4dab1576c0943f3fa9.m3u8
+#EXTINF:-1,NHK World
+https://stream1.freetv.fun/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.m3u8
+#EXTINF:-1,NHK World
+https://stream1.freetv.fun/5e86b323dce4edcffa7bcba0d3b98016fcfe336b10b25ca080beb485adb4d294.m3u8
+#EXTINF:-1,NTV News 24
+https://stream1.freetv.fun/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8
+#EXTINF:-1,NTV News 24
+https://stream1.freetv.fun/27b827badf8d5d4a034ed5c3b69568e46f848cf552c6ea9d527e31286de866d9.m3u8
+#EXTINF:-1,NTV News 24
+https://stream1.freetv.fun/e6ec4168fcc1c514d6df115a89f8d67897605e4eee236b137350c2d007e6fd0d.m3u8
+#EXTINF:-1,J SPORTS 1
+https://stream1.freetv.fun/3dc9fe85a7ca9e83a6c0fcb2403ce170e3d682d7d4a21f62c2c2b52ef17bc028.ctv
+#EXTINF:-1,J SPORTS 2
+https://stream1.freetv.fun/d82d794655f8a43c1d6d9bd129ddf8295b4f0f24702077ca225f4603fc6187a4.m3u8
+#EXTINF:-1,J SPORTS 2
+https://stream1.freetv.fun/61ab0ebe4d136d28f71731bc10a7681d1443f80b59bc9a56c2d293ed9abd296b.m3u8
+#EXTINF:-1,J SPORTS 4
+https://stream1.freetv.fun/be4ae43f3eb255eab2390c0ad8419ed81eb1b988573121e1a55a73bf7e3d85fc.m3u8
+#EXTINF:-1,J SPORTS 4
+https://stream1.freetv.fun/fad8bbe54cd90b1323b4f3916523ea2239308449e8330f03d59a2e4366826453.ctv
+#EXTINF:-1,J SPORTS 4
+https://stream1.freetv.fun/7f1506471ffd7dc672ffdb6709a5a1330149232bed25611017e18a8aff7b8e22.m3u8
