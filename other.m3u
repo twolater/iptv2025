@@ -6,7 +6,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,HomeTV 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1,Fireplace Vibes
@@ -106,13 +105,10 @@ https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fddy6new.koskoros.ru%2Fddy6%2F
 #EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-four.png" group-title="",BBC Four UK
 https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fdokko1new.koskoros.ru%2Fdokko1%2Fpremium359%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
 
-
-
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",BBC One 
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",BBC TWO
 http://5startv.xyz:8080/Carolyns/Tampalady/20867
-
 
 #EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="Canada",BBC First
 http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
@@ -128,8 +124,6 @@ http://109.233.89.170/BBC_Brit_HD/index.m3u8
 http://185.236.229.62:9981/play/a02n
 #EXTINF:-1,BBC Lifestyle (Poland)
 http://178.219.128.68:64888/BBCLIFEHD
-#EXTINF:-1,BBC EARTH TW
-http://108.181.21.27:27347/livehttpplay?channel_id=20044
 #EXTINF:-1  tvg-name="" tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Canada",Adult Swim
 http://supersonictv.live:8080/443870/997140/21818
 
@@ -137,74 +131,14 @@ http://supersonictv.live:8080/443870/997140/21818
 http://92.114.85.72:8000/play/a0lu
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="",ITV2
 http://92.114.85.77:8000/play/a041
+#EXTINF:-1 ,ITV 2
+http://supersonictv.live:8080/SLIM23/SARASOTA14/12254
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="",ITV3
 http://92.114.85.77:8000/play/a04z
+#EXTINF:-1 ,ITV 3
+http://supersonictv.live:8080/SLIM23/SARASOTA14/12255
 #EXTINF:-1 tvg-id="ITV4 HD" tvg-name="ITV 4" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/itv-4-uk.png" group-title="",ITV 4
 http://5startv.xyz:8080/Carolyns/Tampalady/20807
-
-#EXTINF:-1 ,UK ITV 2
-http://supersonictv.live:8080/SLIM23/SARASOTA14/12254
-#EXTINF:-1 ,UK ITV 3
-http://supersonictv.live:8080/SLIM23/SARASOTA14/12255
-
-#EXTINF:-1 ,24/7 Britain's Got Talent
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79376
-#EXTINF:-1 ,24/7 Americas Got Talent
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79191
-#EXTINF:-1 ,24/7 The Voice
-http://supersonictv.live:8080/SLIM23/SARASOTA14/81482
-#EXTINF:-1 ,24/7 The Voice US
-http://supersonictv.live:8080/SLIM23/SARASOTA14/81483
-#EXTINF:-1 ,24/7 Twilight Zone
-http://supersonictv.live:8080/roelle0923/roelle0923/86103
-#EXTINF:-1 ,24/7 Happy Tree Friends Ka Pow
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79980
-#EXTINF:-1 ,24/7 Happy Tree Friends
-http://supersonictv.live:8080/SLIM23/SARASOTA14/80024
-#EXTINF:-1 ,24/7 Rick and Morty
-http://supersonictv.live:8080/SLIM23/SARASOTA14/80899
-#EXTINF:-1 ,24/7 Rick And Morty
-http://supersonictv.live:8080/SLIM23/SARASOTA14/80900
-#EXTINF:-1 ,24/7 Mr  Pickles
-http://supersonictv.live:8080/SLIM23/SARASOTA14/80476
-#EXTINF:-1 ,24/7 The Wire
-http://supersonictv.live:8080/SLIM23/SARASOTA14/81490
-#EXTINF:-1 ,24/7 2 Broke Girls
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79071
-#EXTINF:-1 ,24/7 Twin Peaks The Return
-http://supersonictv.live:8080/SLIM23/SARASOTA14/81675
-#EXTINF:-1 ,24/7 The Big Bang Theory
-http://supersonictv.live:8080/SLIM23/SARASOTA14/81253
-#EXTINF:-1 ,24/7 True Detective
-http://supersonictv.live:8080/SLIM23/SARASOTA14/81731
-#EXTINF:-1 ,24/7 Modern Family
-http://supersonictv.live:8080/SLIM23/SARASOTA14/80460
-#EXTINF:-1 ,24/7 Modern Family
-http://supersonictv.live:8080/SLIM23/SARASOTA14/80461
-#EXTINF:-1 ,24/7 Lupin III 1 Money Wars
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79050
-#EXTINF:-1 ,24/7 Lupin III Ai no Da Capo Fujiko s Unlucky Days
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79051
-#EXTINF:-1 ,24/7 Lupin III Dead or Alive
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79052
-#EXTINF:-1 ,24/7 Lupin III Fuuma Ichizoku no Inbou
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79053
-#EXTINF:-1 ,24/7 Lupin III Honoo no Kioku Tokyo Crisis
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79054
-#EXTINF:-1 ,24/7 Lupin III Kutabare Nostradamus
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79055
-#EXTINF:-1 ,24/7 Lupin III Lupin Ansatsu Shirei
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79056
-#EXTINF:-1 ,24/7 Lupin III Moeyo Zantetsuken
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79057
-#EXTINF:-1 ,24/7 Lupin III Napoleon no Jisho wo Ubae
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79058
-#EXTINF:-1 ,24/7 Lupin III Russia yori Ai wo Komete
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79059
-#EXTINF:-1 ,24/7 Lupin III Twilight Gemini no Himitsu
-http://supersonictv.live:8080/SLIM23/SARASOTA14/79060
-
-
 
 
 #EXTINF:-1,Eleven Sports 1 (2160p)
@@ -266,7 +200,6 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 01
 http://5startv.xyz:8080/Carolyns/Tampalady/110288
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="UK Football- Premier League (Events Only)",Hub Premier  EPL 02
@@ -315,7 +248,6 @@ http://5startv.xyz:8080/Carolyns/Tampalady/100777
 http://5startv.xyz:8080/Carolyns/Tampalady/100778
 
 
-
 #EXTINF:-1,MTV HITS
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
 #EXTINF:-1,MTV Live (United Kingdom)
@@ -351,53 +283,6 @@ http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 #EXTINF:-1,MONO 29
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
 
-#EXTINF:-1,ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1,AMC
-http://109.233.89.166/AMC_HD/index.m3u8
-#EXTINF:-1,DMAX
-http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-#EXTINF:-1,AXN
-http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
-#EXTINF:-1 tvg-name="AXS TV Now" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/AXSTV.png" group-title="",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,HBO2
-https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="",HBO PLUS
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1,tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="",HBO XTREME
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="",AMC East 
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="",FX East
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="",MGM+ East
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="",MGM+ Marquee
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="",Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="StarzEast.us" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="",Starz East
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-logo="https://i.imgur.com/MvH3Cz2.png" group-title="",Starz Edge East
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="",Starz Encore Action East
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassicEast.us" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="",Starz Encore Classic East
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-logo="https://i.imgur.com/5ieoKO1.png" group-title="",Starz Encore East
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreWesternsEast.us" tvg-logo="https://i.imgur.com/Eo6yLpN.png" group-title="",Starz Encore Westerns East
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="SyfyEast.us" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="",Syfy East
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-group-title="Undefined",USA Network East (1080p)
-https://tvpass.org/live/USANetworkEast/hd
-
-
-
 
 #EXTINF:-1, Star Sports SL 1 HD 
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
@@ -407,24 +292,13 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="",TSN1 
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="",TSN2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
+https://tvpass.org/live/tsn2/hd/
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="",TSN3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
+https://tvpass.org/live/tsn3/hd/
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="",TSN4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-
-#EXTINF:-1,TSN1
-https://tvpass.org/live/tsn1/hd/
-#EXTINF:-1,TSN2
-https://tvpass.org/live/tsn2/hd/
-#EXTINF:-1,TSN3
-https://tvpass.org/live/tsn3/hd/
-#EXTINF:-1,TSN4
-https://tvpass.org/live/tsn4/hd/
-#EXTINF:-1,TSN5
-https://tvpass.org/live/tsn5/hd/
 
 
 
@@ -438,8 +312,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/RTHK_TV_35.svg" group-title="",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-
-
 
 
 #EXTINF:-1,28 AI 智慧賽馬
@@ -620,9 +492,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1,五星体育
 http://108.181.21.27:27347/livehttpplay?channel_id=20060
 
-#EXTINF:-1,龙华电影
+
+
+#EXTINF:-1,龍華电影
 http://108.181.21.27:27347/livehttpplay?channel_id=10129
-#EXTINF:-1,龙华洋片
+#EXTINF:-1,龍華洋片
 http://108.181.21.27:27347/livehttpplay?channel_id=20090
 #EXTINF:-1,壹電影
 http://108.181.21.27:27347/livehttpplay?channel_id=20108
@@ -644,27 +518,27 @@ http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143
 #EXTINF:-1,東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 
-
-#EXTINF:-1,三立新闻
-http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1,BBC EARTH 
+http://108.181.21.27:27347/livehttpplay?channel_id=20044
+#EXTINF:-1,Discovery
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1,HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1,CINEMAX
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1,CN卡通頻道
+http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1,TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
 #EXTINF:-1,TVBS新闻台
 http://125.227.210.55:8186/VideoInput/play.ts
 #EXTINF:-1,TVBS欢乐台
 http://125.227.210.55:8187/VideoInput/play.ts
-#EXTINF:-1,CINEMAX
-http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:-1,CN卡通頻道
-http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1,三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1,HBO HD
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1,CN卡通频道
-http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1,Discovery
-http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1,三立新闻
+http://125.227.210.55:8162/VideoInput/play.ts
+
 #EXTINF:-1,中天新闻
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1,年代新聞
@@ -677,20 +551,14 @@ http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #EXTINF:-1,緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1,探索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1,八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1,动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1,八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1,TVBS新闻台
-http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1,中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1,緯來電影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
 #EXTINF:-1,龍祥電影
@@ -703,7 +571,7 @@ http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=1919
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1,龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1,美亞電影
+#EXTINF:-1,美亞電影 TW
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1,龍華電影
 https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
