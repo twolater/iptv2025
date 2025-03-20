@@ -6,14 +6,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,HomeTV 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,JUST VOGUE TV 
-https://tivi191.ozelip.com:3873/stream/play.m3u8
+
 #EXTINF:-1,FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1,4K TRAVEL TV 
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1,4K TRAVEL XP 
-https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fireplace Vibes
 https://jmp2.uk/sam-USBA3800004EL.m3u8
 
@@ -45,7 +40,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1,CNBC 
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1,Euronews English 
-http://stream01.vnet.am/Channel_119/mono.m3u8
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,Vice News
@@ -58,8 +53,6 @@ https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-a
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,VOA
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title=,LFC TV
-http://5startv.xyz:8080/Carolyns/Tampalady/117447
 #EXTINF:-1,VICE TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1,TV5Monde Asia
@@ -74,7 +67,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 #EXTINF:-1,MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1,LFC TV
+EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title=,LFC TV
 http://5startv.xyz:8080/Carolyns/Tampalady/117447
 #EXTINF:-1,FIFA 
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
@@ -120,7 +113,8 @@ https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 http://5startv.xyz:8080/Carolyns/Tampalady/20867
 
 
-
+#EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="Canada",BBC First
+http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
 #EXTINF:-1,BBC Earth (1080p)
 http://109.233.89.170/BBC_Earth_HD/index.m3u8
 #EXTINF:-1,BBC Scotland
@@ -129,6 +123,8 @@ http://92.114.85.72:8000/play/a0mf
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1,BBC EARTH TW
 http://108.181.21.27:27347/livehttpplay?channel_id=20044
+#EXTINF:-1  tvg-name="" tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Canada",Adult Swim
+http://supersonictv.live:8080/443870/997140/21818
 
 #EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="",ITV1
 http://92.114.85.72:8000/play/a0lu
