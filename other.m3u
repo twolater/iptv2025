@@ -94,7 +94,8 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 http://178.219.128.68:64889/NATIGEOGHD
 #EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-
+#EXTINF:-1,Crime + Investigation Polsat
+http://185.236.229.62:9981/play/a07w
 
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
 https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fddy6new.koskoros.ru%2Fddy6%2Fpremium356%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
@@ -115,12 +116,18 @@ http://5startv.xyz:8080/Carolyns/Tampalady/20867
 
 #EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="Canada",BBC First
 http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
-#EXTINF:-1,BBC Earth (1080p)
+#EXTINF:-1,BBC Earth (Poland)
 http://109.233.89.170/BBC_Earth_HD/index.m3u8
 #EXTINF:-1,BBC Scotland
 http://92.114.85.72:8000/play/a0mf
 #EXTINF:-1,BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1,BBC Brit (Poland)
+http://109.233.89.170/BBC_Brit_HD/index.m3u8
+#EXTINF:-1,BBC First (Poland)
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1,BBC Lifestyle (Poland)
+http://178.219.128.68:64888/BBCLIFEHD
 #EXTINF:-1,BBC EARTH TW
 http://108.181.21.27:27347/livehttpplay?channel_id=20044
 #EXTINF:-1  tvg-name="" tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Canada",Adult Swim
@@ -228,7 +235,20 @@ http://195.189.60.33:9002/play/a00a
 http://195.189.60.33:9013/play/a00m
 #EXTINF:-1,NSport+ (1080p)
 http://185.236.229.62:9981/play/a05h
-
+#EXTINF:-1,Canal+ Sport (Poland)
+http://178.219.128.68:64888/CANASPORHD
+#EXTINF:-1,Canal+ Sport 2 (Poland)
+http://178.219.128.68:64888/CANASPOR2HD
+#EXTINF:-1,Canal+ Sport 3 (Poland)
+http://195.189.60.33:9012/play/a007
+#EXTINF:-1,Canal+ Sport 4 (Poland)
+http://195.189.60.33:9012/play/a008
+#EXTINF:-1,Canal+ Sport 5 (Poland)
+http://195.189.60.33:9012/play/a009
+#EXTINF:-1,Canal+ Premium (Poland)
+http://178.219.128.68:64889/CANAHD
+#EXTINF:-1,Canal+ Film (Poland)
+http://178.219.128.68:64889/CANAFILMHD
 
 #EXTINF:-1,SKY SPORTS F1
 http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
