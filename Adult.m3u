@@ -13,8 +13,10 @@ http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 #EXTINF:-1 tvg-id="SonseeTV3.tw" tvg-name="Sonsee TV 3" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E6%9D%BE%E8%A6%963%E5%8F%B0.png" group-title="Adult",松視3台
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MiaMitv" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="Adult",MiaMitv
+#EXTINF:-1 tvg-id="" tvg-name="MiaMitv" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="Adult",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MiaMitv" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="Adult",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="EroXXX.nl" tvg-name="Eroxxx" tvg-logo="https://i.imgur.com/sc11PtR.png" group-title="Adult",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="DirtyMasseur.ca" tvg-name="Brazzers" tvg-logo="https://i.imgur.com/prnoBGv.png" group-title="Adult",Brazzers
