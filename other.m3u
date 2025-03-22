@@ -1,101 +1,97 @@
-#EXTINF:-1,Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/love-nature.png" group-title="",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1,FTV UHD
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="",FashionTV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,LOUPE 4K
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png" group-title="",LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1,HomeTV 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.tildacdn.com/tild3533-6234-4330-a439-623438663437/-/resize/880x/-/format/webp/_40.png" group-title="",HomeTV 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FashionTV Midnite Secrets
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="https://scontent.fkdt2-1.fna.fbcdn.net/v/t39.30808-6/300432043_446000604221660_326389996122344219_n.png?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Xsc_jAVKBr4Q7kNvgEViryJ&_nc_oc=AdlL9ztbJ6OYrkGUaTSIb89zF0bryGNqm6pKZBs6LKUxiIKgh0AxYvzrZOHvQeIfeBU&_nc_zt=23&_nc_ht=scontent.fkdt2-1.fna&_nc_gid=dUrl32oKKS7SvwYStMPIuw&oh=00_AYHOpT6B5N8By1m0eReUXeQk45cy5W7GA4c3HhUDaIzZFg&oe=67E4EE02",FashionTV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1,Fireplace Vibes
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fireplace Vibes
 https://jmp2.uk/sam-USBA3800004EL.m3u8
 
 
 
-#EXTINF:-1 ,DE ARTE
+#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
 http://supersonictv.live:8080/roelle0923/roelle0923/84710
-#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEszVqUtzNtI4uX1c97gzIjgKIXIP7B4WQOJz-TqaWxrg.png" group-title="",DE: ARTE
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
 http://5startv.xyz:8080/Carolyns/Tampalady/121747
-#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE FHD" tvg-logo="http://fanc.tmsimg.com/assets/s79103_ll_h3_aa.png" group-title="",FR: ARTE FHD
+#EXTINF:-1 tvg-id="arteHD.fr" tvg-name="FR: ARTE FHD" tvg-logo="https://i.imgur.com/qrEJ8Ku.png" group-title="",FR: ARTE FHD
 http://5startv.xyz:8080/Carolyns/Tampalady/121460
 
-#EXTINF:-1,Al Jazeera
+
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific 
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
-#EXTINF:-1,CBS NEWS
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="",CBS NEWS
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1,CNN NEWS
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="",CNN NEWS
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="",CNA International 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,SKY NEWS 
+#EXTINF:-1 tvg-id="SkyNewsHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4050.png" group-title="",SKY NEWS 
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1,DW English
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,France 24 English
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="",France 24 English
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1,CNBC 
-http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1,Euronews English 
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="",Euronews English 
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1,TRT WORLD
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1,Vice News
+#EXTINF:-1 tvg-id="ViceNews.us" tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1,NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="",NHK World Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="",Taiwan Plus TV 
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1,VOA
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
-#EXTINF:-1,VICE TV
+#EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="",VICE TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (Asie) 
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1,Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="",Rai News 24
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,日テレNEWS24
+#EXTINF:-1 tvg-id="NTVNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png" group-title="",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1,RED BULL TV 
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="",RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,RED BULL TV 2 
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="",RED BULL TV 2 
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
-#EXTINF:-1,MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title=,LFC TV
+EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title=,LFC TV
 http://5startv.xyz:8080/Carolyns/Tampalady/117447
-#EXTINF:-1,FIFA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/2880px-FIFA_logo_without_slogan.svg.png" group-title="",FIFA 
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
+	
 
-
-#EXTINF:-1 tvg-id="History.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",History (1080p)
+#EXTINF:-1 tvg-id="History.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="",History
 http://109.233.89.166/History_HD/index.m3u8
-#EXTINF:-1 tvg-id="History2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 (1080p)
+#EXTINF:-1 tvg-id="History2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="",History 2 
 http://109.233.89.166/History_2_HD/index.m3u8
-#EXTINF:-1,National Geographic (1080p)
-http://178.219.128.68:64889/NATIGEOGHD
-#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild East
+#EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="",National Geographic Wild East
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1,National Geographic Wild (1080p)
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="",National Geographic Wild 
 http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8
-#EXTINF:-1,Nat Geo People
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/512px-New_NatGeo_People_logo.svg.png" group-title="",Nat Geo People
 http://185.236.229.62:9981/play/a06f
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p)
+#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="",National Geographic 
 http://178.219.128.68:64889/NATIGEOGHD
-#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic East
+#EXTINF:-1 tvg-id="NationalGeographicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1,Crime + Investigation Polsat
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="",Crime + Investigation Polsat
 http://185.236.229.62:9981/play/a07w
 
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
@@ -114,17 +110,17 @@ http://5startv.xyz:8080/Carolyns/Tampalady/20867
 
 #EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="Canada",BBC First
 http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
-#EXTINF:-1,BBC Earth (Poland)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/z4rLIVW.png" group-title="",BBC Earth (Poland)
 http://109.233.89.170/BBC_Earth_HD/index.m3u8
-#EXTINF:-1,BBC Scotland
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="",BBC Scotland
 http://92.114.85.72:8000/play/a0mf
-#EXTINF:-1,BBC America East
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="",BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1,BBC Brit (Poland)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/i4remZo.png" group-title="",BBC Brit (Poland)
 http://109.233.89.170/BBC_Brit_HD/index.m3u8
-#EXTINF:-1,BBC First (Poland)
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="",BBC First (Poland)
 http://185.236.229.62:9981/play/a02n
-#EXTINF:-1,BBC Lifestyle (Poland)
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/512px-BBC_Lifestyle2.svg.png" group-title="",BBC Lifestyle (Poland)
 http://178.219.128.68:64888/BBCLIFEHD
 #EXTINF:-1  tvg-name="" tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="Canada",Adult Swim
 http://supersonictv.live:8080/443870/997140/21818
@@ -143,47 +139,51 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/12255
 http://5startv.xyz:8080/Carolyns/Tampalady/20807
 
 
-#EXTINF:-1,Eleven Sports 1 (2160p)
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
-#EXTINF:-1,Eleven Sports 2 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="",
+
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="",Eleven Sports 1 (1080p)
+http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="Eleven Sports 2" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="",Eleven Sports 2 (1080p)
 http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
-#EXTINF:-1,Eleven Sports 3 (1080p)
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="Eleven Sports 3" tvg-logo="https://i.imgur.com/bWjGol4.png" group-title="",Eleven Sports 3 (1080p)
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
-#EXTINF:-1,Eleven Sports 4 (1080p)
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="Eleven Sports 4" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="",Eleven Sports 4 (1080p)
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
-#EXTINF:-1,Polsat Sport (1080p)
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="Polsat Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png" group-title="",Polsat Sport (1080p)
 http://109.233.89.170/Polsat_Sport_HD/index.m3u8
-#EXTINF:-1,Polsat Sport Extra (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Extra (1080p)
 http://109.233.89.170/Polsat_Sport_Extra_HD/index.m3u8
-#EXTINF:-1,Polsat Sport Fight (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Fight (1080p)
 http://109.233.89.170/Polsat_Sport_Fight_HD/index.m3u8
-#EXTINF:-1,Polsat Sport News (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport News (1080p)
 http://109.233.89.170/Polsat_Sport_News_HD/index.m3u8
-#EXTINF:-1,Polsat Sport Premium 1 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Premium 1 (1080p)
 http://195.189.60.33:9003/play/a002
-#EXTINF:-1,Polsat Sport Premium 2 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Premium 2 (1080p)
 http://195.189.60.33:9003/play/a003
-#EXTINF:-1,Polsat Sport Premium 3 PPV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Premium 3 PPV (1080p)
 http://195.189.60.33:9002/play/a009
-#EXTINF:-1,Polsat Sport Premium 4 PPV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Premium 4 PPV (1080p)
 http://195.189.60.33:9002/play/a00a
-#EXTINF:-1,Polsat Sport Premium 5 PPV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Polsat Sport Premium 5 PPV (1080p)
 http://195.189.60.33:9013/play/a00m
-#EXTINF:-1,NSport+ (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NSport+ (1080p)
 http://185.236.229.62:9981/play/a05h
-#EXTINF:-1,Canal+ Sport (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Sport (Poland)
 http://178.219.128.68:64888/CANASPORHD
-#EXTINF:-1,Canal+ Sport 2 (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Sport 2 (Poland)
 http://178.219.128.68:64888/CANASPOR2HD
-#EXTINF:-1,Canal+ Sport 3 (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Sport 3 (Poland)
 http://195.189.60.33:9012/play/a007
-#EXTINF:-1,Canal+ Sport 4 (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Sport 4 (Poland)
 http://195.189.60.33:9012/play/a008
-#EXTINF:-1,Canal+ Sport 5 (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Sport 5 (Poland)
 http://195.189.60.33:9012/play/a009
-#EXTINF:-1,Canal+ Premium (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Premium (Poland)
 http://178.219.128.68:64889/CANAHD
-#EXTINF:-1,Canal+ Film (Poland)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal+ Film (Poland)
 http://178.219.128.68:64889/CANAFILMHD
 
 #EXTINF:-1,SKY SPORTS F1
@@ -313,7 +313,18 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8
 #EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8
 
-
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True SportHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True SportHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ช่องกีฬา" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True SportHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
 #EXTINF:-1, Star Sports SL 1 HD 
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
