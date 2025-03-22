@@ -22,7 +22,9 @@ http://5startv.xyz:8080/Carolyns/Tampalady/121460
 
 #EXTINF:-1,Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,BBC NEWS Asia Pacific
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific 
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_3000k.m3u8
 #EXTINF:-1,CBS NEWS
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
@@ -54,7 +56,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
 #EXTINF:-1,VICE TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1,TV5Monde Asia
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (Asie) 
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1,Rai News 24
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
@@ -131,11 +133,11 @@ http://supersonictv.live:8080/443870/997140/21818
 http://92.114.85.72:8000/play/a0lu
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="",ITV2
 http://92.114.85.77:8000/play/a041
-#EXTINF:-1 ,ITV 2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="",ITV2
 http://supersonictv.live:8080/SLIM23/SARASOTA14/12254
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="",ITV3
 http://92.114.85.77:8000/play/a04z
-#EXTINF:-1 ,ITV 3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="",ITV3
 http://supersonictv.live:8080/SLIM23/SARASOTA14/12255
 #EXTINF:-1 tvg-id="ITV4 HD" tvg-name="ITV 4" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/itv-4-uk.png" group-title="",ITV 4
 http://5startv.xyz:8080/Carolyns/Tampalady/20807
@@ -274,14 +276,43 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
 
-#EXTINF:-1,Thai PBS 
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1,3HD
+#EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="",3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-#EXTINF:-1,Channel 7 
+#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="",Channel 7 
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1,MONO 29
+#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="",MONO 29 
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8
+#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="",MONO 29 
+https://edge2-bkk.3bb.co.th:9443/Mono29LivexDRM/mono29DRM_1080EN.stream/manifest.mpd
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="",MCOT HD
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD 1
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truebein1.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,BeinSportHD 2
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truebein2.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,BeinSportHD 3
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truebein3.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truethaifilm.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truemoviehit.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True Film 1HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilm1.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilm2.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="TRUEVISION NOW", True Crime+Investigation
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUEVISION NOW",True AXN
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8
+
 
 
 #EXTINF:-1, Star Sports SL 1 HD 
