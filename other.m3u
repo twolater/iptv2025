@@ -540,71 +540,71 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="",美亚電影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="",緯來電影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龍祥電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="",龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 
-#EXTINF:-1,BBC EARTH 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC2.png" group-title="",BBC EARTH 
 http://108.181.21.27:27347/livehttpplay?channel_id=20044
-#EXTINF:-1,Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery.png" group-title="",Discovery
 http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="",CINEMAX
 http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:-1,CN卡通頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png" group-title="",CN卡通頻道
 http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1,TVBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="",TVBS
 http://125.227.210.55:8188/VideoInput/play.ts
-#EXTINF:-1,TVBS新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="",TVBS新闻台
 http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1,TVBS欢乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="",TVBS欢乐台
 http://125.227.210.55:8187/VideoInput/play.ts
-#EXTINF:-1,三立台灣台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="",三立台灣台
 http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1,三立新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="",三立新闻
 http://125.227.210.55:8162/VideoInput/play.ts
 
-#EXTINF:-1,中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="",,中天新闻
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-#EXTINF:-1,年代新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600606.us.archive.org/29/items/20230101_20230101_1717/%E5%B9%B4%E4%BB%A3%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="",年代新聞
 http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-#EXTINF:-1,民視新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="",民視新聞台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1,台視新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="",台視新聞
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1,公视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/1200px-PTS_Taiwan.svg.png" group-title="",公视
 http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-#EXTINF:-1,緯來精彩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="",緯來精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1,八大第一
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1,动物星球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="",动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1,八大综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="",八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1,中天娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png" group-title="",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1,緯來電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="",緯來電影
 http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-#EXTINF:-1,龍祥電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="",龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1,龍祥電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="",龍祥電影
 https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8?md5=zj6BU-bm0X_RgGTLF11yBg&expires=1741892158
-#EXTINF:-1,東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-#EXTINF:-1,東森電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1,龍祥電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="",龍祥電影
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1,美亞電影 TW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="",美亚電影TW
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-#EXTINF:-1,龍華電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="",龍華电影
 https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8
-#EXTINF:-1,龍華電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="",龍華电影
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 
 
