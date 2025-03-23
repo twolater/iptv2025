@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://raz-media.se/wp-content/uploads/2022/05/love-nature.png" group-title="",Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="",FashionTV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -10,7 +10,6 @@ http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 https://a1xs.vip/myzen4k
 #EXTINF:-1 tvg-id="IRIBUHD" tvg-name="IRIB UHD" tvg-logo="https://i.postimg.cc/3w9YtJKn/IRIB-UHD.png" group-title="",IRIB UHD
 https://a1xs.vip/iribuhd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mQS8ZBL.png" group-title="",Kremlin is on fire
 https://vod-k2309-kbp.ks.tv/vod/3/1742824455/gx7sh-3Wb8YZroCMEu7VOg/202208/8/8b/8b2ed1fe594590e51f87ccac118b12817e5fbb424bb34a46e373026c06f2fa07.smil/chunklist_b7960000.m3u8
 
@@ -63,15 +62,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="NTVNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png" group-title="",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="",RED BULL TV 
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="",RED BULL TV 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="",RED BULL TV 2 
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title=,LFC TV
+EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://i.imgur.com/dVDZBlV.png" group-title=,LFC TV
 http://5startv.xyz:8080/Carolyns/Tampalady/117447
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/2880px-FIFA_logo_without_slogan.svg.png" group-title="",FIFA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA 
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -276,8 +275,6 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 http://109.233.89.166/MTV_Polska_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="",MTV Classic East (720p)
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="",MTV
-https://streamer1.nexgen.bz/MTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
@@ -316,6 +313,7 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8
+
 
 #EXTINF:-1 group-title="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True SportHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -373,7 +371,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://app.ksmctv.com/Content/MCTV/Image/Channel/TVB%20Plus.png" group-title="",TVB Plus
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="",tvN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="",tvN
 http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="",中天新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
@@ -383,7 +381,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Global_News_CH_logo.png" group-title="",寰宇新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hczuV6I.png" group-title="",明珠剧集台(北美)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="hhttps://provider-static.plex.tv/epg/cms/production/bbaed7c4-c113-49e9-900b-aa96efdc8a8a/TVB_Pearl_Horizontal__White__-_Angus_Yip.png" group-title="",明珠剧集台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="",明珠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
@@ -391,13 +389,13 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="",美亞電影台(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/2560px-Tvb_logo.svg.png" group-title="",翡翠剧集台(北美)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hczuV6I.png" group-title="",翡翠剧集台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
 http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hczuV6I.png" group-title="",翡翠综合台(北美)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/TVBJ1_screenbug.png/revision/latest/scale-to-width-down/400?cb=20231129081435&path-prefix=vi" group-title="",翡翠综合台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="",鳳凰中文
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
@@ -417,8 +415,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="",Animax(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="",KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="",Nick Jr
 http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/640px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="",Nickelodeon
@@ -435,7 +431,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="",東方衛視國際頻道
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="",無線衛星新聞台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="",無線衛星新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/typd.png" group-title="",Celestial Movies
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
@@ -451,8 +447,6 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="",Sukan
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="",Sukan[备用]
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/800px-TV9_%28Malaysia%29_logo.svg.png" group-title="",TV9
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/2880px-TVB_Jade_logo.svg.png" group-title="",TVB Jade
@@ -461,8 +455,6 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="",Unifi Sport
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="",amc電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="",HITS頻道
 http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="",TVBS精采台
@@ -477,30 +469,23 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="",台視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA3.png" group-title="",,愛爾達娛樂台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="",民視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="",民視台灣台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="",民視新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="",民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="",民視綜藝台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="",龍華偶像台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="",龍華日韓台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_mobile.png" group-title="",龍華經典台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="",龍華電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BZZyglC.png" group-title="",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png" group-title="",Astro IQIYI
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Astro_QJ_%282024%29.png/800px-Astro_QJ_%282024%29.png" group-title="",Astro QJ
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fwTP9PS.png" group-title="",Astro 欢喜台
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",viuTV
