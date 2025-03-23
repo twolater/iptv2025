@@ -87,24 +87,18 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1,無線衛星新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1,Asian Action
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
 #EXTINF:-1,Celestial Movies
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1,CINEMAWORLD
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 #EXTINF:-1,FIGHT SPORTS
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1,KIX
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
 #EXTINF:-1,Mediacorp Entertainment Chinese
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 #EXTINF:-1,NBA TV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1,Sukan
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1,Sukan[备用]
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
 #EXTINF:-1,TV9
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 #EXTINF:-1,TVB Jade
@@ -115,48 +109,36 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1,曼聯電視頻道
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1,amc電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1,HITS頻道
-http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
-#EXTINF:-1,TVBS精采台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1,三立綜合台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+#EXTINF:-1,ELTV生活英語台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+#EXTINF:-1,三立新聞iNEWS
+http://aktv_stream1.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1,中視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1,中視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1,倪珍英語新聞
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 #EXTINF:-1,台視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1,台視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1,愛爾達娛樂台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1,民視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1,民視台灣台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1,民視新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1,民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1,民視綜藝台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 #EXTINF:-1,華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1,龍華偶像台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1,龍華日韓台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,龍華經典台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1,龍華電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1,台
-http://aktv_stream1.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1,Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1,Astro IQIYI
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,Astro QJ
+http://aktv_stream1.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1,Astro 欢喜台
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 #EXTINF:-1,NTV NEWS 24
