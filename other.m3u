@@ -275,7 +275,7 @@ http://109.233.89.166/MTV_Polska_HD/index.m3u8
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="",MTV
 https://streamer1.nexgen.bz/MTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/TraceUrban.png" group-title="",Trace Urban
+#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
 
@@ -350,7 +350,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="",RTHK TV 34 (港台電視34)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/RTHK_TV_35.svg" group-title="",RTHK TV 35 (港台電視35)
+#EXTINF:0 tvg-country="HK" tvg-logo="https://ecinfohk.com/wp-content/uploads/2024/02/RTHK_TV_35.svg.png" group-title="",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
 
