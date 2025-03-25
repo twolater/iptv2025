@@ -354,7 +354,20 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://ecinfohk.com/wp-content/uploads/2024/02/RTHK_TV_35.svg.png" group-title="",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="",WarnerTV
+https://stream1.freetv.fun/warnertv-1.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lShH4Z8.png" group-title="",Movies Now
+https://stream1.freetv.fun/movies-now-1.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="",Star Movies
+https://stream1.freetv.fun/star-movies-2.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="",Cinemax
+https://stream1.freetv.fun/cinemax-10.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="",HBO Family
+https://stream1.freetv.fun/hbo-family-11.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="",HBO Hits
+https://stream1.freetv.fun/hbo-hits-3.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZY69JcR.png" group-title="",好莱坞电影
+https://stream1.freetv.fun/hao-lai-wu-dian-ying-1.ctv
 
 
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="",Channel 5 HD
