@@ -57,6 +57,10 @@ http://222.169.41.80:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.169.41.80:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV风云音乐
 http://222.169.41.80:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,CCTV女性时尚
+http://180.213.174.225:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,CCTV第一剧场
+http://180.213.174.225:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CHC Home
 http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CHC Action
