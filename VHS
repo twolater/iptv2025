@@ -17,3 +17,30 @@ https://archive.org/download/sestry-2001-720/Sestry_2001_720.ia.mp4
 https://archive.org/download/pGothic.1986.720P.ITAENG/Gothic%201986%20720P%20ITA-ENG.mp4
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="",Dune 1984
 https://archive.org/download/dune.1984.720p.bluray.dts.x264.rosubbedctrlhd1/Dune.1984.720p.BluRay.DTS.x264.RoSubbed-CtrlHD%20%281%29.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9492_p_v10_ab.jpg" group-title="",Blue Velvet (1986) 藍色夜合花 港版VCD A
+https://archive.org/download/blue-velvet-a/Blue%20Velvet%20A.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9492_p_v10_ab.jpg" group-title="",Blue Velvet (1986) 藍色夜合花 港版VCD B
+https://archive.org/download/blue-velvet-a/Blue%20Velvet%20B.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="",True Lies (1994)
+https://archive.org/download/true-lies-1994-d-theater/True%20Lies%20%281994%29%20%5BD-Theater%5D.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg" group-title="",Taxi Driver 的士司機 (1976) by Martin Scorsese 港版VCD A
+https://archive.org/download/taxi-driver-a/Taxi%20Driver%20A.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_.jpg" group-title="",Taxi Driver 的士司機 (1976) by Martin Scorsese 港版VCD B
+https://archive.org/download/taxi-driver-a/Taxi%20Driver%20B.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WvjvpZduHxVGDKww5Pi7wUFOqIp2GY_j8g&s" group-title="",Natural Born Killer 天生殺人狂 (1994) 港版VCD A
+https://archive.org/download/natural-born-killer-b/Natural%20Born%20Killer%20A.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WvjvpZduHxVGDKww5Pi7wUFOqIp2GY_j8g&s" group-title="",Natural Born Killer 天生殺人狂 (1994) 港版VCD B
+https://archive.org/download/natural-born-killer-b/Natural%20Born%20Killer%20B.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/71aueOmU7SL._AC_UF894,1000_QL80_.jpg" group-title="",Perfect Blue _DVD 1997
+https://archive.org/download/PERFECT_BLUE_DVD/Perfect_Blue.ISO
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://tokyofilmgoer.com/wp-content/uploads/2016/07/sato.jpg" group-title="",The Bedroom 浮気妻 恥辱責め 1992
+https://archive.org/download/the-bedroom-1/The%20Bedroom.ia.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.betaseries.com/2Bin25ohjzYzjyhRIiUa1r7YRME=/600x900/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffilms%2Faffiches%2Foriginal%2F35029.jpg" group-title="",Angel Of Darkness 淫獣教師　実写版 1995
+https://archive.org/download/angel-of-darkness-live/Angel%20Of%20Darkness%20Live.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8fa3b88d4b657404d84e8ead164e0c7da2b9c31d496358994964d5f5d1f26c25.jpg" group-title="",Once Upon a Time in America (Rare U.S. Cut)
+https://archive.org/download/once-upon-a-time-in-america-vhs/once%20upon%20a%20time%20in%20america%20vhs.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vhscollector.com/sites/default/files/vhsimages/33313_verybestoftomandjerry-mgmua1%2520%2528VHSCollector.com%2529%2520.jpg" group-title="",The Very Best of Tom and Jerry (1991, MGM/UA Home Video)
+https://archive.org/download/theverybestoftomandjerry/2023-06-12%2011-37-37.ia.mp4
+
+
+
