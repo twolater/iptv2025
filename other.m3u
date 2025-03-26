@@ -106,29 +106,29 @@ https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fddy6new.koskoros.ru%2Fddy6%2F
 https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fdokko1new.koskoros.ru%2Fdokko1%2Fpremium359%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
 
 
-#EXTINF:-1 ,UK BBC 1 Scotland
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Scotland
 http://supersonictv.live:8080/roelle0923/roelle0923/12188
-#EXTINF:-1 ,UK BBC Two Wales
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",UK BBC Two Wales
 http://supersonictv.live:8080/roelle0923/roelle0923/12194
-#EXTINF:-1 ,UK BBC 1
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1
 http://supersonictv.live:8080/roelle0923/roelle0923/12181
-#EXTINF:-1 ,UK BBC 2
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",UK BBC 2
 http://supersonictv.live:8080/roelle0923/roelle0923/12182
-#EXTINF:-1 ,UK BBC 4
+#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-four.png" group-title="",UK BBC 4
 http://supersonictv.live:8080/roelle0923/roelle0923/12184
-#EXTINF:-1 ,UK BBC Alba
+#EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="",UK BBC Alba
 http://supersonictv.live:8080/roelle0923/roelle0923/12185
-#EXTINF:-1 ,UK BBC News HD
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",UK BBC News HD
 http://supersonictv.live:8080/roelle0923/roelle0923/12186
-#EXTINF:-1 ,UK BBC 1 Northern Ireland
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Northern Ireland
 http://supersonictv.live:8080/roelle0923/roelle0923/12187
-#EXTINF:-1 ,UK BBC 1 Scotland
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Scotland
 http://supersonictv.live:8080/roelle0923/roelle0923/12188
-#EXTINF:-1 ,UK BBC 1 Wales
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Wales
 http://supersonictv.live:8080/roelle0923/roelle0923/12189
-#EXTINF:-1 ,UK BBC Two Wales
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",UK BBC Two Wales
 http://supersonictv.live:8080/roelle0923/roelle0923/12194
-#EXTINF:-1 ,UK BBC World News
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",UK BBC World News
 http://supersonictv.live:8080/roelle0923/roelle0923/12195
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",BBC One 
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
