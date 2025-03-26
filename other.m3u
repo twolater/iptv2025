@@ -141,8 +141,6 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/12255
 http://5startv.xyz:8080/Carolyns/Tampalady/20807
 
 
-
-
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="",Eleven Sports 1 (1080p)
 http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="Eleven Sports 2" tvg-logo="https://i.imgur.com/bTIRgqG.png" group-title="",Eleven Sports 2 (1080p)
@@ -194,7 +192,7 @@ http://extraott.com:80/live/6772191932/1654508883/153709.m3u8
 http://extraott.com:80/live/6772191932/1654508883/153724.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="",Tennis Channel 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="",TENNIS CHANNEL 2 
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="",T2 Tennis Channel 
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="",TENNIS CHANNEL 2 
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
@@ -335,8 +333,6 @@ https://stream1.freetv.fun/da89059bf1f4177821df2ccd254234c93bd482ed9245a01477c0d
 
 
 
-
-
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="",TSN1 
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="",TSN2
@@ -361,6 +357,10 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://ecinfohk.com/wp-content/uploads/2024/02/RTHK_TV_35.svg.png" group-title="",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
+
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="",Rakuten Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="",WarnerTV
 https://stream1.freetv.fun/warnertv-1.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lShH4Z8.png" group-title="",Movies Now
