@@ -41,6 +41,21 @@ https://archive.org/download/angel-of-darkness-live/Angel%20Of%20Darkness%20Live
 https://archive.org/download/once-upon-a-time-in-america-vhs/once%20upon%20a%20time%20in%20america%20vhs.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://vhscollector.com/sites/default/files/vhsimages/33313_verybestoftomandjerry-mgmua1%2520%2528VHSCollector.com%2529%2520.jpg" group-title="",The Very Best of Tom and Jerry (1991, MGM/UA Home Video)
 https://archive.org/download/theverybestoftomandjerry/2023-06-12%2011-37-37.ia.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2NTUtN2FhMy00M2I3LTgyYmMtMDk2MDUwMDhkOGU0XkEyXkFqcGc@._V1_.jpg" group-title="",Who Cares (1989) 霸王花遇鬼
+https://archive.org/download/who-cares-1989-full-movie-unique-hong-kong-cinema/Who%20Cares%20%281989%29%20Full%20Movie%20-%20Unique%20Hong%20Kong%20Cinema%20-%20Hopping%20Vampire%20Vs%20Police%20Women%20-%20Kara%20Wei.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU5MzJhNDYtMDQ1NS00YThiLWI4ZTQtMmY3YzU0ZDUzMmFmXkEyXkFqcGc@._V1_.jpg" group-title="",Jennifer (1978) 
+https://archive.org/download/jennifer-1978-1080p/Jennifer.1978.1080p.BluRay.AAC-HD.x264-BARC0DE.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://s3.amazonaws.com/criterion-production/films/3b384c601af6defbccd31020fb482b46/d5g8lS9xQQQyGpGaTma0HnkBycZvYo_original.jpg" group-title="",Fantastic Planet 1973
+https://archive.org/download/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@2012101010_o_20241015125107.jpg" group-title="",喋血街頭A Bullet In The Head (1990) by John Woo
+https://archive.org/download/bullet-in-the-head-a/Bullet%20in%20the%20Head%20A.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@2012101010_o_20241015125107.jpg" group-title="",喋血街頭B Bullet In The Head (1990) by John Woo
+https://archive.org/download/bullet-in-the-head-a/Bullet%20in%20the%20Head%20B.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3N2ExZGUtYTk4YS00M2Y5LWE5YTMtYTViZDRmZjQ4MWU0XkEyXkFqcGc@._V1_.jpg" group-title="",Heroes Shed No Tears (1984) 
+https://archive.org/download/heroes-shed-no-tears/Heroes%20Shed%20No%20Tears.mp4
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The-Killer-1989-Poster.jpg" group-title="",John Woo's The Killer 1989
+https://archive.org/download/the-killer-full-movie/The%20Killer%20Full%20Movie%20Render.mp4
+
 
 
 
