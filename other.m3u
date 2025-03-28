@@ -15,6 +15,8 @@ https://a1xs.vip/iribuhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
 http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="",ASTRO SPORT UHD
+https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-id="UHD1.lu" tvg-name="" tvg-logo="https://i.imgur.com/IMHoKTD.png" group-title="",UHD1 BY ASTRA 
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165204
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QiaLOCr.png" group-title="",ASTRO SUPERSPORT 4K
@@ -106,8 +108,8 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-	
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="",NHK BSP4K	
+http://luong.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="",History
 http://109.233.89.166/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="",History 2 
@@ -137,10 +139,7 @@ https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fddy6new.koskoros.ru%2Fddy6%2F
 https://m3u-proxy-ten.vercel.app?url=https%3A%2F%2Fdokko1new.koskoros.ru%2Fdokko1%2Fpremium359%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2Rva29wbGF5Lnh5ei98T3JpZ2luPWh0dHBzOi8vZG9rb3BsYXkueHl6fFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4x
 
 
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Scotland
-http://supersonictv.live:8080/roelle0923/roelle0923/12188
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",UK BBC Two Wales
-http://supersonictv.live:8080/roelle0923/roelle0923/12194
+
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1
 http://supersonictv.live:8080/roelle0923/roelle0923/12181
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",UK BBC 2
@@ -149,17 +148,14 @@ http://supersonictv.live:8080/roelle0923/roelle0923/12182
 http://supersonictv.live:8080/roelle0923/roelle0923/12184
 #EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="",UK BBC Alba
 http://supersonictv.live:8080/roelle0923/roelle0923/12185
-#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",UK BBC News HD
-http://supersonictv.live:8080/roelle0923/roelle0923/12186
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Northern Ireland
-http://supersonictv.live:8080/roelle0923/roelle0923/12187
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Scotland
-http://supersonictv.live:8080/roelle0923/roelle0923/12188
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",UK BBC 1 Wales
-http://supersonictv.live:8080/roelle0923/roelle0923/12189
-#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",UK BBC Two Wales
-http://supersonictv.live:8080/roelle0923/roelle0923/12194
-#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",UK BBC World News
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="", BBC One 
+http://wanicelife.com:8880/live/D12m2770/52277683/2950.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="",BBC Two
+http://wanicelife.com:8880/live/D12m2770/52277683/2949.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="",BBC Three
+http://wanicelife.com:8880/live/D12m2770/52277683/2948.m3u8
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
 http://supersonictv.live:8080/roelle0923/roelle0923/12195
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",BBC One 
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
@@ -167,7 +163,7 @@ https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 http://5startv.xyz:8080/Carolyns/Tampalady/20867
 #EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="",BBC One 
 http://extraott.com:900/live/3162523972/3791698850/400496850.m3u8
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK| BBC 2 FHD" tvg-logo="https://lo1.in/uk/bbc2.png" group-title="",UK| BBC 2 FHD
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK| BBC 2 FHD" tvg-logo="https://lo1.in/uk/bbc2.png" group-title="",BBC 2 FHD
 http://extraott.com:900/live/3162523972/3791698850/153625.m3u8
 
 
@@ -372,6 +368,8 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="",MTV HITS
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/221/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="",MTV HD
+http://wanicelife.com:8880/live/D12m2770/52277683/3110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3hTfdWC.png" group-title="",MTV Live (United Kingdom)
 http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="",MTV Live (United States)
