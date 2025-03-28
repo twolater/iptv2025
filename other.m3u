@@ -535,7 +535,7 @@ http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2018/08/TVA-29-August-6.png" group-title="",FIGHT SPORTS
 http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png" group-title="",KIX
-http://aktv-stream1.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
+http://wanicelife.com:8880/live/6mc210004/48576998/1716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/200px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="",Mediacorp Entertainment Chinese
 http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="",NBA TV
