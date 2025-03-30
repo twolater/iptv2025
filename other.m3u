@@ -16,8 +16,7 @@ http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 https://7pal.short.gy/astrouhd
 #EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1" tvg-logo="https://i.imgur.com/AOu4FXH.png" group-title="",ELEVEN SPORTS 1 (2160p)
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165186
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Real Madrid - VS -Leganés
-https://liveua.score806.cc/espn0/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
 http://supersonictv.live:8080/roelle0923/roelle0923/84710
