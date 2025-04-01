@@ -8,6 +8,70 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia800608.us.archive.org/4/items/sky-sports-main-event-uhd/Sky_Sports_Main_Event_UHD.png" group-title="",Sky Sports Main Event 4K
 http://doubleclicktv.live/70376812/52663544/620667
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="",FRANCE 2 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="",FRANCE 3 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ultra-k.fr/wp-content/uploads/2022/05/Logo_chaine_Canal_4K-UHD.png" group-title="",CANAL+
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/21/f9003f5282804ed36e029f3bd103d77feae9223a.png" group-title="",CANAL+ EVENEMENT 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="",SKY SPORTS F1 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="",CANAL+ BOX OFFICE 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="",M6 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165199
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png" group-title="",TF1 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600608.us.archive.org/4/items/sky-sports-main-event-uhd/Sky_Sports_Main_Event_UHD.png" group-title="",SKY SPORTS MAIN EVENT 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://companieslogo.com/img/orig/SESG.PA_BIG-1a94eb26.png" group-title="",SES
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" group-title="", RTL
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" group-title="",SKY SPORT 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png" group-title="",SKY SPORT BUNDESLIGA 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/PROSIEBENSAT.1_UHD_Logo_2021.png" group-title="", PRO7SAT.1 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="",ELEVEN SPORTS 1 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.artmajeur.com/img/partner/museumTV/260px-Logo_museum_2017.png" group-title="", MUSEUM |MULTI|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/250px-Logo_La_1_UHD_2024.svg.png" group-title="",LA 1 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ODISEA.png/250px-ODISEA.png" group-title="",ODISEA 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://turkey.mom-gmr.org/uploads/tx_lfrogmom/media/262-101_import.png" group-title="",TRT 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9BZFhkx.png" group-title="",CANAL DE CASA |ES|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="",NOW SPORTS 4K 1
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="",BLOOMBERG 
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2025/01/NESN-Logo-946x535.webp" group-title="",NESN |US|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astra.de/sites/default/files/inline-images/UHD1Logo.png" group-title="",UHD1 BY ASTRA |DE|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg" group-title="",DIGI |RO|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/Prima_4K_%282022-.n.v.%29.png" group-title="",PRIMA |RO|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/800px-Sport_TV1_%282023%29.svg.png" group-title="",SPORT TV 1 |PT|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165209
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/330px-BTV_Red.svg.png" group-title="", BENFICA TV |PT|
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="",DAZN 1
+http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165211
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
 http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/twolater/iptv2025/refs/heads/main/betv4k.png" group-title="",北京卫视4K超高清
