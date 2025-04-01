@@ -219,8 +219,12 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/13119.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/29637.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="",MY| BEIN SPORTS 3 FHD
 http://exm3u.extraott.com:900/live/1103581436/4099381829/13118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="",beIN Sports USA
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="",beiN Sport 2
 http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="",Fox Sports 1 (United States)
 http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
 
@@ -552,7 +556,7 @@ http://108.181.21.27:27347/livehttpplay?channel_id=20060
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="",广东体育高清
 http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 
-chc动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AuiVcyh.png" group-title="",CHC动作电影
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
