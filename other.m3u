@@ -499,7 +499,8 @@ http://108.181.21.27:27347/livehttpplay?channel_id=20120
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="",五星体育
 http://108.181.21.27:27347/livehttpplay?channel_id=20060
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="",广东体育高清
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 
 chc动作电影
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
