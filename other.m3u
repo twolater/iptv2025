@@ -227,7 +227,8 @@ http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="",Fox Sports 1 (United States)
 http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 1 [Events Only]
 http://5startv.xyz:8080/Carolyns/Tampalady/117457
@@ -289,6 +290,7 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vvxz6KX.png" group-title="",Trace Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="",NickMusic (United States)
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="",MTV Live (United States)
