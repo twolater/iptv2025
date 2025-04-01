@@ -124,6 +124,29 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="",Adult Swim
 http://supersonictv.live:8080/443870/997140/21818
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i4remZo.png" group-title="",BBC Brit (Poland)
+http://185.236.229.62:9981/play/a06r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z4rLIVW.png" group-title="",BBC Earth (Poland)
+http://185.236.229.62:9981/play/a02o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="",BBC First (Poland)
+
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/512px-BBC_Lifestyle2.svg.png" group-title="",BBC Lifestyle(Poland)
+http://185.236.229.62:9981/play/a06t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="",National Geographic (Poland)
+http://185.236.229.62:9981/play/a04d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/512px-New_NatGeo_People_logo.svg.png" group-title="",Nat Geo People (Poland)
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="",National Geographic Wild (Poland)
+http://185.236.229.62:9981/play/a05z
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="",ITV1
 http://92.114.85.72:8000/play/a0lu
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="",ITV2
@@ -262,7 +285,6 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/mtvliveus/AKTV.m3u8
 
 
-
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="3HD.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="",3HD
@@ -316,7 +338,10 @@ https://stream1.freetv.fun/cd6f4bea2a92dcf1d32bf40fa33c43a9fcd4e86ecb5359f6b9f4f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="",S Sport 2
 https://stream1.freetv.fun/da89059bf1f4177821df2ccd254234c93bd482ed9245a01477c0deb14daad177.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="",ID: beIN Sports 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295289
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="",ID: beIN Sports 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306458
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="",TSN1 
 https://tvpass.org/live/tsn1/hd
@@ -341,6 +366,20 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://ecinfohk.com/wp-content/uploads/2024/02/RTHK_TV_35.svg.png" group-title="",RTHK TV 35 (港台電視35)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+#EXTINF:-1 tvg-id="CanalMacau.mo" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi2.png" group-title="",Canal Macau
+https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi5.png" group-title="",TDM Entertainment
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi4.png" group-title="",TDM Information
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png" group-title="",TDM-Macau Satellite
+https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png" group-title="",TDM Ou Mun
+https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi3.png" group-title="",TDM Sports
+https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/2560px-Rakuten_TV_logo.svg.png" group-title="",Rakuten Top Movies UK (1080p)
