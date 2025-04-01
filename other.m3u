@@ -24,6 +24,8 @@ http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165206
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165186
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="",Sky Sports Main Event 4K
 http://doubleclicktv.live/70376812/52663544/620667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/twolater/iptv2025/refs/heads/main/betv4k.png" group-title="",北京卫视4K超高清
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743245208&sign=fdbb62ef4425a678cf010e53bd553d61
 
 #EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
 http://supersonictv.live:8080/roelle0923/roelle0923/84710
