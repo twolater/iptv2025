@@ -192,7 +192,8 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/29637.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/13118.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="",beiN Sport 2
 http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="",Fox Sports 1 (United States)
+http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 1 [Events Only]
@@ -257,6 +258,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="",NickMusic (United States)
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="",MTV Live (United States)
+http://aktv-stream.m16tv.cfd/stream/tuntun/mtvliveus/AKTV.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="",Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
@@ -504,6 +509,8 @@ http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 
 chc动作电影
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",緯來體育
+http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台
 http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
