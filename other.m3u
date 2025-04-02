@@ -391,17 +391,12 @@ https://stream1.freetv.fun/cd6f4bea2a92dcf1d32bf40fa33c43a9fcd4e86ecb5359f6b9f4f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="",S Sport 2
 https://stream1.freetv.fun/da89059bf1f4177821df2ccd254234c93bd482ed9245a01477c0deb14daad177.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="",ID: beIN Sports 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295289
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="",ID: beIN Sports 3
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306458
-
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="",TSN1 
-https://tvpass.org/live/tsn1/hd
+
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="",TSN2
-https://tvpass.org/live/tsn2/hd/
+
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="",TSN3
-https://tvpass.org/live/tsn3/hd/
+
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="",TSN4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="",TSN5
