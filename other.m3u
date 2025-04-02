@@ -623,6 +623,10 @@ https://7pal.short.gy/astross3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png" group-title="",Astro 爱奇艺
 http://103.211.103.30:8880/live/D12m4383/60388774/1715.ts
 
+#EXTINF:-1 tvg-id="TTV.tw" tvg-name="TTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/512px-TTV_2nd_logo.svg.png" group-title="",台视
+http://61.224.91.219:21111/tw.php?mode=0&q=FHD&content_type=channel&id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="nowBaoguSuperstars.hk" tvg-name="now Baogu Superstars" tvg-logo="https://i.imgur.com/d2atGOi.png" group-title="",now爆谷星影台
+http://61.224.91.219:21119/live.m3u8?token=d6EzU3OrU&c=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AuiVcyh.png" group-title="",CHC动作电影
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",緯來體育
