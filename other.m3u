@@ -608,13 +608,6 @@ https://stream1.freetv.fun/hbo-family-11.ctv
 https://stream1.freetv.fun/hbo-hits-3.ctv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZY69JcR.png" group-title="",好莱坞电影
 https://stream1.freetv.fun/hao-lai-wu-dian-ying-1.ctv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="",HBO Signature
-http://103.211.103.30:8880/live/D12m4383/60388774/3121.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="",CINEMAX EAST
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="TTV.tw" tvg-name="TTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/512px-TTV_2nd_logo.svg.png" group-title="",台视
 http://61.224.91.219:21111/tw.php?mode=0&q=FHD&content_type=channel&id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="nowBaoguSuperstars.hk" tvg-name="now Baogu Superstars" tvg-logo="https://i.imgur.com/d2atGOi.png" group-title="",now爆谷星影台
@@ -623,6 +616,12 @@ http://61.224.91.219:21119/live.m3u8?token=d6EzU3OrU&c=1
 http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/512px-HBO_Signature_%282014%29.svg.png" group-title="",HBO Signature
+http://103.211.103.30:8880/live/D12m4383/60388774/3121.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="",CINEMAX EAST
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台
 http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
@@ -660,8 +659,10 @@ http://122.117.71.103:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="",東森電影
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-
-
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/HOYTV.png" group-title="",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="Fox Soul" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/FoxSoul.png" group-title="",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC2.png" group-title="",BBC EARTH 
 http://108.181.21.27:27347/livehttpplay?channel_id=20044
