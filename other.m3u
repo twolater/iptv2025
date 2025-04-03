@@ -555,13 +555,20 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fwTP9PS.png" group-title="",Astro 欢喜台
 http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="",ViuTV Six
 http://110.235.82.60:8000/bysid/96
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/736QREy.png" group-title="",Pac-12 
+http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-name="CBS Sports Network USA" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="",CBS SPORTS NETWORK
+http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="",ESPN
+http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us" tvg-name="ESPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="",ESPN NEWS
+http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="",ELTA愛爾達體育1
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
