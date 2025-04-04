@@ -256,7 +256,16 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="",Star Sports 1 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5En7pOI.png" group-title="",Star Sports 2 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dbp2Mig.png" group-title="",Star Sports 3 SD
+http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="",Star Sports Select 1
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="",Star Sports Select 2
+http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
@@ -283,6 +292,8 @@ https://fl5.moveonjoy.com/MTV_2/index.m3u8
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="",Trace Urban（backup）
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vvxz6KX.png" group-title="",Trace Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="",NickMusic (United States)
