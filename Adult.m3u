@@ -3,9 +3,9 @@ https://epg.pw/xmltv/epg_TW.xml
 
 #EXTINF:-1 tvg-id="BananaTV.tw" tvg-name="Banana TV" tvg-logo="https://ia601706.us.archive.org/21/items/4_20230201_20230201_1628/%E9%A6%99%E8%95%89%E5%8F%B0.png" group-title="Adult",香蕉台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 tvg-id="AmazingTV.tw" tvg-name="Amazing TV" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E9%A9%9A%E8%B1%94%E5%8F%B0.png" group-title="Adult",#驚艷台
+#EXTINF:-1 tvg-id="AmazingTV.tw" tvg-name="Amazing TV" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E9%A9%9A%E8%B1%94%E5%8F%B0.png" group-title="Adult",驚豔成人電影台
 http://125.227.210.55:8156/VideoInput/play.ts
-#EXTINF:-1 tvg-id="PandoraPerfectHD.tw" tvg-name="Pandora Perfect HD" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E6%BD%98%E6%9C%B5%E6%8B%89%E7%8E%A9%E7%BE%8E%E5%8F%B0.png" group-title="Adult",潘多拉完美臺
+#EXTINF:-1 tvg-id="PandoraPerfectHD.tw" tvg-name="Pandora Perfect HD" tvg-logo="https://ia801706.us.archive.org/21/items/4_20230201_20230201_1628/%E6%BD%98%E6%9C%B5%E6%8B%89%E7%8E%A9%E7%BE%8E%E5%8F%B0.png" group-title="Adult",潘朵啦高畫質玩美台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 #EXTINF:-1 tvg-id="SonseeTV1.tw" tvg-name="Sonsee TV 1" tvg-logo="https://ia600602.us.archive.org/1/items/1_20230201_20230201_1610/%E6%9D%BE%E8%A6%961%E5%8F%B0.png" group-title="Adult",松視1台
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
