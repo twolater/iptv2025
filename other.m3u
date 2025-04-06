@@ -212,6 +212,8 @@ http://p1.cvtv.xyz/f1?token=live
 http://p1.cvtv.xyz/bun?token=live
 #EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png" group-title="",Sky Sport Tennis DE
 http://p1.cvtv.xyz/tennis?token=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="",SKY CINEMA PREMIERE
+http://wanicelife.com:8880/live/D12m4260/28853258/28935.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 1 
 http://5startv.xyz:8080/Carolyns/Tampalady/117457
