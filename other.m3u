@@ -152,15 +152,15 @@ https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist_4300k.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
-http://wanicelife.com:8880/live/D12m2770/52277683/2950.m3u8
+http://wanicelife.com:8880/live/D12m3957/33390196/2950.ts
 #EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="",BBC Two UK
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53650
+http://103.211.103.30:8880/live/D12m4383/60388774/2949.ts
 #EXTINF:-1  tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-three.png" group-title="",BBC Three UK
 http://iqtvplus.com/GYIJY8ZIAM/GZF6HT7YWR/4887
 #EXTINF:-1  tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-four.png" group-title="",BBC Four UK
-http://iqtvplus.com/GYIJY8ZIAM/GZF6HT7YWR/4886
+http://103.211.103.30:8880/live/D12m4383/60388774/2947.ts
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
-http://supersonictv.live:8080/roelle0923/roelle0923/12195
+https://hanoiiptv.short.gy/HaNoiIPTV-BBC_News
 
 
 #EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="",BBC First
