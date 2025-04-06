@@ -6,7 +6,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.tildacdn.com/tild3533-6234-4330-a439-623438663437/-/resize/880x/-/format/webp/_40.png" group-title="",HomeTV 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="",FRANCE 2 
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165198
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="",FRANCE 3 
@@ -148,8 +149,11 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="GritXtra.us" tvg-name="" tvg-logo="https://www.grittv.com/static/media/gritextra-logo.761a2d9adf0845c119f0.png" group-title="",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Best thriller tv 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
 
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
 http://wanicelife.com:8880/live/D12m3957/33390196/2950.ts
@@ -531,6 +535,10 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",纬来体育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
+http://110.235.82.60:8000/bysid/99
+
+
 #EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live025_pc.png" group-title="",MTVLiveHD音樂頻道
 http://103.251.89.243:50007/4gtv-live025/index.m3u8
 #EXTINF:-1 tvg-id="4gtv-live080" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live080_pc.png" group-title="",ROCKEntertainment
@@ -658,8 +666,6 @@ http://209.141.54.128:50007/litv-longturn13/index.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FJoPnTb.png" group-title="",Classic Cinema
 https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Best thriller tv 
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="",ELTA愛爾達體育1
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
