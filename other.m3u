@@ -64,7 +64,8 @@ http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165209
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/1165210
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
-http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+http://cdn.163189.xyz/live/fct4k/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
 http://supersonictv.live:8080/roelle0923/roelle0923/84710
@@ -75,8 +76,8 @@ http://5startv.xyz:8080/Carolyns/Tampalady/121460
 
 
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="",Al Jazeera(English)
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC News Asia Pacific 
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC News 
@@ -101,6 +102,10 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/1200px-Global_News.svg.png" ,Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="",NBC News NOW (USA)
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
 #EXTINF:-1 tvg-id="ViceNews.us" tvg-logo="https://i.imgur.com/QWPJQnr.png" group-title="",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" ,Reuters
@@ -165,6 +170,12 @@ http://iqtvplus.com/GYIJY8ZIAM/GZF6HT7YWR/4887
 http://103.211.103.30:8880/live/D12m4383/60388774/2947.ts
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
 https://hanoiiptv.short.gy/HaNoiIPTV-BBC_News
+#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One
+http://p1.cvtv.xyz:81/bbc1?token=live
+#EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="",BBC Two
+http://p1.cvtv.xyz:81/bbc2?token=live
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 
 #EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="",BBC First
@@ -178,7 +189,7 @@ http://supersonictv.live:8080/roelle0923/roelle0923/22043
 
 
 #EXTINF:-1 tvg-id="ITV1CentralHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="",ITV1
-https://a1xs.vip/1000011
+http://p1.cvtv.xyz/itv1?token=live
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="",ITV2
 http://supersonictv.live:8080/SLIM23/SARASOTA14/12254
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="",ITV3
@@ -197,7 +208,10 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
 http://p1.cvtv.xyz/f1?token=live
-
+#EXTINF:-1 tvg-id="SkySportBundesliga.de" tvg-name="Sky Sport Bundesliga" tvg-logo="https://i.imgur.com/UXtjFtd.png" group-title="",Sky Sport Bundesliga DE
+http://p1.cvtv.xyz/bun?token=live
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png" group-title="",Sky Sport Tennis DE
+http://p1.cvtv.xyz/tennis?token=live
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 1 
 http://5startv.xyz:8080/Carolyns/Tampalady/117457
@@ -373,6 +387,20 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="",TNT Sports 1
+http://p1.cvtv.xyz/tnt1?token=live
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="",TNT Sports 2 4Mbps for 4G
+http://p1.cvtv.xyz/tnt2?token=live
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="",TNT Sports 3 4Mbps for 4G
+http://p1.cvtv.xyz/tnt3?token=live
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="",TNT Sports 4 4Mbps for 4G
+http://p1.cvtv.xyz/tnt4?token=live
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="",TNT Sports 5 4Mbps for 4G
+http://p1.cvtv.xyz/tnt5?token=live
+
+
+
+
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="",RTHK TV 31 (港台電視31) 
 http://198.16.100.186:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="",RTHK TV 32 (港台電視32) 
@@ -397,7 +425,8 @@ https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi3.png" group-title="",TDM Sports
 https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="",鳳凰中文
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="",鳳凰資訊
@@ -707,6 +736,8 @@ http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",緯來體育
 http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="",鳳凰衛視資訊台
+http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="",龍華电影
 http://108.181.21.27:27347/livehttpplay?channel_id=10129
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="",龍華洋片
