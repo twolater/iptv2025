@@ -334,15 +334,15 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="",TNT Sports 1
 http://p1.cvtv.xyz/tnt1?token=live
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="",TNT Sports 2 4Mbps for 4G
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="",TNT Sports 2 
 http://p1.cvtv.xyz/tnt2?token=live
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="",TNT Sports 3 4Mbps for 4G
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="",TNT Sports 3 
 http://p1.cvtv.xyz/tnt3?token=live
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="",TNT Sports 4 4Mbps for 4G
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="",TNT Sports 4 
 http://p1.cvtv.xyz/tnt4?token=live
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="",TNT Sports 5 4Mbps for 4G
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="",TNT Sports 5 
 http://p1.cvtv.xyz/tnt5?token=live
 
 
@@ -513,7 +513,22 @@ http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
 http://110.235.82.60:8000/bysid/99
-
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="",ViuTV Six
+http://a.ru8.dpdns.org/now/096/master.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
+http://a.ru8.dpdns.org/now/099/master.m3u8
+#EXTINF:-1 tvg-id="nowChineseDramaChannel.hk" tvg-name="now Chinese Drama Channel" tvg-logo="https://i.imgur.com/yNPdhWu.png" group-title="",now華劇台
+http://a.ru8.dpdns.org/now/105/master.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
+http://a.ru8.dpdns.org/now/200/master.m3u8
+#EXTINF:-1 tvg-id="nowDirect.hk" tvg-name="now Direct" tvg-logo="https://i.imgur.com/3oXyHvg.png" group-title="",now直播台
+http://a.ru8.dpdns.org/now/331/master.m3u8
+#EXTINF:-1 tvg-id="nowNews.hk" tvg-name="now News" tvg-logo="https://i.imgur.com/m6tWo9p.png" group-title="",now新聞台
+http://a.ru8.dpdns.org/now/332/master.m3u8
+#EXTINF:-1 tvg-id="nowBusinessNewsChannel.hk" tvg-name="now Business News Channel" tvg-logo="https://i.imgur.com/9tEbBRl.png" group-title="",now財經台
+http://a.ru8.dpdns.org/now/333/master.m3u8
+#EXTINF:-1 tvg-id="nowSportsPrime.hk" tvg-name="now Sports Prime" tvg-logo="https://i.imgur.com/pwAhAda.png" group-title="",now Sports Prime
+http://a.ru8.dpdns.org/now/630/master.m3u8
 
 #EXTINF:-1 tvg-id="4gtv-live025" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live025_pc.png" group-title="",MTVLiveHD音樂頻道
 http://103.251.89.243:50007/4gtv-live025/index.m3u8
@@ -620,23 +635,8 @@ http://209.141.54.128:50007/litv-longturn02/index.m3u8
 #EXTINF:-1 tvg-id="4gtv-4gtv070" tvg-name="愛爾達娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-4gtv070_pc.png" group-title="",愛爾達娛樂台
 http://209.141.54.128:50007/4gtv-4gtv070/index.m3u8
 
-http://209.141.54.128:50007/litv-longturn21/index.m3u8
-#EXTINF:-1,tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="",博斯魅力台
-http://209.141.54.128:50007/litv-longturn04/index.m3u8
-#EXTINF:-1,tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.v1.mk/logo/博斯高球台.png" group-title="",博斯高球台
-http://209.141.54.128:50007/litv-longturn05/index.m3u8
-#EXTINF:-1,tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.v1.mk/logo/博斯高球二台.png" group-title="",博斯高球二台
-http://209.141.54.128:50007/litv-longturn06/index.m3u8
-#EXTINF:-1,tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://epg.v1.mk/logo/博斯运动一台.png" group-title="",博斯運動一台
-http://209.141.54.128:50007/litv-longturn07/index.m3u8
-#EXTINF:-1,tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.v1.mk/logo/博斯运动二台.png" group-title="",博斯運動二台
-http://209.141.54.128:50007/litv-longturn08/index.m3u8
-#EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.v1.mk/logo/博斯网球台.png" group-title="",博斯網球台
-http://209.141.54.128:50007/litv-longturn09/index.m3u8
-#EXTINF:-1,tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://epg.v1.mk/logo/博斯无限台.png" group-title="",博斯無限台
-http://209.141.54.128:50007/litv-longturn10/index.m3u8
-#EXTINF:-1,tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://epg.v1.mk/logo/博斯无限二台.png" group-title="",博斯無限二台
-http://209.141.54.128:50007/litv-longturn13/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
@@ -694,6 +694,14 @@ http://108.181.21.27:27347/livehttpplay?channel_id=20108
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png" group-title="",壹新闻
 http://108.181.21.27:27347/livehttpplay?channel_id=20028
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",凤凰电影台
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
+http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TVB亚洲武侠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="",天映经典
@@ -737,6 +745,18 @@ http://125.227.210.55:8162/VideoInput/play.ts
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",纬来体育
+http://live4play.uk/livehttpplay?channel_id=20120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",纬来电影
+http://live4play.uk/livehttpplay?channel_id=20199
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",纬来日本
+http://live4play.uk/livehttpplay?channel_id=20303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",采昌综合
+http://live4play.uk/livehttpplay?channel_id=20141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",靖天电影
+http://live4play.uk/livehttpplay?channel_id=12037
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia600606.us.archive.org/29/items/20230101_20230101_1717/%E5%B9%B4%E4%BB%A3%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="",年代新聞
 http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="",民視新聞台
@@ -757,7 +777,34 @@ http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=
 https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8?md5=zj6BU-bm0X_RgGTLF11yBg&expires=1741892158
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超4k-e频陆
+p3p://108.181.32.169:36521/64d74cf7000556f0223ed6366e5f689a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超1-en频陆
+p3p://108.181.32.169:36521/64d74cb1000cc276223dc6ac654a2299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超4k-1粤陆
+p3p://108.181.32.169:36521/64d74ca40007202e223d927267473868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超粤语频陆
+p3p://108.181.32.169:36521/64d74c1600083555223b68096e79387e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频陆
+p3p://108.181.32.169:36521/64b8f92b000089e02be334b114c32320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nowplus频陆
+p3p://108.181.32.169:36521/64b8f962000df4a32be40ef90d9f4afd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频陆
+p3p://108.181.32.169:36521/6410211d00048968985b4de16d6e5b6a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频壹
+p3p://108.181.32.169:36521/643361f20007b9a9220fabfc3001244e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频贰
+p3p://108.181.32.169:36521/643362090006b031221005903b883d07
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频叁
+p3p://108.181.32.169:36521/6433621d000d9c3522105573223958e1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频肆
+p3p://108.181.32.169:36521/6437999f00025f983289265f38ef3722
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频伍
+p3p://108.181.32.169:36521/643799aa000e7bac3289547135e05a80
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频陆
+p3p://108.181.32.169:36521/643799bb00044f193289943e2e5f6ac1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频柒
+p3p://108.181.32.169:36521/643799ca000a29a43289d0542d57262c
 
 
 
