@@ -243,6 +243,7 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/13118.m3u8
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="",beIN SPORTS XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="",Fox Sports 1 (United States)
 http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
 
@@ -285,6 +286,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="",Trace Sport Stars
+http://95.67.12.82:9067/
 
 
 
