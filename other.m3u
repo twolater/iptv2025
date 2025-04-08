@@ -3,17 +3,20 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="",FashionTV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Loupe4K.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png" group-title="",LOUPE 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumb.tildacdn.com/tild3533-6234-4330-a439-623438663437/-/resize/880x/-/format/webp/_40.png" group-title="",HomeTV 4K
 http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png" group-title="",5Sport 4K
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/16019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="",Eleven Sports 1 4K
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
-http://supersonictv.live:8080/roelle0923/roelle0923/84710
 #EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
 http://5startv.xyz:8080/Carolyns/Tampalady/121747
 #EXTINF:-1 tvg-id="arteHD.fr" tvg-name="FR: ARTE FHD" tvg-logo="https://i.imgur.com/qrEJ8Ku.png" group-title="",FR: ARTE FHD
@@ -119,8 +122,11 @@ https://hanoiiptv.short.gy/HaNoiIPTV-BBC_News
 http://p1.cvtv.xyz:81/bbc1?token=live
 #EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="",BBC Two
 http://p1.cvtv.xyz:81/bbc2?token=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="",BBC CBeebies
+http://wanicelife.com:8880/live/D12m4258/28853258/2947.ts
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 
 
 #EXTINF:-1  tvg-name="" tvg-id="BBC.First.HD.ca" tvg-logo="https://tvprofil.com/img/kanali-logo/BBC_First_logo.png?1728549533" group-title="",BBC First
@@ -239,6 +245,8 @@ http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" group-title="",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="",Deep House District
@@ -294,14 +302,8 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truemoviehit.m3u8
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilm1.m3u8
 #EXTINF:-1 group-title="" tvg-id="True Film 2HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilm2.m3u8
-#EXTINF:-1 group-title="" tvg-id="True AsianMore" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",HBO THAILAND
+#EXTINF:-1 group-title="" tvg-id="True AsianMore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO THAILAND
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8
-#EXTINF:-1 group-title="" tvg-id="Crime+Investigation.th" tvg-name="Crime+Investigation" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp" group-title="", True Crime+Investigation
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" ,TRUE WARNER TV
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8
-
 
 #EXTINF:-1 group-title="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True SportHD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -515,12 +517,8 @@ http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 http://110.235.82.60:8000/bysid/99
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="",ViuTV Six
 http://a.ru8.dpdns.org/now/096/master.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
-http://a.ru8.dpdns.org/now/099/master.m3u8
 #EXTINF:-1 tvg-id="nowChineseDramaChannel.hk" tvg-name="now Chinese Drama Channel" tvg-logo="https://i.imgur.com/yNPdhWu.png" group-title="",now華劇台
 http://a.ru8.dpdns.org/now/105/master.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/280px-ViuTV_logo.svg.png" group-title="",ViuTV 
-http://a.ru8.dpdns.org/now/200/master.m3u8
 #EXTINF:-1 tvg-id="nowDirect.hk" tvg-name="now Direct" tvg-logo="https://i.imgur.com/3oXyHvg.png" group-title="",now直播台
 http://a.ru8.dpdns.org/now/331/master.m3u8
 #EXTINF:-1 tvg-id="nowNews.hk" tvg-name="now News" tvg-logo="https://i.imgur.com/m6tWo9p.png" group-title="",now新聞台
@@ -647,8 +645,6 @@ https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="",ELTA愛爾達體育2
 http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",纬来体育
-http://108.181.21.27:27347/livehttpplay?channel_id=20120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="",五星体育
@@ -745,15 +741,15 @@ http://125.227.210.55:8162/VideoInput/play.ts
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",纬来体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="",緯來體育
 http://live4play.uk/livehttpplay?channel_id=20120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",纬来电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland2.png" group-title="",緯來電影
 http://live4play.uk/livehttpplay?channel_id=20199
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",纬来日本
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="",緯來日本
 http://live4play.uk/livehttpplay?channel_id=20303
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",采昌综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/caichang.png" group-title="",采昌综合
 http://live4play.uk/livehttpplay?channel_id=20141
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",靖天电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV9.png" group-title="",靖天电影
 http://live4play.uk/livehttpplay?channel_id=12037
 
 
@@ -775,41 +771,4 @@ http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LStime.png" group-title="",龍祥電影
 https://www.insurancegogogo.com/4987/lungxiangtime_twn/playlist.m3u8?md5=zj6BU-bm0X_RgGTLF11yBg&expires=1741892158
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超4k-e频陆
-p3p://108.181.32.169:36521/64d74cf7000556f0223ed6366e5f689a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超1-en频陆
-p3p://108.181.32.169:36521/64d74cb1000cc276223dc6ac654a2299
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超4k-1粤陆
-p3p://108.181.32.169:36521/64d74ca40007202e223d927267473868
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",英超粤语频陆
-p3p://108.181.32.169:36521/64d74c1600083555223b68096e79387e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频陆
-p3p://108.181.32.169:36521/64b8f92b000089e02be334b114c32320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nowplus频陆
-p3p://108.181.32.169:36521/64b8f962000df4a32be40ef90d9f4afd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频陆
-p3p://108.181.32.169:36521/6410211d00048968985b4de16d6e5b6a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频壹
-p3p://108.181.32.169:36521/643361f20007b9a9220fabfc3001244e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频贰
-p3p://108.181.32.169:36521/643362090006b031221005903b883d07
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频叁
-p3p://108.181.32.169:36521/6433621d000d9c3522105573223958e1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频肆
-p3p://108.181.32.169:36521/6437999f00025f983289265f38ef3722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频伍
-p3p://108.181.32.169:36521/643799aa000e7bac3289547135e05a80
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频陆
-p3p://108.181.32.169:36521/643799bb00044f193289943e2e5f6ac1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Now体育频柒
-p3p://108.181.32.169:36521/643799ca000a29a43289d0542d57262c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",beInsports壹陆
-p3p://108.181.32.169:36521/64311e93000ba7aa1938ba7e1e4b3642
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",beInsports贰陆
-p3p://108.181.32.169:36521/64311ea0000526211938eb9c63bc100c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",beInsports叁陆
-p3p://108.181.32.169:36521/64311eac00023ce5193919bd41e13e59
-
 
