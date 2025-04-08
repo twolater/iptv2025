@@ -16,9 +16,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/20068/index.m3u8
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",DE ARTE HD
+#EXTINF:-1 tvg-id="arte.de" tvg-name="arte Deutschland" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="",arte (Germany)
 http://5startv.xyz:8080/Carolyns/Tampalady/121747
-#EXTINF:-1 tvg-id="arteHD.fr" tvg-name="FR: ARTE FHD" tvg-logo="https://i.imgur.com/qrEJ8Ku.png" group-title="",FR: ARTE FHD
+#EXTINF:-1 tvg-id="arteHD.fr" tvg-name="ARTE FHD" tvg-logo="https://i.imgur.com/qrEJ8Ku.png" group-title="",arte (France)
 http://5startv.xyz:8080/Carolyns/Tampalady/121460
 
 
@@ -85,7 +85,7 @@ https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/f2DbhWhjIcrDBVW31S
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/uIlo9p3YEzySTyHoxeL8sB3Qv3sTVqMmE0wyOiyhRqnxTm3hWFWBK7a6WrIXfuqqCxUglt9TbKv6p0yAX6MU8DBXyiS2eWZboY9utpnOT7xNglF62kywlFJfkV-6YtfFxbzyIcYbOnK1hjmpCvDZ9KweyE2KdTA6q8nTP8oyr9Q/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/LaLiga_123.png" group-title="",LaLiga 123 FHD
 http://5startv.xyz:8080/Carolyns/Tampalady/67392
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
