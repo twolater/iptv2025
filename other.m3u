@@ -96,16 +96,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="",National Geographic Wild East
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title=“”,National Geographic
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HoeaQJC.png" group-title=“”,Nat Geo Wild East
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title=“”,Discovery Science
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title=“”,HISTORY
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title=“”,Cinemax  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
 
 
 
@@ -118,8 +108,7 @@ http://p1.cvtv.xyz:81/bbc2?token=live
 http://wanicelife.com:8880/live/D12m4258/28853258/2947.ts
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
 https://hanoiiptv.short.gy/HaNoiIPTV-BBC_News
-#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53649
+
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
 http://wanicelife.com:8880/live/D12m3957/33390196/2950.ts
 #EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="",BBC Two UK
