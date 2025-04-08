@@ -65,9 +65,9 @@ https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-a
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="",VICE TV
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="",TV5 Monde Asia (Asie) 
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="",TV5 Monde Asia (France) 
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="",Rai News 24
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="",Rai News 24 (Italy) 
 https://streamcdne3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="",RED BULL TV 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -81,10 +81,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title="",Milan Channel
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/f2DbhWhjIcrDBVW31SbKQL0SUJZZynpAuy53rQm9vr0SPFJWBtYCyyCOdhbJMbuU4KqM2Mwt9UPTMlJOLNZSUj_1ZYQHlj9H4v8v6QrARDc7RCcUzp4oPZQ0-LDyLTLe9-IgLpaNd_BdQLvLY_ONpEDKfCT8g5BfAiRcfHu2cu0/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png" group-title="",Movistar LaLiga
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/uIlo9p3YEzySTyHoxeL8sB3Qv3sTVqMmE0wyOiyhRqnxTm3hWFWBK7a6WrIXfuqqCxUglt9TbKv6p0yAX6MU8DBXyiS2eWZboY9utpnOT7xNglF62kywlFJfkV-6YtfFxbzyIcYbOnK1hjmpCvDZ9KweyE2KdTA6q8nTP8oyr9Q/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga 123 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/LaLiga_123.png" group-title="",LaLiga 123 FHD
-http://5startv.xyz:8080/Carolyns/Tampalady/67392
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a27208c4-021a-45e8-a250-11f8ffab36c8-width200-quality90.jpeg" group-title="",FIFA+ 
@@ -100,27 +96,30 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="",National Geographic Wild East
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-name="AXS TV NOW" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="",AXS TV NOW
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="GritXtra.us" tvg-name="" tvg-logo="https://www.grittv.com/static/media/gritextra-logo.761a2d9adf0845c119f0.png" group-title="",Grit Xtra
-https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist_4300k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/twolater/iptv2025/refs/heads/main/12054.webp" group-title="",Best thriller tv 
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title=“”,National Geographic
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HoeaQJC.png" group-title=“”,Nat Geo Wild East
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title=“”,Discovery Science
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title=“”,HISTORY
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title=“”,Cinemax  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
+
+
 
 
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One
 http://p1.cvtv.xyz:81/bbc1?token=live
 #EXTINF:-1  tvg-id="BBCTwo.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="",BBC Two
 http://p1.cvtv.xyz:81/bbc2?token=live
-#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title=“”,BBC Three
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/kRxS2rGDYYH6xR6a0EsOlF1jyOtCgxcSBVBq1lVEMC4amaWdkQOoSQeaKqtAfIpy8AFhYxvcmIawe7hJ8MDI8ifjhsNPmXz-sXklTijnd3wi4ES_gI9chU9z0fH1PPte0n45BxYkH_Sfn7fX3NR1YsXy7ACxN76ym1hYIzWTmHA/hls/index.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title=“”,BBC Four
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/vYrv44xWXzj8yuJl_P73lP86lsnT54R-bGniO0-7aethckSnYgtpDjnIvfWTxXOKPN9-OC7iBYLlWNKc0qzv3_OqsF_09hbDADl0NAEDtFsfNyVcABA09YiYqVB7kLC3VJhMsqxaeqsiWPfRjxzrphRTnIzBeNz2tH7jIknl73A/hls/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1200px-CBeebies_2023.svg.png" group-title="",BBC CBeebies
 http://wanicelife.com:8880/live/D12m4258/28853258/2947.ts
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="",BBC World News
 https://hanoiiptv.short.gy/HaNoiIPTV-BBC_News
-
+#EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53649
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="",BBC One UK
 http://wanicelife.com:8880/live/D12m3957/33390196/2950.ts
 #EXTINF:-1  tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="",BBC Two UK
@@ -138,6 +137,12 @@ http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="",BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-name="AXS TV NOW" tvg-logo="https://i.imgur.com/lYa793q.png" group-title="",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="GritXtra.us" tvg-name="" tvg-logo="https://www.grittv.com/static/media/gritextra-logo.761a2d9adf0845c119f0.png" group-title="",Grit Xtra
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/twolater/iptv2025/refs/heads/main/12054.webp" group-title="",Best thriller tv 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 #EXTINF:-1  tvg-name="" tvg-id="Adult.Swim.-.East.HD.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="",Adult Swim
 http://supersonictv.live:8080/roelle0923/roelle0923/22043
 
@@ -155,8 +160,11 @@ http://5startv.xyz:8080/Carolyns/Tampalady/20807
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="",T2 Tennis Channel 
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="",T2 Tennis Channel 
+https://g.dracwoundshop.eu.org/1/stream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="",SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
 http://p1.cvtv.xyz/f1?token=live
@@ -166,6 +174,26 @@ http://p1.cvtv.xyz/bun?token=live
 http://p1.cvtv.xyz/tennis?token=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="",SKY CINEMA PREMIERE
 http://wanicelife.com:8880/live/D12m4260/28853258/28935.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title=“”,Sky Cinema Scifi & Horror 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2207.png" group-title=“”,SKY Crime Thriller
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title=“”,Sky Sports News
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title=“”,Sky Sports Mix  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3839.png" group-title=“”,Sky Sports Arena
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png" group-title=“”,Sky Sports Golf  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title=“”,Sky Sports Main Event
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title=“”,Sky Sports F1  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png" group-title=“”,Sky SP Racing  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/76842
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier League 1 [Events Only]" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="UK Football- Premier League (Events Only)",Now Premier League 1 
 http://5startv.xyz:8080/Carolyns/Tampalady/117457
@@ -277,8 +305,6 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="",Channel 7 
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="",MONO 29 
-https://edge2-bkk.3bb.co.th:9443/Mono29LivexDRM/mono29DRM_1080EN.stream/manifest.mpd
 
 
 
