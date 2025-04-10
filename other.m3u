@@ -102,6 +102,14 @@ http://wanicelife.com:8880/live/D12m4258/28853258/2947.ts
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="" ,BBC World News
 https://hanoiiptv.short.gy/HaNoiIPTV-BBC_News
 
+#EXTINF:-1  tvg-name="Channel 4" tvg-id="Channel4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="",Channel 4
+http://p1.cvtv.xyz:81/C4uk?token=live
+
+#EXTINF:-1  tvg-name="Das Erste" tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="",Das Erste
+http://p1.cvtv.xyz:81/ard?token=live
+#EXTINF:-1  tvg-name="ZDF" tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="",ZDF
+http://p1.cvtv.xyz:81/zdf?token=live
+
 #EXTINF:-1  tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-one.png" group-title="" ,BBC One UK
 http://wanicelife.com:8880/live/D12m3957/33390196/2950.ts
 #EXTINF:-1  tvg-id="BBCTwo.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-two.png" group-title="" ,BBC Two UK
