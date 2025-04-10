@@ -127,11 +127,11 @@ http://user.scalecdn.co:8080/live/26725074/92867131/698467.ts
 https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/z4rLIVW.png" group-title="",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title=“”,BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="" ,BBC Lifestyle
 http://wanicelife.com:8880/live/6mc210004/48576998/71120.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="",BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Top-Gear-Logo.png" group-title=“”,BBC Top gear
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Top-Gear-Logo.png" group-title="",BBC Top gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
 
@@ -154,7 +154,7 @@ https://g.dracwoundshop.eu.org/1/stream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="" ,SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0F08B6CD-FB0A-4FF0-8792-DE81A8AAF14D/3-1x1.png" group-title=“” ,World of Freesports (Germany)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0F08B6CD-FB0A-4FF0-8792-DE81A8AAF14D/3-1x1.png" group-title= ,World of Freesports (Germany)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" ,Sky Sport F1
@@ -167,21 +167,21 @@ http://p1.cvtv.xyz/tennis?token=live
 http://wanicelife.com:8880/live/D12m4260/28853258/28935.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title=“” ,Sportdigital
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NDbWxqF.png" group-title="" ,Sportdigital
 http://p1.cvtv.xyz/spd?token=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title=“” ,Canal+ Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="" ,Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title=“” ,Canal+ Premier League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="" ,Canal+ Premier League
 http://p1.cvtv.xyz/cpepl?token=live
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title=“” ,HBO Zone
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="" ,HBO Zone
 http://wanicelife.com:8880/live/D12m3957/33390196/3120.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title=“” ,HBO Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/512px-HBO_Comedy_%282014%29.svg.png" group-title="" ,HBO Comedy
 http://wanicelife.com:8880/live/D12m3957/33390196/3123.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title=“” ,HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="" ,HBO 2
 http://wanicelife.com:8880/live/D12m4260/28853258/3113.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title=“” ,Food Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="" ,Food Network
 rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -275,7 +275,7 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title=“”,Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title= ,Vevo Pop
 https://jmp2.uk/sam-GBBC19000017V.m3u8
@@ -326,7 +326,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="",Channel 7 
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 tvg-id="MONO29.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title=“”,MONO 29
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title=“” ,MONO 29
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/1200px-Thairath_TV32.svg.png" ,Thairath
 http://p1.cvtv.xyz:81/t32?token=live
@@ -365,19 +365,19 @@ http://p1.cvtv.xyz/tnt4?token=live
 #EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="",TNT Sports 5 
 http://p1.cvtv.xyz/tnt5?token=live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png" group-title=“” ,DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1000px-DAZN_1_Logo.svg.png" group-title=,DAZN 1
 http://p1.cvtv.xyz/DZ1?token=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1200px-DAZN_2.svg.png" group-title=“”,DAZN 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1200px-DAZN_2.svg.png" group-title=,DAZN 
 http://p1.cvtv.xyz/DZ2?token=live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title=“” ,SPOTV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HaoVsm5.png"  ,SPOTV 1
 http://p1.cvtv.xyz/spo1?token=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" group-title=“”,SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/41/2/spo-tv-2-logo-png_seeklogo-410832.png" ,SPOTV 2
 http://p1.cvtv.xyz/spo2?token=live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png" group-title=" " ,S Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png" ,S Sport 1
 https://stream1.freetv.fun/cd6f4bea2a92dcf1d32bf40fa33c43a9fcd4e86ecb5359f6b9f4f2efd2391315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png" group-title=" " ,S Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/S_Sport_Plus_Logo.png" ,S Sport 2
 https://stream1.freetv.fun/da89059bf1f4177821df2ccd254234c93bd482ed9245a01477c0deb14daad177.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" ,TSN1 
@@ -418,7 +418,7 @@ https://globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="",翡翠台 4K
 http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dn721602.ca.archive.org/0/items/20230122_20230122_1641/%E7%BF%A1%E7%BF%A0%E5%8F%B0%20%E6%96%B0%E5%8A%A0%E5%9D%A1.png" group-title=“” ,TVB Jade
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dn721602.ca.archive.org/0/items/20230122_20230122_1641/%E7%BF%A1%E7%BF%A0%E5%8F%B0%20%E6%96%B0%E5%8A%A0%E5%9D%A1.png"  ,TVB Jade
 http://p1.cvtv.xyz:81/Jade?token=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" group-title="" ,鳳凰中文
 http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
