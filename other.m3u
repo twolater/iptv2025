@@ -201,7 +201,7 @@ http://supersonictv.live:8080/roelle0923/roelle0923/22043
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Classic_Arts_Showcase.png" group-title="" ,Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superyacht.tv/wp-content/uploads/2022/02/Superyacht-TV.png" group-title=“” ,Superyacht TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superyacht.tv/wp-content/uploads/2022/02/Superyacht-TV.png" group-title="" ,Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="" ,National Geographic Wild East
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
@@ -326,7 +326,7 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="",Channel 7 
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 tvg-id="MONO29.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title=“” ,MONO 29
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="" ,MONO 29
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/1200px-Thairath_TV32.svg.png" ,Thairath
 http://p1.cvtv.xyz:81/t32?token=live
